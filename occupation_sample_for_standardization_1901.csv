@@ -1,0 +1,1001 @@
+Year,County,Sex,Occupation_String,Occode,HISCO_x,Count,HISCO_y,Occode_Desc,HISCO_Desc,complexity
+1901,KENT,Male,retired coast guard officer,24,58430,2,58340,MEN OF THE NAVY (INC COASTGUARDS),Other Military Ranks,
+1901,ESSEX,Male,steam engine maker  fitter,263,84130,8,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,DURHAM,Male,rivetter on marine work,158,98200,1,98290,MERCHANT SERVICE; SEAMAN--ENGINEERING DEPARTMENT,Other Ships’ Engine-Room Ratings,complex
+1901,SUSSEX,Female,furriers assistant,505,79200,1,76130,SKINNERS FURRIERS,Hide Flesher and Dehairer (Hand),
+1901,HAMPSHIRE,Male,pig dealer cattle,733,45120,1,45120,CATTLE SHEEP ETC SALESMEN,Wholesale Trade Salesperson,
+1901,SUFFOLK,Male,carpenter,409,95410,1,95410,"CARPENTER, JOINER","Carpenter, General",simple
+1901,LEICESTERSHIRE,Male,apprentice to blindmaking,769,99150,1,99999,APPRENTICES,Unspecified worktitle or several titles,
+1901,DURHAM,Male,apprentice iron founder joiner,349,87530,1,87450,SHIPWRIGHTS - METAL SHIPS,Metal Shipwright,
+1901,LANCASHIRE,Male,letter press printer compositer,536,92110,1,92110,PRINTERS SO DESCRIBED,"Printer, General",
+1901,SUFFOLK,Male,retired farm servant,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,LANCASHIRE,Female,hoze maker in rubber works,489,90100,1,90100,INDIA RUBBER AND GUTTA PERCHA MAKERS,"Rubber Product Maker, Specialisation Unknown",
+1901,SUFFOLK,Male,framers son,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",moderate
+1901,LONDON,Male,professor of music violin,53,13100,1,13100,UNIVERSITY TEACHERS,"University and Higher Education Teacher, Subject Unknown",
+1901,SURREY,Male,journalist  barrister,56,15100,1,15915,AUTHORS EDITORS JOURNALISTS AND CREATIVE ADVERTISING WORKERS,Journalist,
+1901,LANCASHIRE,Male,turncock,724,87120,1,96950,WATERWORKS SERVICE,Water Treatment Plant Operator (Waterworks),simple
+1901,CHESHIRE,Female,cotton reacher in,550,75200,1,75415,COTTON & COTTON GOODS MANUFACTURE WINDING WARPING PROCESSES,Beam Warper,moderate
+1901,SURREY,Female,miniature painter,70,16130,3,16130,PAINTERS (ARTISTS),"Painter, Artist",
+1901,CHESHIRE,Female,servant domestic housemaid,84,54020,4,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,KENT,Male,artist porter,70,16130,1,16130,PAINTERS (ARTISTS),"Painter, Artist",
+1901,KENT,Female,actress,77,17300,40,17320,ACTORS,Actor,simple
+1901,SURREY,Male,carriers son,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,MONMOUTHSHIRE,Male,gen labour g w r,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,YORKSHIRE WEST RIDING,Male,cloth finisher woollen,623,75600,102,75600,WOOL WOOLLEN GOODS FINISHERS,"Bleachers, Dyers and Textile Product Finishers",
+1901,WARWICKSHIRE,Female,dairy farmer,173,61110,5,61110,"FARMER, GRAZIER",General Farmer,
+1901,SUFFOLK,Male,tailor and draper travelling,655,41010,1,41025,CLOTHIERS & OUTFITTERS (IE DEALERS AND MERCHANTS),Working Proprietor (Wholesale or Retail Trade),complex
+1901,GLOUCESTERSHIRE,Male,letterpress printer apprentice,533,92110,1,92230,PRINTING MACHINE MINDERS,Rotary Pressman,
+1901,CARNARVONSHIRE,Female,assisting on farm,181,62110,3,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,KENT,Female,paper overlooker,519,73300,2,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,WARWICKSHIRE,Male,apprentice to watch marker,769,99150,1,99999,APPRENTICES,Unspecified worktitle or several titles,
+1901,DERBYSHIRE,Male,ostler  tradesmans groom,139,62460,1,62460,"HORSEKEEPER, GROOM, STABLEMAN (NOT DOMESTIC)",Horse Worker,
+1901,GLOUCESTERSHIRE,Male,errand boy hatters,171,37040,2,58940,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Watchman,
+1901,SUSSEX,Male,bootmakers son,663,80100,1,80110,SHOE AND BOOT MAKERS (AND REPAIRERS),"Shoemaker, General",
+1901,YORKSHIRE WEST RIDING,Male,lecturer in geology,53,13100,1,13100,UNIVERSITY TEACHERS,"University and Higher Education Teacher, Subject Unknown",moderate
+1901,DERBYSHIRE,Male,paper finisher,519,73300,20,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,KENT,Unknown,iron turner,265,84130,2,84190,RAILWAY - SIGNAL SWITCH TURNTABLE FITTERS,Other Machinery Fitters and Machine Assemblers,
+1901,ESSEX,Male,day man on farm,181,62110,3,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,WARWICKSHIRE,Male,shoe rivet machine minder,306,83890,1,83990,BOLT NUT RIVET AND SCREW MANUFACTURE,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,SUSSEX,Female,singing teacher of,76,17120,1,17135,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Orchestra and Band Conductor,
+1901,STAFFORDSHIRE,Male,carter on farm,180,62460,2,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,YORKSHIRE WEST RIDING,Male,coal miner stone man below,196,71120,2,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",
+1901,LINCOLNSHIRE,Male,codman,436,97490,1,99910,ROAD LABOURERS,Labourer,simple
+1901,GLAMORGANSHIRE,Female,tin plater worker,321,87340,1,87340,TINPLATE GOODS MANUFACTURE,Tinsmith,moderate
+1901,LONDON,Female,civil servant clerk g p o saving bank,1,38010,1,38000,"POST OFFICE - TELEGRAPHISTS, TELEPHONE OPERATORS","Telephone or Telegraph Operator, Specialisation Unknown",
+1901,SUSSEX,Male,general farm labourer past age,765,99130,1,99910,GENERAL LABOURERS,Labourer,
+1901,YORKSHIRE WEST RIDING,Female,clerk gas engineers office,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",complex
+1901,BERKSHIRE,Female,millinery apprentice,650,79320,4,79310,MILLINERS (NOT RETAIL - WORKSHOP/FACTORY),"Hat Maker, General",
+1901,MIDDLESEX,Unknown,slater,416,95320,1,95320,SLATERS & TILERS,Slate and Tile Roofer,
+1901,SOMERSET,Male,printer jobbing compositor,531,92120,1,92120,HAND COMPOSITORS (DEFAULT),Hand Compositor,
+1901,LEICESTERSHIRE,Male,groom  yardman on farm,180,62460,1,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,CORNWALL,Female,retired living on own means,999,-1,4,0,,,
+1901,LANCASHIRE,Male,wheelwright cart maker,366,81400,1,81925,WHEELWRIGHT,Cartwright,
+1901,NORTHAMPTONSHIRE,Male,skiver in shoe shop,666,41010,1,41025,FOOTWEAR DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,FLINTSHIRE,Male,hay cutter,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,HERTFORDSHIRE,Male,railway bridge inspector,125,24100,2,39960,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Clerk,
+1901,CUMBERLAND,Male,coal mining student,196,71120,1,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",
+1901,YORKSHIRE WEST RIDING,Male,groce digger,231,71130,1,71190,FOSSIL COPROLITE DIGGERS,Other Miners and Quarrymen,moderate
+1901,YORKSHIRE WEST RIDING,Male,bed cleaner,110,55230,1,55230,WINDOW CLEANERS,Window Cleaner,
+1901,SURREY,Male,horse driver on farm,180,62460,7,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,LONDON,Male,tobacconist assist to father,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,CARNARVONSHIRE,Female,servant,84,54020,39,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,MIDDLESEX,Female,children support her,778,99999,1,99999,PRIVATE MEANS,Unspecified worktitle or several titles,
+1901,CHESHIRE,Male,apprentice provision trade,680,41010,1,41025,PROVISION DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,STAFFORDSHIRE,Male,farmers land son,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,KENT,Male,hay binder on farm,181,62110,1,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,LANCASHIRE,Female,caretaker sunday school,97,55100,1,55190,"CARETAKER, OFFICE KEEPERS (NOT GOVERNMENT) - SCHOOL CLEANERS,CARETAKERS",Other Building Caretakers,
+1901,LANCASHIRE,Male,carrier out at coal yard,170,97190,1,97190,"COALHEAVER; COAL--PORTER, LABOURER",Other Dockers and Freight Handlers,
+1901,LONDON,Female,general servant daily domestic,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,HERTFORDSHIRE,Male,clerk solrs,41,12900,1,12210,OTHERS CONNECTED WITH LAW,Judge,moderate
+1901,YORKSHIRE EAST RIDING,Male,manager military dept,120,21182,1,21110,BANKERS,General Manager,
+1901,YORKSHIRE WEST RIDING,Male,chemical furniceman,480,1100,1,1190,MANUFACTURING CHEMIST,Other Chemists,
+1901,BRECKNOCKSHIRE,Male,grocer  groom  gardner not domestic,85,98520,1,98620,DOMESTIC--COACHMAN,Animal-Drawn Vehicle Driver (Road),
+1901,YORKSHIRE WEST RIDING,Female,harnish weaver,510,80320,3,80320,SADDLE HARNESS AND WHIP MAKERS,Saddler and Harness Maker,
+1901,MONMOUTHSHIRE,Female,green grocer shop,698,41010,1,41030,GREENGROCERS FRUITERERS POTATO DEALERS,Working Proprietor (Retail Trade),
+1901,GLAMORGANSHIRE,Male,hair dresser assistant,668,57020,2,57025,HAIRDRESSERS,Women's or Men's Hairdresser,
+1901,DEVON,Male,engine fitter chargeman,263,84130,1,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,LANCASHIRE,Female,clerk confectioner warehouse,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,KENT,Male,time keeper on farm,179,62420,1,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,
+1901,LONDON,Female,nectie maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,YORKSHIRE WEST RIDING,Male,apprentice  saddler,510,80320,1,80320,SADDLE HARNESS AND WHIP MAKERS,Saddler and Harness Maker,
+1901,CUMBERLAND,Male,whitesmith,343,87390,4,87310,WHITESMITHS,"Sheet-Metal Worker, General",simple
+1901,LANCASHIRE,Male,clerk waste works,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",moderate
+1901,WARWICKSHIRE,Male,builders shop foreman,407,95910,1,99910,BUILDER'S LABOURER,Labourer,
+1901,LONDON,Male,removal,146,97190,1,97190,OTHERS CONNECTED WITH CARRIAGE/CARTAGE (NOT MINE),Other Dockers and Freight Handlers,simple
+1901,YORKSHIRE WEST RIDING,Male,markett gardener laborer,185,62710,1,62740,OTHER GARDENER (NOT DOMESTIC),Gardener,
+1901,NORTHUMBERLAND,Unknown,gypsies,760,45220,1,45220,HAWKERS HUCKSTERS COSTERS,Street Vendor,simple
+1901,LEICESTERSHIRE,Female,potter spout maker,467,89200,1,89210,"EARTHENWARE, CHINA, PORCELAIN--MANUFACTURE","Potter, General",
+1901,HAMPSHIRE,Female,retired inn keeper,713,51020,3,51050,"INNKEEPERS, HOTEL KEEPERS AND PUBLICANS","Working Proprietor  (Cafe, Bar and Snack Bar)",
+1901,LANCASHIRE,Female,carder in cotton mill,548,75100,56,75135,COTTON & COTTON GOODS MANUFACTURE CARD BLOWING ROOM PROCESSES,Fibre Carder,complex
+1901,LONDON,Male,shop assistant butcher,682,77310,7,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",
+1901,BRECKNOCKSHIRE,Female,musician travelling,76,17120,1,17145,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Singer,
+1901,YORKSHIRE WEST RIDING,Male,apprentice to hosier,662,75500,1,41025,HOSIERS HABERDASHERS,Working Proprietor (Wholesale or Retail Trade),
+1901,HAMPSHIRE,Female,working house keeper,84,54020,4,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,NOTTINGHAMSHIRE,Male,apprentice colliery fitter,264,84130,1,84910,COLLIERY FITTERS,"Machinery Mechanic, General",
+1901,STAFFORDSHIRE,Female,stocking maker wool,592,75500,1,75535,HOSIERY MANUFACTURE,Hosiery Knitter (Hand),
+1901,HAMPSHIRE,Male,apprentice outfitting,655,41010,1,41025,CLOTHIERS & OUTFITTERS (IE DEALERS AND MERCHANTS),Working Proprietor (Wholesale or Retail Trade),
+1901,SOMERSET,Male,labourer ordinary at road,436,97490,1,99910,ROAD LABOURERS,Labourer,
+1901,KENT,Male,engineersturner,265,84130,1,84190,RAILWAY - SIGNAL SWITCH TURNTABLE FITTERS,Other Machinery Fitters and Machine Assemblers,simple
+1901,DEVON,Male,scenic artist,70,16130,4,16130,PAINTERS (ARTISTS),"Painter, Artist",
+1901,HAMPSHIRE,Female,teacher ladies school,52,13200,2,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",
+1901,NORTHAMPTONSHIRE,Male,ordinary agric lab,181,62110,9,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,WILTSHIRE,Male,ledger clerk,119,39310,4,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,MIDDLESEX,Male,syphon cleaner mineral water factory,699,77840,1,77890,GINGER BEER MINERAL WATER MANUFACTURE OTHERS,"Other Brewers, Wine and Beverage Makers",complex
+1901,WORCESTERSHIRE,Male,tube drawer from furnace,243,72400,1,72740,TUBE MANUFACTURE,Seamless Pipe and Tube Drawer,
+1901,WILTSHIRE,Male,farm labourers,181,62110,2,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,YORKSHIRE WEST RIDING,Male,secretary at dyeworks,329,83890,1,83990,IRON CLASP BUCKLE HINGE MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,SUSSEX,Female,husband away from home woolwich,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,STAFFORDSHIRE,Male,odd work bracket iron,259,72400,1,72500,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED","Metal Moulder or Coremaker, Specialisation Unknown",complex
+1901,CHESHIRE,Male,g p o postman,3,37030,1,37030,POSTMEN,Postman,
+1901,LANCASHIRE,Male,shop keeper glass  china,473,41010,1,41025,"EARTHENWARE, CHINA, GLASS--DEALER",Working Proprietor (Wholesale or Retail Trade),
+1901,MIDDLESEX,Male,apprentic art metal worker,339,83890,1,83990,OTHER METAL WORKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,CARMARTHENSHIRE,Male,retired sea captain,157,4250,3,98100,MERCHANT SERVICE; SEAMAN-NAVIGATING DEPARTMENT,"Ships’ Deck Rating, Barge Crew or Boatman, Specialisation Unknown",moderate
+1901,YORKSHIRE NORTH RIDING,Male,ticket collector railway,126,33210,1,36020,"RAILWAY TICKET-EXAMINER, COLLECTOR, CHECKER",Railway Passenger Train Guard,
+1901,LANCASHIRE,Female,pedlar,760,45220,98,45220,HAWKERS HUCKSTERS COSTERS,Street Vendor,simple
+1901,LONDON,Male,retired assurance clerk,123,39310,1,39350,INSURANCE OFFICIALS CLERKS,Insurance Clerk,
+1901,LANCASHIRE,Male,waiter  carver domestic,445,81250,1,81945,WOOD CARVER,Wood Carver,
+1901,NORFOLK,Male,whitesmith,343,87390,79,87340,WHITESMITHS,Tinsmith,simple
+1901,LANCASHIRE,Male,iron mongers apprentis,334,72000,1,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,STAFFORDSHIRE,Female,general servant cook,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,GLAMORGANSHIRE,Male,assistant litho room in western mail printing works,286,85100,1,85320,OTHER ELECTRICAL APPARATUS MAKERS,Electrical Equipment Assembler,complex
+1901,MERIONETHSHIRE,Male,cowman farm,179,62420,1,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,
+1901,LANCASHIRE,Female,sweet worker,694,77400,6,77660,JAM PRESERVE SWEET MAKERS,Confectionary Makers,moderate
+1901,LONDON,Unknown,carriage repairer,365,81300,1,81920,"COACH, CARRIAGE--MAKER",CoachBody Builder,
+1901,LONDON,Female,pouchmaker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,simple
+1901,YORKSHIRE EAST RIDING,Male,railway carterman,429,21290,1,21240,RAILWAY CONTRACTORS,Contractor,
+1901,HUNTINGDONSHIRE,Female,retired draper  grocer living on own means,778,99999,1,99999,PRIVATE MEANS,Unspecified worktitle or several titles,
+1901,LONDON,Male,timekeeper paper works,519,73300,1,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,LANCASHIRE,Male,labourer granary stores,765,99130,1,99910,GENERAL LABOURERS,Labourer,
+1901,SUFFOLK,Male,optician  umbrella maker,387,84290,1,84235,PHILOSOPHICAL INSTRUMENT MAKERS (SCIENTIFIC AND OPTICAL),Optical Instrument Maker and Repairer,
+1901,CHESHIRE,Male,grey cloth agent,112,43010,18,43200,"BROKERS, FACTORS, COMMERCIAL AGENTS (NOT - MINE, QUARRY, INSURANCE)",Commercial Travellers and Manufacturers Agents,
+1901,DERBYSHIRE,Male,apprentice electrian engineer,363,84400,1,84320,MOTOR CAR CHASSIS MAKER: MOTOR CAR MECHANIC,Automobile Mechanic,
+1901,LANCASHIRE,Male,copper manfr clerk,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",moderate
+1901,RUTLAND,Female,grocers assistant,697,41010,1,41030,GROCERS TEA DEALERS,Working Proprietor (Retail Trade),
+1901,ESSEX,Male,cow keeper with father,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,SUSSEX,Male,servant indoor,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,WARWICKSHIRE,Male,labourer  iron works,259,72400,1,72420,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED",Metal Pourer,
+1901,DURHAM,Unknown,spirit merchant wife,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,CHESHIRE,Male,firebrick maker,464,89300,1,89242,"BRICK, PLAIN TILE, TERRA-COTTA--MAKER",Brick and Tile Moulder (Hand or Machine),
+1901,LONDON,Male,carmens boy,772,99999,2,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,
+1901,WORCESTERSHIRE,Male,fry pan maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,YORKSHIRE WEST RIDING,Male,tinman brazier retired,772,99999,1,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,
+1901,CARMARTHENSHIRE,Male,gipsy basket maker,447,94290,2,94250,WILLOW CANE AND RUSH WORKERS,Wicker Furniture Maker,
+1901,NORTHAMPTONSHIRE,Male,outside porter,171,37040,1,58940,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Watchman,
+1901,YORKSHIRE EAST RIDING,Female,houseworker,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,simple
+1901,YORKSHIRE NORTH RIDING,Male,high way labourer,436,97490,1,99910,ROAD LABOURERS,Labourer,
+1901,ESSEX,Male,auction surveyor  c,66,3010,1,3010,"LAND, HOUSE, SHIP--SURVEYOR","Surveyor, General",moderate
+1901,CORNWALL,Female,retired cook living on means,778,99999,1,99999,PRIVATE MEANS,Unspecified worktitle or several titles,
+1901,YORKSHIRE WEST RIDING,Female,machinists flags  banners,771,83400,1,79550,MACHINISTS MACHINE WORKERS UNDEFINED,Sewing-Machine Operator,
+1901,DENBIGHSHIRE,Male,carpenter sawyer,409,95410,1,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,BUCKINGHAMSHIRE,Male,iron moulders apprentice,259,72400,1,72500,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED","Metal Moulder or Coremaker, Specialisation Unknown",
+1901,WILTSHIRE,Male,railway engine boiler tuber,127,98300,1,98320,RAILWAY ENGINE--DRIVER STOKER CLEANER,Railway Engine Driver,complex
+1901,STAFFORDSHIRE,Male,chemists asst,482,41010,1,6710,CHEMISTS DRUGGISTS,Pharmacist,
+1901,GLOUCESTERSHIRE,Male,coal miner hewer,196,71120,618,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",
+1901,WORCESTERSHIRE,Male,district manager w h smith  son,999,-1,1,0,,,
+1901,CAMBRIDGESHIRE,Male,retired postmaster,3,37030,1,37030,POSTMEN,Postman,
+1901,YORKSHIRE WEST RIDING,Male,wood trimers tool handles apprentice,455,81230,1,81230,WOOD TURNER,Wood Turner,
+1901,CHESHIRE,Male,retired butler,84,54020,9,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,HERTFORDSHIRE,Male,aglc labr horsekeeper,151,98900,1,54090,OMNIBUS SERVICE --OTHERS,Other Maids and Related Housekeeping Service Workers,moderate
+1901,LINCOLNSHIRE,Female,organist,76,17120,8,17120,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Composer,simple
+1901,NORTHUMBERLAND,Male,labourer at steam navvy,132,98490,10,99910,RAILWAY LABOURER (NOT RAILWAY CONTRACTOR'S LABOURER),Labourer,
+1901,NORFOLK,Male,shopkeepers son,795,99999,1,99999,NO SPECIFIED OCCUPATION - CHILDREN,Unspecified worktitle or several titles,
+1901,DEVON,Male,miller  farmer son,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,NORFOLK,Male,hair dresser apprentice,668,57020,1,57025,HAIRDRESSERS,Women's or Men's Hairdresser,
+1901,ESSEX,Female,soap maker,487,74730,5,74220,SOAP BOILERS AND MAKERS,Cooker (Chemical and Related Processes),
+1901,WARWICKSHIRE,Male,farm labourer waggoner,180,62460,2,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,LANCASHIRE,Female,enamler,331,83890,1,83990,OTHER IRON GOODS MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,KENT,Male,farmer  paint clerk,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,LONDON,Female,civil servant savings bk,8,20200,1,20210,SENIOR OFFIALS AND OTHERS IN EAST INDIA SERVICE,Government Administrator,
+1901,YORKSHIRE NORTH RIDING,Female,late dom servant,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LINCOLNSHIRE,Male,locomotive boiler smith,275,87350,1,87350,BOILER MAKERS,Boilersmith,moderate
+1901,SURREY,Male,theatre bill inspetr,732,59990,1,59990,"SANDWICHMEN, BILL DISTRIBUTORS",Other Service Workers Not Elsewhere Classified,
+1901,ESSEX,Male,retired,772,99999,41,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,simple
+1901,YORKSHIRE WEST RIDING,Male,railway loco firer,127,98300,1,98330,RAILWAY ENGINE--DRIVER STOKER CLEANER,Railway SteamEngine Fireman,
+1901,GLOUCESTERSHIRE,Male,railway ganger foreman,429,21290,1,21240,RAILWAY CONTRACTORS,Contractor,moderate
+1901,LONDON,Female,clerk s p c children,2,37020,1,37090,OTHER POST OFFICE OFFICERS AND CLERKS,Other Mail Distribution Clerks,
+1901,LONDON,Male,ships officer,157,4250,7,98100,MERCHANT SERVICE; SEAMAN-NAVIGATING DEPARTMENT,"Ships’ Deck Rating, Barge Crew or Boatman, Specialisation Unknown",
+1901,WILTSHIRE,Male,army militia captn rd bn line regt,21,58430,1,58340,MILITIA & YEOMANRY MEN,Other Military Ranks,
+1901,WORCESTERSHIRE,Unknown,tinman,321,87340,1,87340,TINPLATE GOODS MANUFACTURE,Tinsmith,
+1901,LANCASHIRE,Male,watch makers clerk lodger,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,MIDDLESEX,Male,machinist royal small arms fac,302,74200,1,83920,ORDNANCE MANUFACTURE,Gunsmith,complex
+1901,YORKSHIRE WEST RIDING,Female,woollens winder,550,75200,1,75415,COTTON & COTTON GOODS MANUFACTURE WINDING WARPING PROCESSES,Beam Warper,
+1901,YORKSHIRE EAST RIDING,Male,schoolmaster,52,13200,112,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",simple
+1901,YORKSHIRE WEST RIDING,Female,type writer  shorthand learner,57,15230,1,15930,REPORTERS AND SHORTHAND WRITERS,Reporter,
+1901,GLOUCESTERSHIRE,Male,clerk rates office,2,37020,1,37020,OTHER POST OFFICE OFFICERS AND CLERKS,Mail Sorting Clerk,
+1901,DEVON,Male,hired writer h m dockyard  rubber stamp maker cycle agent etc,362,84300,1,84975,"BICYCLE MAKERS, BICYCLE REPAIRERS",Pedal-Cycle Repairer,
+1901,LANCASHIRE,Male,iron foundry pattern maker apprentice,253,83230,1,83240,PATTERNMAKERS (ENGINE AND MACHINE MAKING (UNDEFINED - NOT TEXTILE),Metal Pattern Maker (Foundry),
+1901,WARWICKSHIRE,Unknown,iron turner cycle works,362,84300,1,84190,"BICYCLE MAKERS, BICYCLE REPAIRERS",Other Machinery Fitters and Machine Assemblers,complex
+1901,SHROPSHIRE,Male,sand quary man,239,41015,1,41020,SAND FLINT CLAY GRAVEL DEALERS,Working Proprietor (Wholesale Trade),
+1901,CARNARVONSHIRE,Female,artist landscape,70,16130,1,16130,PAINTERS (ARTISTS),"Painter, Artist",
+1901,WARWICKSHIRE,Female,paper carter in paper mill,519,73300,1,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,BERKSHIRE,Male,ironmongers carman,141,98550,3,98620,CARMEN CARRIERS CARTERS AND DRAYMEN,Animal-Drawn Vehicle Driver (Road),
+1901,YORKSHIRE EAST RIDING,Female,sr of mercy assist teacher art,76,17120,1,17120,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Composer,
+1901,LONDON,Male,retired assistant commissioner northern india salt revenue,702,61220,1,62260,SUGAR PLANTER GROWER,Sugar-Cane Farm Worker,
+1901,YORKSHIRE EAST RIDING,Male,stoker,766,96900,8,96910,"ENGINE DRIVERS, STOKERS, FIREMEN (NOT RAILWAY, MARINE, OR AGRICULTURAL)","Stationary Engine Operator, General",simple
+1901,DENBIGHSHIRE,Male,shepherd on farm,178,62430,10,62430,SHEPHERD,Sheep Farm Worker,
+1901,MERIONETHSHIRE,Female,s  c tel post office,2,37020,1,33170,OTHER POST OFFICE OFFICERS AND CLERKS,Post Office Counter Clerk,
+1901,LANCASHIRE,Male,cattleboy on farm,179,62420,5,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,
+1901,SUFFOLK,Male,labourer general farm,181,62110,2,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,MERIONETHSHIRE,Male,fish monger,685,41010,1,77940,FISHMONGERS,Fish Butcher,
+1901,YORKSHIRE EAST RIDING,Male,furniture packer  labourer,438,81190,1,81190,FURNITURE AND FITTINGS - OTHERS,Other Cabinetmakers,
+1901,HAMPSHIRE,Unknown,bombardier r m a,20,58430,1,58330,SOLDIERS AND NON-COMMISSIONED OFFICERS,Non-Commissioned Officer,
+1901,ESSEX,Male,nd officer continental boat,14,31090,1,20210,"MUNICIPAL, PARISH, AND  LOCAL OR COUNTY SHERIFFS AND CLERKS",Government Administrator,complex
+1901,BERKSHIRE,Male,tailors machinist,654,79190,4,79190,OTHERS CLOTHING MANUFACTURERS,Other Tailors and Dressmakers,
+1901,LANCASHIRE,Male,machine maker turner  apprentice,289,83830,1,83220,TOOLMAKERS (AGRICULTURAL MACHINE AND IMPLEMENT MAKING),Tool and Die Maker,
+1901,WARWICKSHIRE,Male,ashphelter,435,95150,4,95160,PAVIORS,Paviour,simple
+1901,LANCASHIRE,Male,watch keyless maker  fish poultry dealer shopkeeper,404,41010,1,41025,WEIGHING AND MEASURING MACHINE DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LONDON,Male,civil serv assistant clerk board of trade,6,20200,1,20210,OTHER CIVIL SERVICE OFFICERS AND CLERKS,Government Administrator,complex
+1901,LEICESTERSHIRE,Female,hosiery mending,592,75500,3,75535,HOSIERY MANUFACTURE,Hosiery Knitter (Hand),
+1901,ESSEX,Male,pensioned letter sorter g p o,2,37020,1,37090,OTHER POST OFFICE OFFICERS AND CLERKS,Other Mail Distribution Clerks,
+1901,BEDFORDSHIRE,Male,tinware manufacturer,246,72200,2,72200,TINPLATE  MANUFACTURE,"Metal RollingMill Worker, Specialisation Unknown",
+1901,LEICESTERSHIRE,Male,yarn warehouse stock keeper,632,41010,1,41020,YARN MERCHANT,Working Proprietor (Wholesale Trade),
+1901,DORSET,Female,seamptress,659,79590,1,79510,SHIRTMAKERS AND SEAMSTRESSES,"Hand and Machine Sewer, General",simple
+1901,NOTTINGHAMSHIRE,Male,time keeper for railway contractor,429,21290,1,21240,RAILWAY CONTRACTORS,Contractor,
+1901,LINCOLNSHIRE,Male,farmers son employed on farm,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,LONDON,Male,clerk to ashestor company,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,LONDON,Male,collecttor,173,61110,1,61110,"FARMER, GRAZIER",General Farmer,
+1901,SURREY,Female,cowkeeper,179,62420,1,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,simple
+1901,WARWICKSHIRE,Male,gun barrel improver,301,83600,1,83920,GUNSMITHS,Gunsmith,
+1901,ESSEX,Male,at laundry,105,56000,1,56010,"LAUNDRY WORKER: WASHER, IRONER, MANGLER, ETC. (NOT DOMESTIC)","Launderer,  General",moderate
+1901,NORFOLK,Male,watchmakers apprentice,386,84220,6,84220,WATCH AND CLOCK MAKERS,Watch and Clock Assembler,
+1901,YORKSHIRE EAST RIDING,Male,aerates water manufacturer,699,77840,1,77890,GINGER BEER MINERAL WATER MANUFACTURE OTHERS,"Other Brewers, Wine and Beverage Makers",
+1901,LANCASHIRE,Male,office boy paper mill,519,73300,2,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,YORKSHIRE WEST RIDING,Female,assistant of chemist,482,41010,1,6710,CHEMISTS DRUGGISTS,Pharmacist,
+1901,CUMBERLAND,Male,confectioners labourer,690,77690,1,77610,BISCUIT CAKE BREAD MAKERS,"Baker, General",
+1901,LONDON,Male,platen machine minder printer,533,92110,2,92250,PRINTING MACHINE MINDERS,Direct Lithographic Pressman,complex
+1901,DERBYSHIRE,Male,vocalist,76,17120,5,17120,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Composer,simple
+1901,STAFFORDSHIRE,Male,machine minder electric,533,92110,1,92230,PRINTING MACHINE MINDERS,Rotary Pressman,
+1901,YORKSHIRE WEST RIDING,Male,dresser iron foundry,259,72400,1,72420,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED",Metal Pourer,
+1901,HAMPSHIRE,Male,retired coachbuilder,365,81300,3,87370,"COACH, CARRIAGE--MAKER",Vehicle Sheet-Metal Worker,
+1901,YORKSHIRE WEST RIDING,Male,printers machine minder,533,92110,15,92240,PRINTING MACHINE MINDERS,Offset Pressman,
+1901,LANCASHIRE,Male,fender maker,309,83890,2,83990,STOVE GRATE RANGE FIRE-IRON MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,LONDON,Male,engineer st olaves infirmary,443,84130,1,87310,REFRIGERATOR MAKER,"Sheet-Metal Worker, General",
+1901,SHROPSHIRE,Male,land agnest clerk,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,PEMBROKESHIRE,Male,pupil,785,99999,3,99999,OTHER STUDENTS,Unspecified worktitle or several titles,simple
+1901,YORKSHIRE NORTH RIDING,Unknown,soldier out of employ,20,58430,1,58340,SOLDIERS AND NON-COMMISSIONED OFFICERS,Other Military Ranks,complex
+1901,HEREFORDSHIRE,Male,sub postman,3,37030,1,37030,POSTMEN,Postman,
+1901,GLAMORGANSHIRE,Male,agr lbr,181,62110,2,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,LONDON,Male,miner railway,211,71120,3,71105,MINERS IN OTHER OR UNDEFINED MINERALS,"Miner, General",
+1901,LONDON,Female,mantle sewer,316,83890,7,83990,GAS FITTINGS MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,SHROPSHIRE,Male,bakers apprentice,691,41010,21,41025,BAKERS (DEALERS),Working Proprietor (Wholesale or Retail Trade),
+1901,LONDON,Male,carriers cerk,146,97190,1,97190,OTHERS CONNECTED WITH CARRIAGE/CARTAGE (NOT MINE),Other Dockers and Freight Handlers,
+1901,DEVON,Female,navvy,432,97490,1,97415,RAILWAY LABOURERS NAVVIES (CONTRACTORS LABOURERS) DEFAULT,Excavator (Hand Tools),simple
+1901,CHESHIRE,Male,apprentice book binder,542,92600,1,92625,BOOKBINDERS,Bookbinder (Hand or Machine),
+1901,DERBYSHIRE,Male,managing director of public company  furnishing manufacturer,118,21192,1,21000,OFFICERS OF COMMERCIAL AND OTHERS COMPANIES,"Manager, Specialisation Unknown",
+1901,LANCASHIRE,Female,portress,171,37040,13,37040,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Messenger,simple
+1901,KENT,Male,manufacturer  director of reeves artists colours,280,84190,1,84190,AGRICULTURAL MACHINE AND IMPLEMENT MAKERS,Other Machinery Fitters and Machine Assemblers,
+1901,SUFFOLK,Male,farmers son  poultry farming,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,WESTMORLAND,Male,servant,84,54020,2,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LONDON,Female,theatricals,79,16110,4,54090,"ART, MUSIC, THEATRE, CINEMA û SERVICE ETC",Other Maids and Related Housekeeping Service Workers,simple
+1901,WORCESTERSHIRE,Male,accountts clerk,41,12900,1,12210,OTHERS CONNECTED WITH LAW,Judge,
+1901,CARMARTHENSHIRE,Male,mab amaethwr,173,61110,1,61110,"FARMER, GRAZIER",General Farmer,
+1901,HAMPSHIRE,Male,game keeper on farm,88,64990,1,64990,GAMEKEEPER,"Other Fishermen, Hunters and Related Workers",
+1901,YORKSHIRE WEST RIDING,Female,cloth mill cotton knotter,552,75990,1,75990,COTTON & COTTON GOODS MANUFACTURE OTHER PROCESSES,"Other Spinners, Weavers, Knitters, Dyers and Related Workers",
+1901,ESSEX,Male,suet dealer grocer,697,41010,1,41030,GROCERS TEA DEALERS,Working Proprietor (Retail Trade),
+1901,CARNARVONSHIRE,Male,retired journalist,56,15100,1,15920,AUTHORS EDITORS JOURNALISTS AND CREATIVE ADVERTISING WORKERS,"Editor, Newspapers and Periodicals",
+1901,LANCASHIRE,Male,mouldsman steel smelting works,244,72100,1,72000,"STEEL--MANUFACTURE, SMELTING, FOUNDING","Metal Processor, Specialisation Unknown",
+1901,LEICESTERSHIRE,Female,wrapper up hosiery warehouse,643,41010,1,97145,MANCHESTER GOODS WAREHOUSEMEN,Warehouse Porter,
+1901,YORKSHIRE EAST RIDING,Male,herbalist,49,6500,8,7990,SUBORDINATE MEDICAL SERVICE (UNQUALIFIED) AND MEDICAL SERVICES - GENERAL,"Other Medical, Dental, Veterinary and Related Workers",simple
+1901,LANCASHIRE,Male,brick machine man,533,92110,1,92240,PRINTING MACHINE MINDERS,Offset Pressman,
+1901,HAMPSHIRE,Female,wood carpenter,409,95410,1,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,LONDON,Male,ladies tailors trimmer,654,79190,1,79190,OTHERS CLOTHING MANUFACTURERS,Other Tailors and Dressmakers,
+1901,MONMOUTHSHIRE,Male,labourer road man,436,97490,1,99910,ROAD LABOURERS,Labourer,
+1901,CHESHIRE,Male,merchant cheese,111,41010,1,41025,MERCHANT -- COMMODITY UNDEFINED,Working Proprietor (Wholesale or Retail Trade),
+1901,LANCASHIRE,Male,genl labr on farm,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,LANCASHIRE,Female,general servent domtc,765,99130,2,99910,GENERAL LABOURERS,Labourer,
+1901,BERKSHIRE,Female,chapelkeeper,95,55100,1,55190,CHURCH CHAPEL CEMETERY CARETAKERS KEEPERS,Other Building Caretakers,simple
+1901,YORKSHIRE WEST RIDING,Male,city accountant leeds,115,11010,1,11010,ACCOUNTANTS,"Accountant, General",moderate
+1901,DEVON,Male,retired comissioner gold coast colony,212,71120,1,71105,GOLD MINER,"Miner, General",
+1901,LANCASHIRE,Female,watch factory labourer,583,75000,1,75000,COCOA FIBRE MANUFACTURE (VARIOUS),"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,HAMPSHIRE,Male,steam engine fitter  c,263,84130,1,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,NORTHUMBERLAND,Male,ferry boatman,162,98130,3,98190,BARGEMEN LIGHTERMEN WATERMEN (& CANAL WORKERS GENERALLY),"Other Ships' Deck Ratings, Barge Crews and Boatmen",moderate
+1901,DURHAM,Female,servant to father labourer,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,YORKSHIRE WEST RIDING,Male,butchers pork apprentice,682,77310,1,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",moderate
+1901,LEICESTERSHIRE,Male,messenger draper,4,37040,1,37040,"POST OFFICE MESSENGERS, ETC",Messenger,
+1901,BEDFORDSHIRE,Male,blockmaker,359,79920,2,79920,SAILMAKERS,"Sail, Tent and Awning Maker",simple
+1901,YORKSHIRE WEST RIDING,Male,furriers assistant,505,79200,2,76130,SKINNERS FURRIERS,Hide Flesher and Dehairer (Hand),moderate
+1901,YORKSHIRE EAST RIDING,Female,postmistress,2,37020,10,37020,OTHER POST OFFICE OFFICERS AND CLERKS,Mail Sorting Clerk,simple
+1901,SUSSEX,Male,superintendant assurance,123,39310,1,39350,INSURANCE OFFICIALS CLERKS,Insurance Clerk,
+1901,BERKSHIRE,Male,managing clerk to civil engineer,65,2200,1,2290,CIVIL ENGINEERS,Other Civil Engineers,
+1901,FLINTSHIRE,Unknown,farmer,173,61110,4,61110,"FARMER, GRAZIER",General Farmer,simple
+1901,DERBYSHIRE,Female,none,797,99999,130,99999,"NO SPECIFIED OCCUPATION - VAGRANTS, UNEMPLOYED",Unspecified worktitle or several titles,simple
+1901,YORKSHIRE EAST RIDING,Male,railway jem clerk,125,24100,1,22240,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Transport Service Inspector,moderate
+1901,LONDON,Female,artists colour box fitter,501,41010,2,41025,FLOORCLOTH AND OILCLOTH DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,YORKSHIRE WEST RIDING,Female,drawer wsted mill,552,75990,1,75990,COTTON & COTTON GOODS MANUFACTURE OTHER PROCESSES,"Other Spinners, Weavers, Knitters, Dyers and Related Workers",moderate
+1901,LANCASHIRE,Male,bobbin maker  wood turner,455,81230,1,81230,WOOD TURNER,Wood Turner,
+1901,LANCASHIRE,Female,takes in lodgers,712,51040,9,51040,LODGING AND BOARDING-HOUSE KEEPERS,Working Proprietor (Guest House),moderate
+1901,LONDON,Male,apprentice plasterer,418,95140,2,99910,PLASTERER'S LABOURER,Labourer,
+1901,LONDON,Male,jewellers vaultman,398,41010,1,41025,GOLD AND SILVERSMITHS JEWELLERS (DEALERS),Working Proprietor (Wholesale or Retail Trade),
+1901,BUCKINGHAMSHIRE,Male,articled to boro surveyor,66,3010,1,3020,"LAND, HOUSE, SHIP--SURVEYOR",Land Surveyor,
+1901,MIDDLESEX,Male,oilman  shopkeeper,498,74620,1,41030,OIL AND COLOURMEN,Working Proprietor (Retail Trade),
+1901,WORCESTERSHIRE,Female,almswoman retired cook,772,99999,3,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,
+1901,WARWICKSHIRE,Male,iron pin annealer,296,83890,1,83990,PIN MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,LONDON,Male,traveller for father,114,43090,1,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,RADNORSHIRE,Male,platelayer l  n w railway,131,97430,2,99910,"PLATELAYER, GANGER, PACKER",Labourer,
+1901,CARMARTHENSHIRE,Male,nuisance inspector,13,58900,1,20210,"MUNICIPAL, PARISH, AND OTHER LOCAL OR COUNTY OFFICERS",Government Administrator,
+1901,SUSSEX,Unknown,gate maker,454,81990,1,95490,"LATH, WOODEN FENCE, HURDLE-MAKER","Other Carpenters, Joiners and Parquetry Workers",
+1901,LONDON,Male,apprentice to jeweller,382,88020,5,88050,GOLD AND SILVERSMITHS JEWELLERS (NOT DEALERS),Goldsmith and Silversmith,
+1901,YORKSHIRE WEST RIDING,Male,teaser  fettler in woollen mill,571,75000,1,75000,WOOLLEN CLOTH MANUFACTURE UNDEFINED,"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,SOMERSET,Male,drapers asst,628,41010,1,41025,DRAPERS LINEN DRAPERS MERCERS,Working Proprietor (Wholesale or Retail Trade),
+1901,CARDIGANSHIRE,Female,post mistress,2,37020,9,37020,OTHER POST OFFICE OFFICERS AND CLERKS,Mail Sorting Clerk,
+1901,LONDON,Male,gas coy time keeper,94,64990,1,64990,"PARK, LODGE, GATE, ETC.--KEEPER (NOT GOVERNMENT)","Other Fishermen, Hunters and Related Workers",
+1901,SUFFOLK,Male,ordinary agri laborer,181,62110,5,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,ESSEX,Male,retired engine driver railway,127,98300,3,98320,RAILWAY ENGINE--DRIVER STOKER CLEANER,Railway Engine Driver,
+1901,STAFFORDSHIRE,Male,retired confectioner,692,41010,9,41025,BISCUIT CAKE DEALERS (CONFECTIONISTS),Working Proprietor (Wholesale or Retail Trade),
+1901,MIDDLESEX,Male,milk contractor,677,61260,3,62510,"COWKEEPERS, MILKSELLERS","Dairy Farm Worker, General",
+1901,WARWICKSHIRE,Female,machine hand cycle trade,362,84300,1,84975,"BICYCLE MAKERS, BICYCLE REPAIRERS",Pedal-Cycle Repairer,
+1901,MIDDLESEX,Female,house,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,WARWICKSHIRE,Male,bag maker leather,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,LONDON,Female,silverman,721,59990,1,54090,OTHER HOTEL SERVANTS,Other Maids and Related Housekeeping Service Workers,simple
+1901,STAFFORDSHIRE,Female,pressing iron washers,334,72000,2,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,WARWICKSHIRE,Male,railway foreman loco dept,429,21290,1,21240,RAILWAY CONTRACTORS,Contractor,
+1901,BUCKINGHAMSHIRE,Male,coach maker apprentice,365,81300,1,81920,"COACH, CARRIAGE--MAKER",CoachBody Builder,
+1901,NORFOLK,Male,organist,76,17120,10,17140,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Instrumentalist,simple
+1901,NORFOLK,Male,general on farm,181,62110,2,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,YORKSHIRE WEST RIDING,Male,canvasser in tea trade,643,41010,1,97145,MANCHESTER GOODS WAREHOUSEMEN,Warehouse Porter,
+1901,LANCASHIRE,Male,oven drawer at tile works,329,83890,1,83990,IRON CLASP BUCKLE HINGE MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,HAMPSHIRE,Female,army p teacher,54,13990,1,13990,SCHOOL SERVICE (PUPIL TEACHERS),Other Teachers,
+1901,GLOUCESTERSHIRE,Female,waiter in boot machine room,719,53220,1,53210,HOTEL WAITERS,"Waiter, General",complex
+1901,ESSEX,Male,general labourer sugar refny,765,99130,1,99910,GENERAL LABOURERS,Labourer,
+1901,LEICESTERSHIRE,Male,seedsman,183,61250,4,62730,"NURSERYMAN, SEEDSMAN, FLORIST",Nursery Worker,simple
+1901,LONDON,Unknown,exhib,81,59990,9,18020,BILLIARDS CRICKET AND OTHER GAMES SERVICE,Professional Sportsman,simple
+1901,LINCOLNSHIRE,Male,poutry dresser,626,75600,1,75600,FLAX LINEN FINISHERS,"Bleachers, Dyers and Textile Product Finishers",
+1901,SUFFOLK,Male,fumet maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,KENT,Male,poulterers manager,120,21182,1,21110,BANKERS,General Manager,moderate
+1901,SUFFOLK,Male,leather merchants apprentice,516,41010,1,41025,DEALERS IN LEATHER,Working Proprietor (Wholesale or Retail Trade),
+1901,LANCASHIRE,Female,dress amker,657,79130,1,79140,DRESSMAKERS,Dressmaker,
+1901,SURREY,Female,retired hospital nurse,47,7220,10,7110,HOSPITAL SICK NURSES,"Professional Nurse, General",
+1901,STAFFORDSHIRE,Male,drawer out tube trade,243,72400,2,72740,TUBE MANUFACTURE,Seamless Pipe and Tube Drawer,
+1901,BERKSHIRE,Male,soldier bricklayer,412,95120,1,95120,BRICKLAYER,Bricklayer (Construction),
+1901,LONDON,Unknown,tinker,390,84290,3,87340,TINMEN (METER MAKING),Tinsmith,
+1901,MIDDLESEX,Male,railway signal engineer,281,84190,3,84190,RAILWAY - SIGNAL SWITCH TURNTABLE MAKERS,Other Machinery Fitters and Machine Assemblers,moderate
+1901,HERTFORDSHIRE,Male,paper machine minder,519,73300,1,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,LANCASHIRE,Female,preparing bleach cloth read for packing bleach works,610,75600,1,75615,SILK BLEACHERS,Textile Bleacher,
+1901,DEVON,Female,private teacher of german,76,17120,1,17120,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Composer,
+1901,CAMBRIDGESHIRE,Male,wine merchants cellarman,716,59990,1,77890,CELLARMEN,"Other Brewers, Wine and Beverage Makers",
+1901,GLOUCESTERSHIRE,Male,clerk in hauliers  storage merchants office,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,CORNWALL,Male,farmer son horse man,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,LANCASHIRE,Male,slasher cotton mill,552,75990,7,75990,COTTON & COTTON GOODS MANUFACTURE OTHER PROCESSES,"Other Spinners, Weavers, Knitters, Dyers and Related Workers",
+1901,OXFORDSHIRE,Male,shampooer,106,57040,1,57070,BATH AND WASH-HOUSE SERVICE,Bath Attendant,simple
+1901,NORTHAMPTONSHIRE,Male,railway coach shop laborer,360,81300,1,87370,"RAILWAY--COACH, WAGON MAKER",Vehicle Sheet-Metal Worker,
+1901,YORKSHIRE WEST RIDING,Female,colour room carpets,89,58430,1,54090,"ARMY COLLEGE, CLUB--SERVICE",Other Maids and Related Housekeeping Service Workers,
+1901,YORKSHIRE WEST RIDING,Male,apprentice to engine making moulder,768,84110,1,21110,ARTISANS MECHANICS,General Manager,
+1901,ESSEX,Male,colonel late th hussars,19,58420,1,58320,ARMY OFFICERS (RETIRED),Officer,
+1901,SURREY,Male,greengrocer dealer,698,41010,1,41030,GREENGROCERS FRUITERERS POTATO DEALERS,Working Proprietor (Retail Trade),
+1901,KENT,Male,coach builder apprentice,365,81300,4,81920,"COACH, CARRIAGE--MAKER",CoachBody Builder,
+1901,LONDON,Male,labourer artyl manure works,488,74920,1,74220,MANURE MANUFACTURE BONE BOILERS,Cooker (Chemical and Related Processes),
+1901,WORCESTERSHIRE,Unknown,brazier  copper smith,268,87330,1,87330,COPPERSMITHS (VARIOUS),Coppersmith,moderate
+1901,SOMERSET,Male,tatcher,406,95330,1,95360,THATCHERS (NOT AGRICULTURE),Roof Thatcher,
+1901,LANCASHIRE,Male,colliery retired,202,21140,1,21110,"MINE - OWNER, AGENT, MANAGER",General Manager,
+1901,YORKSHIRE WEST RIDING,Male,cabinet maker in railway works,360,81300,1,87370,"RAILWAY--COACH, WAGON MAKER",Vehicle Sheet-Metal Worker,
+1901,YORKSHIRE WEST RIDING,Male,newsagent errand boy,171,37040,1,97190,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Other Dockers and Freight Handlers,
+1901,LANCASHIRE,Male,iron driller for sewing machine,279,84190,1,84190,DOMESTIC MACHINERY MAKERS,Other Machinery Fitters and Machine Assemblers,complex
+1901,SUSSEX,Female,factory,770,99200,1,99930,FACTORY LABOURERS (UNDEFINED),Factory Worker,
+1901,DURHAM,Male,shibroker,492,74990,1,74990,OTHER WORKERS IN CHEMICALS ETC,Other Chemical Processors and Related Workers,simple
+1901,LANCASHIRE,Male,domestic servant general,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,WARWICKSHIRE,Female,cycle chain examiner,307,83160,1,83990,ANCHOR & CHAIN MANUFACTURE,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",moderate
+1901,MIDDLESEX,Male,sewerage contractors stockeeper,428,21220,1,21240,CONTRACTORS: PUBLIC WORKS: SEWER DRAINAGE DOCK HARBOUR CANAL,Contractor,
+1901,ESSEX,Male,railway lamp trimmer,134,98490,1,54090,OTHER RAILWAY SERVANTS,Other Maids and Related Housekeeping Service Workers,moderate
+1901,BUCKINGHAMSHIRE,Male,farm ploughboy,180,62460,1,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,LANCASHIRE,Male,gas maker calico printworks,316,83890,1,83990,GAS FITTINGS MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,YORKSHIRE WEST RIDING,Male,gas lighting engineer,426,87130,4,87120,GASFITTER,Gas Pipe Fitter,
+1901,OXFORDSHIRE,Male,retired lieut colonel,19,58420,1,58320,ARMY OFFICERS (RETIRED),Officer,
+1901,DERBYSHIRE,Male,designer in lead apprentice,248,72000,1,72000,LEAD MANUFACTURE,"Metal Processor, Specialisation Unknown",
+1901,ESSEX,Male,railway wagon shunter,130,98430,1,98430,"POINTSMAN, LEVEL CROSSING MAN, GATEKEEPERS",Railway Signaller,
+1901,SUFFOLK,Male,c l,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,YORKSHIRE WEST RIDING,Male,warp dresser woollen trade,623,75600,1,75600,WOOL WOOLLEN GOODS FINISHERS,"Bleachers, Dyers and Textile Product Finishers",complex
+1901,GLAMORGANSHIRE,Male,steel rail worker,242,72200,2,72200,PUDDLING FURNACES; IRON AND STEEL ROLLING MILLS,"Metal RollingMill Worker, Specialisation Unknown",
+1901,LANCASHIRE,Male,fitters labourer at tram station,266,84130,1,99910,"FITTERS, TURNERS (ENGINE AND MACHINE) LABOURERS",Labourer,complex
+1901,LONDON,Male,retired captain r n  editor journal royal united service institution,24,58430,1,58340,MEN OF THE NAVY (INC COASTGUARDS),Other Military Ranks,
+1901,GLAMORGANSHIRE,Male,colliery hitcher under ground,198,71120,6,71105,COAL MINERS - OTHERS BELOW GROUND & UNDEFINED,"Miner, General",complex
+1901,SUSSEX,Male,plumber painter  glazier,425,87130,4,87105,"PLUMBER, PIPE FITTER","Plumber, General",
+1901,BEDFORDSHIRE,Female,warehouseman,168,97190,3,97145,WAREHOUSEMEN (NOT MANCHESTER GOODS),Warehouse Porter,simple
+1901,LEICESTERSHIRE,Male,rail engine stoker,127,98300,2,98330,RAILWAY ENGINE--DRIVER STOKER CLEANER,Railway SteamEngine Fireman,moderate
+1901,DERBYSHIRE,Male,hot water steam pipe fitter,724,87120,1,96950,WATERWORKS SERVICE,Water Treatment Plant Operator (Waterworks),
+1901,MONMOUTHSHIRE,Female,retired jeweller,382,88020,1,88050,GOLD AND SILVERSMITHS JEWELLERS (NOT DEALERS),Goldsmith and Silversmith,
+1901,LEICESTERSHIRE,Male,chemists traveller,114,43090,4,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,LANCASHIRE,Male,commercial traveller silk trade,114,43090,1,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,GLOUCESTERSHIRE,Male,genl farm laborer,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,DURHAM,Female,general dealer hawker,760,45220,1,45220,HAWKERS HUCKSTERS COSTERS,Street Vendor,
+1901,STAFFORDSHIRE,Male,coal mine taker off below,198,71120,4,71105,COAL MINERS - OTHERS BELOW GROUND & UNDEFINED,"Miner, General",
+1901,ESSEX,Male,foreman farm,177,61400,1,21230,FARM - BAILIFFS STEWARDS FOREMEN,Farm Manager,
+1901,GLAMORGANSHIRE,Female,milkseller,677,61260,1,45220,"COWKEEPERS, MILKSELLERS",Street Vendor,simple
+1901,LANCASHIRE,Male,apprentice iron turner,349,87530,2,87450,SHIPWRIGHTS - METAL SHIPS,Metal Shipwright,
+1901,FLINTSHIRE,Male,retired railway porter,125,24100,1,39960,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Clerk,
+1901,ESSEX,Male,shop manager sea,666,41010,1,41025,FOOTWEAR DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,DURHAM,Unknown,domestic servant resident,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,SUSSEX,Male,retired corn importer,687,41010,1,41020,CORN FLOUR AND SEED MERCHANTS DEALERS,Working Proprietor (Wholesale Trade),
+1901,ANGLESEY,Male,farmers brother in law,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,HAMPSHIRE,Male,inland revenue officer nd class,6,20200,1,31000,OTHER CIVIL SERVICE OFFICERS AND CLERKS,"Government Executive Official, Specialisation Unknown",
+1901,LONDON,Male,secretary accountant,115,11010,2,11010,ACCOUNTANTS,"Accountant, General",
+1901,YORKSHIRE WEST RIDING,Male,commercial traveller general,114,43090,1,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,NORTHUMBERLAND,Female,farmers servant,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,NORTHUMBERLAND,Male,coal miner hanger on below,196,71120,1,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",
+1901,CHESHIRE,Female,book keeper smallware mercht,63,19100,1,19190,"LIBRARIANS (LITERARY, SCIENTIFIC SOCIETY)","Other Librarians, Archivists and Curators",
+1901,NORTHUMBERLAND,Male,shipyard labourer holderup,350,87520,1,95440,WOOD SHIPS - WORKER IN WOOD,Wood Shipwright,
+1901,SUSSEX,Unknown,boatman,160,98120,2,98100,BOATMEN ON SEAS (SEAMEN GENERAL),"Ships’ Deck Rating, Barge Crew or Boatman, Specialisation Unknown",simple
+1901,DURHAM,Male,engineman underground colliery stationary,199,97430,1,97415,RAILWAY LABOURERS NAVVIES (COAL MINE),Excavator (Hand Tools),complex
+1901,YORKSHIRE WEST RIDING,Male,stover in dye house,100,53102,1,53130,COOKS (BOARDING LODGING HOUSE: NON-RESIDENT),"Cook, except Private Service",
+1901,SOMERSET,Male,plater,768,84110,1,21110,ARTISANS MECHANICS,General Manager,simple
+1901,GLOUCESTERSHIRE,Male,box makers apprentice,456,81710,1,81990,"WOODEN BOX, PACKING CASE--MAKER",Other Cabinetmakers and Related Woodworkers,
+1901,WARWICKSHIRE,Male,journalist,56,15100,82,15945,AUTHORS EDITORS JOURNALISTS AND CREATIVE ADVERTISING WORKERS,Book Editor,simple
+1901,DENBIGHSHIRE,Female,cart propriettor,367,81300,1,81925,CARTWRIGHTS,Cartwright,
+1901,LONDON,Male,tramway servant pole boy,154,98900,1,54090,TRAMWAY SERVICE ---OTHERS,Other Maids and Related Housekeeping Service Workers,
+1901,YORKSHIRE NORTH RIDING,Male,deputy at ironstone miner below ground,207,71120,2,71110,"IRON--MINER, QUARRIER","Quarryman, General",
+1901,ESSEX,Male,surveyor of shipping,66,3010,1,3010,"LAND, HOUSE, SHIP--SURVEYOR","Surveyor, General",
+1901,LONDON,Male,telegraphist govt,172,38010,1,38000,"TELEGRAPH, TELEPHONE--SERVICE (NOT GOVERNMENT)","Telephone or Telegraph Operator, Specialisation Unknown",
+1901,LANCASHIRE,Male,weighing machine maker traveller,289,83830,1,83220,TOOLMAKERS (AGRICULTURAL MACHINE AND IMPLEMENT MAKING),Tool and Die Maker,
+1901,STAFFORDSHIRE,Male,bagman for coal dealer,235,41015,1,41025,COAL MERCHANTS AND DEALERS,Working Proprietor (Wholesale or Retail Trade),complex
+1901,HAMPSHIRE,Male,sign facia writer  general printer,527,93190,1,92110,TICKET WRITERS,"Printer, General",
+1901,LONDON,Male,porter shirt factory,133,97130,1,97130,RAILWAY PORTER,Railway and Road Vehicle Loader,
+1901,BUCKINGHAMSHIRE,Female,housemaid,84,54020,53,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,simple
+1901,LEICESTERSHIRE,Male,milliers wagoner,180,62460,2,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,moderate
+1901,NOTTINGHAMSHIRE,Male,herdsman,179,62420,4,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,simple
+1901,YORKSHIRE WEST RIDING,Male,iron turner worker,265,84130,1,84190,RAILWAY - SIGNAL SWITCH TURNTABLE FITTERS,Other Machinery Fitters and Machine Assemblers,
+1901,LEICESTERSHIRE,Female,child,795,99999,2,99999,NO SPECIFIED OCCUPATION - CHILDREN,Unspecified worktitle or several titles,
+1901,CORNWALL,Male,head gardener domestic,87,62711,3,62740,DOMESTIC GARDENER,Gardener,
+1901,STAFFORDSHIRE,Male,shopkeeper genl,758,41010,2,41025,GENERAL SHOPKEEPERS DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,CUMBERLAND,Male,town lamp lighter,723,87130,2,74925,GAS WORKS SERVICE,Coal-Gas Maker,moderate
+1901,OXFORDSHIRE,Male,corpt r e teleh work,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,LANCASHIRE,Male,cotton pattern designers assistant,253,83230,1,83240,PATTERNMAKERS (ENGINE AND MACHINE MAKING (UNDEFINED - NOT TEXTILE),Metal Pattern Maker (Foundry),
+1901,LANCASHIRE,Male,shop assistant grocers shop,758,41010,1,41025,GENERAL SHOPKEEPERS DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,YORKSHIRE WEST RIDING,Male,boiler riviting,275,87350,1,87350,BOILER MAKERS,Boilersmith,moderate
+1901,DURHAM,Male,grocers traveller,114,43090,10,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,LANCASHIRE,Male,canned goods examiner,680,41010,3,41025,PROVISION DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LANCASHIRE,Male,waiter at club,719,53220,4,53210,HOTEL WAITERS,"Waiter, General",
+1901,LANCASHIRE,Male,librarian law,41,12900,1,12210,OTHERS CONNECTED WITH LAW,Judge,
+1901,STAFFORDSHIRE,Female,machinst,771,83400,1,79550,MACHINISTS MACHINE WORKERS UNDEFINED,Sewing-Machine Operator,simple
+1901,LANCASHIRE,Female,woolen yarn twiner retd,632,41010,1,41020,YARN MERCHANT,Working Proprietor (Wholesale Trade),complex
+1901,LONDON,Male,grocer oil  colourman,497,41010,1,41025,OIL CAKE DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,BUCKINGHAMSHIRE,Male,formerly cowman on farm,179,62420,1,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,
+1901,KENT,Male,boilers makers assistant,283,3200,1,3200,TECHNICIANS (UNSPECIFIED),"Technician, Specialisation Unknown",
+1901,LONDON,Female,organist music teacher,76,17120,2,17145,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Singer,
+1901,DURHAM,Male,apprentice glass maker,468,89120,25,89330,"SHEET, PLATE--GLASS MANUFACTURE",Glass-Annealing Furnaceman,
+1901,HAMPSHIRE,Male,assistant florist,183,61250,2,62730,"NURSERYMAN, SEEDSMAN, FLORIST",Nursery Worker,
+1901,SUSSEX,Male,checker on railway,125,24100,2,39960,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Clerk,
+1901,LANCASHIRE,Male,warehouseman cotton shipper,168,97190,1,97145,WAREHOUSEMEN (NOT MANCHESTER GOODS),Warehouse Porter,
+1901,WARWICKSHIRE,Male,brass bracket maker,325,83890,1,83990,BRASS BRONZE IMPLEMENT MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,LANCASHIRE,Male,meat salesmans assistant,682,77310,1,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",moderate
+1901,SHROPSHIRE,Female,servant registry office,47,7220,1,7110,HOSPITAL SICK NURSES,"Professional Nurse, General",
+1901,MONTGOMERYSHIRE,Male,servant domestic,84,54020,2,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,YORKSHIRE WEST RIDING,Female,assistant manchester warehouse,643,41010,1,97145,MANCHESTER GOODS WAREHOUSEMEN,Warehouse Porter,
+1901,STAFFORDSHIRE,Male,labourer fitters,266,84130,2,99910,"FITTERS, TURNERS (ENGINE AND MACHINE) LABOURERS",Labourer,moderate
+1901,LONDON,Female,stenographer,57,15230,153,32110,REPORTERS AND SHORTHAND WRITERS,"Stenographer-Typist, General",simple
+1901,LANCASHIRE,Female,tin canvas maker,394,94190,1,94120,OTHER MUSICAL INSTRUMENT MAKERS,Stringed Instrument Maker,
+1901,DORSET,Male,agric labourer on farm,181,62110,3,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,KENT,Female,pill maker,482,41010,1,6710,CHEMISTS DRUGGISTS,Pharmacist,
+1901,MONMOUTHSHIRE,Male,blacksmith at colliery,262,83120,10,83110,BLACKSMITHS,"Blacksmith, General",
+1901,KENT,Male,a m s r e,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,CUMBERLAND,Male,postmaster,2,37020,4,33170,OTHER POST OFFICE OFFICERS AND CLERKS,Post Office Counter Clerk,simple
+1901,GLOUCESTERSHIRE,Male,sch,787,99999,1,99999,SCHOLARS ETC,Unspecified worktitle or several titles,simple
+1901,MIDDLESEX,Female,servant sick nurse,47,7220,3,7110,HOSPITAL SICK NURSES,"Professional Nurse, General",
+1901,SUFFOLK,Male,ordiny farm labourer,181,62110,1,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,SUSSEX,Male,formerly journeyman stone mason,414,95110,1,95140,MASON,Stonemason (Construction),complex
+1901,WARWICKSHIRE,Male,brass and glass packer,379,41015,1,41020,LEAD DEALERS,Working Proprietor (Wholesale Trade),
+1901,NORTHUMBERLAND,Female,husband abroad,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,SOMERSET,Male,printers errand boy,171,37040,2,97190,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Other Dockers and Freight Handlers,
+1901,MERIONETHSHIRE,Male,butchers servant,682,77310,1,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",
+1901,LONDON,Male,ladys underclothing maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,HEREFORDSHIRE,Male,retired uncovenanted civil service india military department,8,20200,1,20210,SENIOR OFFIALS AND OTHERS IN EAST INDIA SERVICE,Government Administrator,
+1901,DEVON,Female,art to parents,783,16110,1,99999,ART STUDENTS,Unspecified worktitle or several titles,moderate
+1901,NORTHUMBERLAND,Male,tin smith manufacturing,377,41015,1,41020,"DEALERS IN TIN, TINPLATE",Working Proprietor (Wholesale Trade),moderate
+1901,MONTGOMERYSHIRE,Male,manager flannel dept warehouse,563,75000,1,75000,FLANNEL MANUFACTURE (VARIOUS),"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,DURHAM,Female,dressmaker assistant to above,657,79130,1,79140,DRESSMAKERS,Dressmaker,complex
+1901,NORTHUMBERLAND,Male,machanical engineer apprentice,768,84110,2,21110,ARTISANS MECHANICS,General Manager,
+1901,GLOUCESTERSHIRE,Male,baker makers,691,41010,2,41025,BAKERS (DEALERS),Working Proprietor (Wholesale or Retail Trade),
+1901,KENT,Male,platelayer on s e c railway,131,97430,1,99910,"PLATELAYER, GANGER, PACKER",Labourer,
+1901,NORTHAMPTONSHIRE,Male,decorater,421,93120,1,93120,"PAINTERS, DISTEMPERERS & DECORATORS",Building Painter,simple
+1901,LONDON,Male,servant telegraphist,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,DURHAM,Male,marine engineers apprentice,269,83400,11,83410,METAL MACHINISTS (ENGINE AND MACHINE MAKING),"MachineTool Operator, General",
+1901,LONDON,Female,general maid,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,CHESHIRE,Female,blacksmith,262,83120,6,83110,BLACKSMITHS,"Blacksmith, General",
+1901,LONDON,Male,labourer general pottery,765,99130,2,99910,GENERAL LABOURERS,Labourer,
+1901,LANCASHIRE,Female,greengrocer,698,41010,295,41030,GREENGROCERS FRUITERERS POTATO DEALERS,Working Proprietor (Retail Trade),simple
+1901,LANCASHIRE,Male,foundrey iron moulder apprentice,259,72400,1,72500,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED","Metal Moulder or Coremaker, Specialisation Unknown",
+1901,NOTTINGHAMSHIRE,Male,odd man to gentleman,137,41010,1,84300,"MOTOR GARAGE ---PROPRIETOR, WORKER","Motor-Vehicle Mechanics, Specialisation Unknown",
+1901,MIDDLESEX,Male,inventor,60,19990,3,19990,OTHERS SCIENTIFIC,"Other Professional, Technical and Related Workers Not Elsewhere Classified",simple
+1901,WARWICKSHIRE,Male,black smith die forger,344,83890,1,83110,SHACKLE MAKERS,"Blacksmith, General",
+1901,MIDDLESEX,Male,sight filer rifles r s a f,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,WILTSHIRE,Male,furniture broker,451,41010,1,41025,FURNITURE BROKERS DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LANCASHIRE,Male,porter at railway station,133,97130,3,97130,RAILWAY PORTER,Railway and Road Vehicle Loader,
+1901,NOTTINGHAMSHIRE,Male,commission agent cook,101,53101,1,53140,COOKS (DOMESTIC: NON-RESIDENT),"Cook, Private Service",
+1901,WARWICKSHIRE,Male,general iron turner,265,84130,4,84190,RAILWAY - SIGNAL SWITCH TURNTABLE FITTERS,Other Machinery Fitters and Machine Assemblers,
+1901,BERKSHIRE,Male,gardener jobbing not domestic,185,62710,1,62740,OTHER GARDENER (NOT DOMESTIC),Gardener,
+1901,DERBYSHIRE,Male,cutter out corset works,470,89120,1,89190,OTHER WORKERS IN GLASS MANUFACTURE,"Other Glass Formers, Cutters, Grinders and Finishers",complex
+1901,LANCASHIRE,Male,retired medical man,42,6100,2,6100,"PHYSICIAN, SUGEON, REGISTERED PRACTITIONER, INCLUDING POOR LAW HOSPITALS DOCTORS ETC","Medical Doctor, Specialisation Unknown",
+1901,GLAMORGANSHIRE,Male,colliery billy boy above ground,264,84130,1,84910,COLLIERY FITTERS,"Machinery Mechanic, General",
+1901,MONMOUTHSHIRE,Unknown,electrician,287,85500,1,85510,ELECTRICIANS (UNDEFINED),"Electrician, General",simple
+1901,YORKSHIRE WEST RIDING,Male,office boy in foundry,171,37040,1,37040,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Messenger,
+1901,LONDON,Male,examiner torpedo stores,302,74200,1,83920,ORDNANCE MANUFACTURE,Gunsmith,
+1901,LONDON,Female,confectionary shop keeper,692,41010,5,41025,BISCUIT CAKE DEALERS (CONFECTIONISTS),Working Proprietor (Wholesale or Retail Trade),
+1901,MIDDLESEX,Male,manager butcher shop,682,77310,1,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",moderate
+1901,YORKSHIRE WEST RIDING,Male,teacher of languages technical school,52,13200,1,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",complex
+1901,NORTHUMBERLAND,Female,farmer wife,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,HAMPSHIRE,Female,school mistress elementary sc,52,13200,1,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",
+1901,WORCESTERSHIRE,Male,cartridge maker,301,83600,4,83920,GUNSMITHS,Gunsmith,
+1901,WORCESTERSHIRE,Female,tube worker,340,83890,1,72740,MIXED OR UNSPECIFIED METALS - TUBE MANUFACTURE,Seamless Pipe and Tube Drawer,
+1901,LANCASHIRE,Male,plumber glazier and gas fitter,425,87130,2,87110,"PLUMBER, PIPE FITTER","Pipe Fitter, General",complex
+1901,LANCASHIRE,Male,tapers assistant cotton mill,555,79990,1,75000,COTTON & COTTON GOODS MANUFACTURE UNDEFINED,"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,WESTMORLAND,Female,manufacturer,761,22190,1,21110,"MANUFACTURERS, MANAGERS, SUPERINTENDENTS, FOREMEN (UNSPECIFIED)",General Manager,simple
+1901,SURREY,Female,commercial traveller,114,43090,3,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,LANCASHIRE,Male,retired horticultural salesman buyer  valuer,638,41010,1,41025,COTTON & CALICO DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,GLAMORGANSHIRE,Male,kook,159,52030,2,54060,"MERCHANT SERVICE: SEAMAN--COOKS, STEWARDS, AND OTHERS (SUBSIDIARY SERVICE)",Ship's Steward,simple
+1901,MIDDLESEX,Male,harness furniture plater,510,80320,1,80320,SADDLE HARNESS AND WHIP MAKERS,Saddler and Harness Maker,
+1901,HAMPSHIRE,Male,master mason stone,414,95110,1,95140,MASON,Stonemason (Construction),
+1901,STAFFORDSHIRE,Male,apprentice joiner wood,409,95410,1,95420,"CARPENTER, JOINER",Construction Joiner,moderate
+1901,GLOUCESTERSHIRE,Female,government pensioner,775,99999,2,99999,"PENSIONERS, SUPERANNUATED",Unspecified worktitle or several titles,
+1901,MIDDLESEX,Male,receiving pay from benefit,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,LANCASHIRE,Male,l  n w ry railway servant goods dept,134,98490,1,54090,OTHER RAILWAY SERVANTS,Other Maids and Related Housekeeping Service Workers,
+1901,BEDFORDSHIRE,Male,errand boy shoemakers,171,37040,1,58940,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Watchman,
+1901,ESSEX,Male,builder  contractor,405,21230,73,95910,BUILDERS,"Housebuilder, General",
+1901,NORTHUMBERLAND,Male,retired congregation minister,33,14120,1,14120,"MINISTER, PRIEST, OF OTHER RELIGIOUS BODIES",Minister of Religion,
+1901,GLOUCESTERSHIRE,Female,retired mantle maker,653,79120,1,79100,TAILORS (NOT MERCHANTS) - DEFAULT,"Tailor, Specialisation Unknown",moderate
+1901,WARWICKSHIRE,Male,machinist nut  bolt trade,306,83890,2,83990,BOLT NUT RIVET AND SCREW MANUFACTURE,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,WARWICKSHIRE,Male,gas stokers laborer,205,74390,2,99930,FACTORY LABOURERS (UNDEFINED) COKE AND GAS,Factory Worker,
+1901,YORKSHIRE WEST RIDING,Male,booking clerk at cooks,125,24100,1,22230,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Service Supervisor,complex
+1901,SURREY,Male,w  store keeper  carpenter,409,95410,1,95410,"CARPENTER, JOINER","Carpenter, General",
+1901,LONDON,Female,packer at dyers  cleaners,695,77650,1,77790,CHOCOLATE COCOA MAKERS,"Other Tea, Coffee and Cocoa Preparers",
+1901,DEVON,Male,gunmaker,301,83600,5,83920,GUNSMITHS,Gunsmith,simple
+1901,LONDON,Male,machinist sawmills,771,83400,1,79550,MACHINISTS MACHINE WORKERS UNDEFINED,Sewing-Machine Operator,
+1901,DORSET,Female,caretaker of children,84,54020,2,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LANCASHIRE,Male,coal miner below ground,198,71120,113,71105,COAL MINERS - OTHERS BELOW GROUND & UNDEFINED,"Miner, General",
+1901,ISLANDS IN THE BRITISH SEAS,Male,assistant paymaster,17,58420,2,58320,ARMY OFFICERS (EFFECTIVE),Officer,
+1901,CARDIGANSHIRE,Male,retired librarian,543,21194,1,21110,"PUBLISHERS, BOOKSELLERS AND LIBRARIANS (EXCEPT PUBLIC LIBRARIANS)",General Manager,
+1901,DURHAM,Female,bootsellers assistant,666,41010,1,41025,FOOTWEAR DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,DEVON,Male,pumping engine driver,766,96900,1,96910,"ENGINE DRIVERS, STOKERS, FIREMEN (NOT RAILWAY, MARINE, OR AGRICULTURAL)","Stationary Engine Operator, General",
+1901,LANCASHIRE,Male,mariner engineer apprentice,363,84400,1,87370,MOTOR CAR CHASSIS MAKER: MOTOR CAR MECHANIC,Vehicle Sheet-Metal Worker,
+1901,LONDON,Male,messenger city of london school,55,39900,1,39990,"OTHERS CONNECTED WITH EDUCATION - SCHOOL SERVICE GENERAL, ATTENDANTS, CLERKS, ETC",Other Clerks,
+1901,LONDON,Male,carman borough camberwell,141,98550,1,98620,CARMEN CARRIERS CARTERS AND DRAYMEN,Animal-Drawn Vehicle Driver (Road),
+1901,BRECKNOCKSHIRE,Male,licensed victualer,713,51020,2,51050,"INNKEEPERS, HOTEL KEEPERS AND PUBLICANS","Working Proprietor  (Cafe, Bar and Snack Bar)",
+1901,CARNARVONSHIRE,Male,clerk mineral water manufact,143,97190,1,97190,WATER CARRIERS,Other Dockers and Freight Handlers,
+1901,YORKSHIRE WEST RIDING,Male,fitter at machine  tool works,289,83830,1,83220,TOOLMAKERS (AGRICULTURAL MACHINE AND IMPLEMENT MAKING),Tool and Die Maker,complex
+1901,CORNWALL,Male,farmer retired miner,211,71120,1,71105,MINERS IN OTHER OR UNDEFINED MINERALS,"Miner, General",
+1901,MONTGOMERYSHIRE,Male,engine at lead mine above ground,264,84130,1,84105,COLLIERY FITTERS,"Machinery Fitter, General",
+1901,LONDON,Male,labourer at metal works,343,87390,1,87310,WHITESMITHS,"Sheet-Metal Worker, General",
+1901,STAFFORDSHIRE,Male,traveller stone mason,414,95110,1,95140,MASON,Stonemason (Construction),
+1901,STAFFORDSHIRE,Female,brick wks oven,471,41010,1,41020,BRICK DEALERS,Working Proprietor (Wholesale Trade),
+1901,LEICESTERSHIRE,Male,secy to limited comp,363,84400,1,87370,MOTOR CAR CHASSIS MAKER: MOTOR CAR MECHANIC,Vehicle Sheet-Metal Worker,complex
+1901,CHESHIRE,Female,head housemaid domc,82,54090,1,54090,"DOMESTIC INDOOR SERVANTS IN HOTELS, LODGING HOUSES AND EATING HOUSES",Other Maids and Related Housekeeping Service Workers,moderate
+1901,SUSSEX,Male,formerly publican,713,51020,1,51020,"INNKEEPERS, HOTEL KEEPERS AND PUBLICANS",Working Proprietor (Hotel and Restaurant),
+1901,WARWICKSHIRE,Female,eyelet worker,334,72000,1,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,LONDON,Male,dectevive,767,3100,1,3110,DRAUGHTSMEN (UNDEFINED),"Draughtsman, General",simple
+1901,SHROPSHIRE,Male,farmers son assisting on the farm,175,62113,2,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,NORTHUMBERLAND,Male,cutting machineman in gun works,286,85100,1,85320,OTHER ELECTRICAL APPARATUS MAKERS,Electrical Equipment Assembler,
+1901,WARWICKSHIRE,Female,carwoman,104,55200,4,55220,CHARWOMEN,Charworker,simple
+1901,CHESHIRE,Male,caretaker  gardener,97,55100,1,55190,"CARETAKER, OFFICE KEEPERS (NOT GOVERNMENT) - SCHOOL CLEANERS,CARETAKERS",Other Building Caretakers,
+1901,CHESHIRE,Male,iron  moulder,334,72000,1,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,BUCKINGHAMSHIRE,Female,nurse domestic,84,54020,92,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LANCASHIRE,Male,overlooker of steamers,91,58500,1,58930,PRISON OFFICERS (REFORMATORY SCHOOL),Prison Guard,
+1901,DERBYSHIRE,Male,coal miner hewer same,196,71120,1,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",
+1901,YORKSHIRE WEST RIDING,Male,carter for coal agents,170,97190,1,97190,"COALHEAVER; COAL--PORTER, LABOURER",Other Dockers and Freight Handlers,
+1901,YORKSHIRE EAST RIDING,Male,farm drainer,188,97490,1,95950,LAND DRAINAGE SERVICE,Pipe Layer,
+1901,YORKSHIRE WEST RIDING,Male,husbandman on farm,181,62110,1,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,SUFFOLK,Male,dustman,728,55250,3,99910,"SCAVENGING, STREET CLEANERS, CROSSING SWEEPERS, DUSTMEN",Labourer,simple
+1901,GLOUCESTERSHIRE,Male,wheel wrights apprentice,366,81400,1,81925,WHEELWRIGHT,Cartwright,
+1901,MIDDLESEX,Female,winder,750,94990,1,94990,OTHER WORKERS IN SUNDRY INDUSTRIES,Other Production and Related Workers Not Elsewhere Classified,simple
+1901,WARWICKSHIRE,Female,machine minder munition wks,533,92110,5,92250,PRINTING MACHINE MINDERS,Direct Lithographic Pressman,
+1901,YORKSHIRE WEST RIDING,Male,furniture  wood machine hand,279,84190,1,84190,DOMESTIC MACHINERY MAKERS,Other Machinery Fitters and Machine Assemblers,
+1901,WORCESTERSHIRE,Male,ironware warehouseman,372,41015,1,41025,DEALERS IN ELECTRICAL APPARATUS,Working Proprietor (Wholesale or Retail Trade),
+1901,LANCASHIRE,Unknown,postmistress,2,37020,1,37090,OTHER POST OFFICE OFFICERS AND CLERKS,Other Mail Distribution Clerks,simple
+1901,YORKSHIRE EAST RIDING,Male,marble mason apprentice,414,95110,1,95140,MASON,Stonemason (Construction),
+1901,WARWICKSHIRE,Male,general farm laborer,181,62110,12,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,LANCASHIRE,Female,clerk commercial invoice,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,OXFORDSHIRE,Male,seed breadmaker,687,41010,1,41020,CORN FLOUR AND SEED MERCHANTS DEALERS,Working Proprietor (Wholesale Trade),
+1901,GLAMORGANSHIRE,Male,goom gardener,185,62710,1,62740,OTHER GARDENER (NOT DOMESTIC),Gardener,
+1901,GLOUCESTERSHIRE,Male,reservist general labourer,765,99130,1,99910,GENERAL LABOURERS,Labourer,
+1901,GLAMORGANSHIRE,Male,coal roller at tin works,246,72200,2,72200,TINPLATE  MANUFACTURE,"Metal RollingMill Worker, Specialisation Unknown",
+1901,NORTHAMPTONSHIRE,Male,foreman shoe machinery,381,41015,1,41025,"OTHER DEALERS IN MACHINES, IMPLEMENTS ETC.",Working Proprietor (Wholesale or Retail Trade),
+1901,YORKSHIRE EAST RIDING,Male,page boy dom,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,STAFFORDSHIRE,Male,engine fitters latheman,266,84130,1,99910,"FITTERS, TURNERS (ENGINE AND MACHINE) LABOURERS",Labourer,
+1901,LINCOLNSHIRE,Female,purveyor of meat,682,77310,3,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",moderate
+1901,DENBIGHSHIRE,Male,retired farm bailiff,177,61400,1,21230,FARM - BAILIFFS STEWARDS FOREMEN,Farm Manager,moderate
+1901,YORKSHIRE WEST RIDING,Male,piece singer,620,75600,1,75622,COTTON & CALICO DYERS,"Yarn, Fabric or Garment Dyer",
+1901,MONMOUTHSHIRE,Male,lampman colliery,198,71120,1,71105,COAL MINERS - OTHERS BELOW GROUND & UNDEFINED,"Miner, General",
+1901,LEICESTERSHIRE,Female,glove runner on,671,41010,1,41025,GLOVE DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,ESSEX,Male,steam engine cleaner,266,84130,2,99910,"FITTERS, TURNERS (ENGINE AND MACHINE) LABOURERS",Labourer,
+1901,DEVON,Male,seaman on steam tug,165,4290,1,22290,STEAM NAVIGATION SERVICE,Other Transport and Communications Supervisors,
+1901,BUCKINGHAMSHIRE,Male,carpenter lad,410,95420,1,99910,"CARPENTER'S, JOINER'S--LABOURER",Labourer,
+1901,SUSSEX,Male,shop assistant grocers,697,41010,1,41030,GROCERS TEA DEALERS,Working Proprietor (Retail Trade),
+1901,STAFFORDSHIRE,Male,pitt engine driver,127,98300,1,98320,RAILWAY ENGINE--DRIVER STOKER CLEANER,Railway Engine Driver,moderate
+1901,YORKSHIRE NORTH RIDING,Male,errand boy draper,171,37040,2,97190,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Other Dockers and Freight Handlers,
+1901,LANCASHIRE,Male,wood turner  shuttle maker,455,81230,1,81230,WOOD TURNER,Wood Turner,
+1901,CARDIGANSHIRE,Male,boot maker  dealer,666,41010,1,41025,FOOTWEAR DEALERS,Working Proprietor (Wholesale or Retail Trade),moderate
+1901,LONDON,Male,g servant domestic,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,YORKSHIRE WEST RIDING,Female,apron  pinfore maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,GLOUCESTERSHIRE,Unknown,none,797,99999,22,99999,"NO SPECIFIED OCCUPATION - VAGRANTS, UNEMPLOYED",Unspecified worktitle or several titles,simple
+1901,SURREY,Male,civil servant h m geological society,6,20200,1,20210,OTHER CIVIL SERVICE OFFICERS AND CLERKS,Government Administrator,
+1901,MONMOUTHSHIRE,Female,soldiers wife,788,99999,2,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,YORKSHIRE WEST RIDING,Male,bread baker  confectioner,691,41010,7,41025,BAKERS (DEALERS),Working Proprietor (Wholesale or Retail Trade),
+1901,DURHAM,Male,house furnishing salesman,451,41010,1,41025,FURNITURE BROKERS DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LANCASHIRE,Male,joiner in wood,409,95410,15,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,LONDON,Female,formerly servant,84,54020,18,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,DERBYSHIRE,Male,lace trade threader,593,75400,2,75452,LACE MANUFACTURE,Lace Weaver (Hand or Machine),
+1901,WARWICKSHIRE,Female,bodkin clipper,593,75400,1,75452,LACE MANUFACTURE,Lace Weaver (Hand or Machine),
+1901,CARNARVONSHIRE,Male,retired farm labourer,181,62110,4,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,NOTTINGHAMSHIRE,Female,professor of modern languages,53,13100,1,13100,UNIVERSITY TEACHERS,"University and Higher Education Teacher, Subject Unknown",
+1901,YORKSHIRE WEST RIDING,Male,workman house painter,421,93120,1,93120,"PAINTERS, DISTEMPERERS & DECORATORS",Building Painter,
+1901,SOMERSET,Male,contractors carter stone quarry,220,21140,1,21110,STONE QUARRY MINE OWNERS,General Manager,
+1901,NOTTINGHAMSHIRE,Male,photo mount maker,522,91020,1,91090,"CARD, STATIONERY MAKERS",Other Paper and Paperboard Products Makers,
+1901,LINCOLNSHIRE,Female,dairywoman,179,62420,2,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,simple
+1901,DEVON,Male,tanners son,772,99999,3,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,
+1901,GLOUCESTERSHIRE,Male,haulier j c,142,98590,1,98630,HAULIERS (MINE),Animal‑Drawn Vehicle Driver (Mine and Quarry),
+1901,KENT,Female,worker,750,94990,21,94990,OTHER WORKERS IN SUNDRY INDUSTRIES,Other Production and Related Workers Not Elsewhere Classified,
+1901,DURHAM,Female,retired innkeeper own means,778,99999,1,99999,PRIVATE MEANS,Unspecified worktitle or several titles,
+1901,DURHAM,Male,marine draughtman,158,98200,2,98230,MERCHANT SERVICE; SEAMAN--ENGINEERING DEPARTMENT,Ship’s Oiler and Greaser,
+1901,HERTFORDSHIRE,Male,wheelwrights laborer,366,81400,1,81925,WHEELWRIGHT,Cartwright,moderate
+1901,DEVON,Female,husband saw sharpener,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,STAFFORDSHIRE,Male,operative tobacconist,707,41010,1,41030,TOBACCONISTS,Working Proprietor (Retail Trade),
+1901,LONDON,Female,literary,58,15900,11,15990,OTHERS IN WRITING,"Other Authors, Journalists and Related Writers",simple
+1901,WARWICKSHIRE,Male,hosiers shop assistant,662,75500,1,41025,HOSIERS HABERDASHERS,Working Proprietor (Wholesale or Retail Trade),
+1901,GLOUCESTERSHIRE,Female,wife of baptist minister,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,HAMPSHIRE,Female,lady clerk at naval school,55,39900,1,39990,"OTHERS CONNECTED WITH EDUCATION - SCHOOL SERVICE GENERAL, ATTENDANTS, CLERKS, ETC",Other Clerks,complex
+1901,STAFFORDSHIRE,Male,tailor assistt,653,79120,1,79100,TAILORS (NOT MERCHANTS) - DEFAULT,"Tailor, Specialisation Unknown",moderate
+1901,YORKSHIRE WEST RIDING,Female,housekeeper farm,181,62110,1,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,MIDDLESEX,Male,picture frame makers assistt,461,81990,1,81990,OTHER WORKERS IN WOOD,Other Cabinetmakers and Related Woodworkers,
+1901,MIDDLESEX,Male,butcher purveyor,682,77310,1,45125,BUTCHERS AND MEAT SALESMEN,"Salesperson, Wholesale or Retail Trade",moderate
+1901,WORCESTERSHIRE,Male,coke maker ironworks,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,SOMERSET,Male,assisting in the work of farm,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",complex
+1901,DURHAM,Male,ironworker bundler,242,72200,2,72190,PUDDLING FURNACES; IRON AND STEEL ROLLING MILLS,"Other Metal Smelting, Converting and Refining Furnaceman",
+1901,LANCASHIRE,Male,retired genl labourer,999,-1,3,0,,,
+1901,SHROPSHIRE,Male,iron worker turner in,334,72000,1,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,STAFFORDSHIRE,Male,retired blastfurnace man,772,99999,1,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,
+1901,YORKSHIRE EAST RIDING,Male,engineer retired,766,96900,1,96910,"ENGINE DRIVERS, STOKERS, FIREMEN (NOT RAILWAY, MARINE, OR AGRICULTURAL)","Stationary Engine Operator, General",
+1901,NORFOLK,Male,clothiers porter,171,37040,2,97190,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Other Dockers and Freight Handlers,
+1901,LONDON,Unknown,trained sick nurse,47,7220,1,7110,HOSPITAL SICK NURSES,"Professional Nurse, General",
+1901,NORFOLK,Male,labourer ry loco works,485,74100,1,74500,MINERAL OIL WORKER,"Petroleum-Refining Worker, Specialisation Unknown",
+1901,RUTLAND,Male,gamekeeper,88,64990,4,64990,GAMEKEEPER,"Other Fishermen, Hunters and Related Workers",simple
+1901,FLINTSHIRE,Male,postman,3,37030,16,37030,POSTMEN,Postman,simple
+1901,SOMERSET,Female,genral servant domestic,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LANCASHIRE,Male,callender man bleach wks,610,75600,1,75615,SILK BLEACHERS,Textile Bleacher,
+1901,NOTTINGHAMSHIRE,Female,sub postmistress  grocer,2,37020,1,37010,OTHER POST OFFICE OFFICERS AND CLERKS,"Mail Distribution Clerk, General",
+1901,CHESHIRE,Male,farmers son cwman,175,62113,3,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,ESSEX,Female,carpenters daughter,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,YORKSHIRE WEST RIDING,Male,apprentice currier,507,76140,1,76150,CURRIERS,Leather Currier,
+1901,HEREFORDSHIRE,Male,head postmaster,2,37020,1,37010,OTHER POST OFFICE OFFICERS AND CLERKS,"Mail Distribution Clerk, General",
+1901,YORKSHIRE WEST RIDING,Male,corn merchant carrier,687,41010,1,41020,CORN FLOUR AND SEED MERCHANTS DEALERS,Working Proprietor (Wholesale Trade),
+1901,HAMPSHIRE,Female,assisting her mother domestic,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,complex
+1901,CORNWALL,Male,secretary of the royal station consular agency,5,20100,1,20110,"MPs, MINISTERS OF THE CROWN & PEERS",Legislative Official,
+1901,HAMPSHIRE,Male,graziers son,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,YORKSHIRE WEST RIDING,Male,retired staymaker,658,79190,1,79190,STAY AND CORSET MAKERS,Other Tailors and Dressmakers,
+1901,MIDDLESEX,Male,furnace stoker  enamel maker,723,87130,1,74925,GAS WORKS SERVICE,Coal-Gas Maker,
+1901,MIDDLESEX,Male,junior surveyor,66,3010,1,3090,"LAND, HOUSE, SHIP--SURVEYOR",Other Surveyors,moderate
+1901,-,Male,lg stoker nd class,24,58430,23,58340,MEN OF THE NAVY (INC COASTGUARDS),Other Military Ranks,complex
+1901,LONDON,Male,office boy commercial,171,37040,15,97190,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Other Dockers and Freight Handlers,
+1901,LONDON,Male,sorter tracer g p o,2,37020,2,37020,OTHER POST OFFICE OFFICERS AND CLERKS,Mail Sorting Clerk,
+1901,LEICESTERSHIRE,Female,servant maid domestic,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,HAMPSHIRE,Male,shoeing smiths striker,262,83120,1,83110,BLACKSMITHS,"Blacksmith, General",
+1901,YORKSHIRE EAST RIDING,Male,postal rearman,1,38010,1,38000,"POST OFFICE - TELEGRAPHISTS, TELEPHONE OPERATORS","Telephone or Telegraph Operator, Specialisation Unknown",
+1901,ISLANDS IN THE BRITISH SEAS,Male,professional golfer,81,59990,1,18020,BILLIARDS CRICKET AND OTHER GAMES SERVICE,Professional Sportsman,
+1901,YORKSHIRE NORTH RIDING,Male,apprentice plater shipyd,275,87350,4,87350,BOILER MAKERS,Boilersmith,
+1901,MIDDLESEX,Male,farm yard man,179,62420,1,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,
+1901,DEVON,Male,petty officer st cl r n,24,58430,1,58340,MEN OF THE NAVY (INC COASTGUARDS),Other Military Ranks,
+1901,LANCASHIRE,Male,margarline traveller,114,43090,1,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,KENT,Male,carpenter  joiners apprentice,409,95410,2,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,HAMPSHIRE,Unknown,houswife,788,99999,2,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,simple
+1901,LANCASHIRE,Male,carter at bottled ale stores,141,98550,1,98620,CARMEN CARRIERS CARTERS AND DRAYMEN,Animal-Drawn Vehicle Driver (Road),
+1901,WORCESTERSHIRE,Male,cycle wheel turner,374,41010,1,41030,BICYCLE DEALERS,Working Proprietor (Retail Trade),moderate
+1901,CORNWALL,Male,farmer son,175,62113,207,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,DERBYSHIRE,Male,cabinetmaker  paper hanger,420,95920,1,95925,PAPERHANGERS,Paperhanger,moderate
+1901,LANCASHIRE,Male,builders bookkeeper,119,39310,3,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,DEVON,Female,costermonger,760,45220,1,45220,HAWKERS HUCKSTERS COSTERS,Street Vendor,simple
+1901,ESSEX,Male,florest,183,61250,1,62730,"NURSERYMAN, SEEDSMAN, FLORIST",Nursery Worker,simple
+1901,LONDON,Male,steward commercial house,159,52030,1,53150,"MERCHANT SERVICE: SEAMAN--COOKS, STEWARDS, AND OTHERS (SUBSIDIARY SERVICE)",Ship's Cook,
+1901,SUSSEX,Male,purfumer,668,57020,1,57025,HAIRDRESSERS,Women's or Men's Hairdresser,simple
+1901,LONDON,Male,zinc label maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,LANCASHIRE,Female,dormitory attendant,12,31090,4,20210,POOR LAW SERVICE,Government Administrator,moderate
+1901,CUMBERLAND,Female,genl servant domestic,84,54020,5,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LONDON,Female,military leather stitches,516,41010,1,41025,DEALERS IN LEATHER,Working Proprietor (Wholesale or Retail Trade),
+1901,LINCOLNSHIRE,Male,retired labourer of south holland trust,173,61110,1,61110,"FARMER, GRAZIER",General Farmer,
+1901,NORTHUMBERLAND,Female,in charge of office selling rubber stamps,91,58500,1,58930,PRISON OFFICERS (REFORMATORY SCHOOL),Prison Guard,
+1901,LANCASHIRE,Male,heeler slipper maker,664,80100,3,80190,SLIPPER MAKERS,Other Shoemakers and Shoe Repairers,
+1901,ESSEX,Male,engineer refrigerating,279,84190,1,84190,DOMESTIC MACHINERY MAKERS,Other Machinery Fitters and Machine Assemblers,
+1901,NORFOLK,Male,bandmaster norfolk artillery,20,58430,1,58340,SOLDIERS AND NON-COMMISSIONED OFFICERS,Other Military Ranks,moderate
+1901,YORKSHIRE NORTH RIDING,Male,engine fireman loco,127,98300,1,98330,RAILWAY ENGINE--DRIVER STOKER CLEANER,Railway SteamEngine Fireman,
+1901,NORTHAMPTONSHIRE,Male,blacksmith railway,262,83120,3,83110,BLACKSMITHS,"Blacksmith, General",
+1901,NORTHUMBERLAND,Male,coal miner shaft man,196,71120,1,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",complex
+1901,LANCASHIRE,Male,stockbrokers salesman,113,43090,1,45125,SALESMEN AND BUYERS (NOT OTHERWISE DESCRIBED),"Salesperson, Wholesale or Retail Trade",
+1901,SUSSEX,Male,retired shop keeper grocer  draper,497,41010,1,41025,OIL CAKE DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,STAFFORDSHIRE,Male,railway fitters labourer,266,84130,4,99910,"FITTERS, TURNERS (ENGINE AND MACHINE) LABOURERS",Labourer,
+1901,NORTHUMBERLAND,Male,builder mason,414,95110,1,95140,MASON,Stonemason (Construction),
+1901,LONDON,Female,photographt,787,99999,2,99999,SCHOLARS ETC,Unspecified worktitle or several titles,simple
+1901,ESSEX,Female,certificated nurse,47,7220,3,7110,HOSPITAL SICK NURSES,"Professional Nurse, General",
+1901,ESSEX,Male,architect  surveyor ass,72,2100,1,2120,ARCHITECTS,Building Architect,
+1901,LONDON,Male,bookseller  printer,543,21194,4,19120,"PUBLISHERS, BOOKSELLERS AND LIBRARIANS (EXCEPT PUBLIC LIBRARIANS)",Librarian,
+1901,KENT,Male,clerk,119,39310,305,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",simple
+1901,YORKSHIRE WEST RIDING,Male,power lome dealer  mill furnisher,751,41010,1,41025,DEALERS IN SUNDRY MATERIALS,Working Proprietor (Wholesale or Retail Trade),
+1901,KENT,Male,ableseaman,157,4250,2,98100,MERCHANT SERVICE; SEAMAN-NAVIGATING DEPARTMENT,"Ships’ Deck Rating, Barge Crew or Boatman, Specialisation Unknown",simple
+1901,MIDDLESEX,Male,retired stock exchange clerk,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,WARWICKSHIRE,Female,warehouse woman gilt jewellers,168,97190,1,97145,WAREHOUSEMEN (NOT MANCHESTER GOODS),Warehouse Porter,
+1901,LONDON,Male,lift man,109,54090,44,54090,OTHERS IN SERVICE,Other Maids and Related Housekeeping Service Workers,moderate
+1901,DURHAM,Male,bootmakers errand boy,171,37040,1,58940,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Watchman,
+1901,LONDON,Male,cheesmongers,679,77500,1,41025,CHEESEMONGERS BUTTERMEN,Working Proprietor (Wholesale or Retail Trade),simple
+1901,GLAMORGANSHIRE,Male,land mineral surveyor,66,3010,1,3010,"LAND, HOUSE, SHIP--SURVEYOR","Surveyor, General",moderate
+1901,LANCASHIRE,Male,maker up  packer cotton,552,75990,1,75990,COTTON & COTTON GOODS MANUFACTURE OTHER PROCESSES,"Other Spinners, Weavers, Knitters, Dyers and Related Workers",
+1901,MIDDLESEX,Female,dairymaid,181,62110,8,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",simple
+1901,LANCASHIRE,Female,matting bag machinist,771,83400,1,83410,MACHINISTS MACHINE WORKERS UNDEFINED,"MachineTool Operator, General",moderate
+1901,LONDON,Male,porters boy,145,98550,2,97130,"VAN, ETC.---GUARD, BOY",Railway and Road Vehicle Loader,
+1901,OXFORDSHIRE,Male,drapers apprentrice,628,41010,1,41025,DRAPERS LINEN DRAPERS MERCERS,Working Proprietor (Wholesale or Retail Trade),
+1901,WARWICKSHIRE,Male,new inns public house,428,21220,1,21240,CONTRACTORS: PUBLIC WORKS: SEWER DRAINAGE DOCK HARBOUR CANAL,Contractor,complex
+1901,LANCASHIRE,Male,printers machine apprentice,533,92110,1,92230,PRINTING MACHINE MINDERS,Rotary Pressman,
+1901,MONMOUTHSHIRE,Male,brewers cashier,119,39310,4,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,LONDON,Male,magazine worker,334,72000,1,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,LONDON,Male,joiner building work,409,95410,1,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,YORKSHIRE WEST RIDING,Male,splaying mill ironworks,608,75000,1,99930,FACTORY HANDS (TEXTILE) UNDEFINED (VARIOUS),Factory Worker,
+1901,SOMERSET,Male,carpenter and wheelwright,409,95410,4,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,YORKSHIRE WEST RIDING,Male,mechanic fitter  turner,263,84130,2,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,DURHAM,Male,plater labourer ship yard,345,87530,10,87462,SHIP BOAT PLATERS RIVETTERS,Riveter (Hand or Machine),complex
+1901,LANCASHIRE,Male,tool makers apprentice,290,83210,1,83220,TOOLMAKERS,Tool and Die Maker,
+1901,LONDON,Male,gas works pensioner independent,723,87130,1,74925,GAS WORKS SERVICE,Coal-Gas Maker,
+1901,STAFFORDSHIRE,Male,brick works fireman,464,89300,3,89242,"BRICK, PLAIN TILE, TERRA-COTTA--MAKER",Brick and Tile Moulder (Hand or Machine),moderate
+1901,MIDDLESEX,Male,horse keeper omnibus co,151,98900,1,54090,OMNIBUS SERVICE --OTHERS,Other Maids and Related Housekeeping Service Workers,
+1901,NORFOLK,Male,apprentice compositor,531,92120,1,92120,HAND COMPOSITORS (DEFAULT),Hand Compositor,
+1901,DEVON,Female,cooking,98,53102,1,53130,COOKS (NOT DOMESTIC),"Cook, except Private Service",
+1901,LANCASHIRE,Male,wharehouse porter,171,37040,5,58940,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Watchman,
+1901,WARWICKSHIRE,Female,shopkeeper sweet  paper,520,73300,1,73490,PAPER STAINER,Other Paper Makers,
+1901,WESTMORLAND,Male,auctioneer  house agent,116,44330,1,44320,AUCTIONEERS APPRAISERS VALUERS HOUSE AGENTS,Auctioneer,
+1901,LANCASHIRE,Male,butcher and shop man,681,77340,1,77320,SLAUGHTERER,Slaughterer,
+1901,MONTGOMERYSHIRE,Male,general servants on farm,180,62460,1,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,NORTHUMBERLAND,Female,wife of james west,789,99999,1,99999,WIVES ASSISTING GENERALLY IN THEIR HUSBANDS OCCUPATIONS (WIFE OF à),Unspecified worktitle or several titles,
+1901,STAFFORDSHIRE,Female,paper cutter for transferer,519,73300,1,73400,PAPER MANUFACTURE,"Paper Maker, Specialisation Unknown",
+1901,ESSEX,Male,apprentice to piano maker,393,94120,1,94170,PIANO ORGAN MAKERS,Piano Maker,
+1901,MIDDLESEX,Male,labourer gas works,723,87130,52,74925,GAS WORKS SERVICE,Coal-Gas Maker,
+1901,YORKSHIRE WEST RIDING,Male,gardener labourer,185,62710,1,62740,OTHER GARDENER (NOT DOMESTIC),Gardener,
+1901,NORTHAMPTONSHIRE,Male,rush collar maker,447,94290,3,94290,WILLOW CANE AND RUSH WORKERS,Other Basketry Weavers and Brush Makers,
+1901,DURHAM,Male,coalminer pony driver underground,198,71120,1,71105,COAL MINERS - OTHERS BELOW GROUND & UNDEFINED,"Miner, General",
+1901,BEDFORDSHIRE,Male,retired captain h m army,19,58420,1,58320,ARMY OFFICERS (RETIRED),Officer,
+1901,YORKSHIRE WEST RIDING,Male,luster rug warehouse man,168,97190,1,97145,WAREHOUSEMEN (NOT MANCHESTER GOODS),Warehouse Porter,complex
+1901,DEVON,Male,horse keeper on farm,180,62460,4,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,LONDON,Male,servant valet,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,YORKSHIRE WEST RIDING,Male,retired editor indian daily news,8,20200,1,20210,SENIOR OFFIALS AND OTHERS IN EAST INDIA SERVICE,Government Administrator,
+1901,NORTHAMPTONSHIRE,Male,gas office clerk,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",moderate
+1901,LONDON,Male,caretaker to engineer,64,2700,1,2710,MINING ENGINEERS,"Mining Engineer, General",moderate
+1901,DORSET,Male,labourer on farm,181,62110,7,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,SHROPSHIRE,Female,domestic,102,54010,3,54020,"DAY GIRLS, DAY SERVANTS (OTHER INDOOR)",House Servant,
+1901,NORTHAMPTONSHIRE,Male,retired road surveyor,434,21290,1,21240,"ROAD--CONTRACTOR, SURVEYOR, INSPECTOR",Contractor,
+1901,WORCESTERSHIRE,Male,local board navvy with horses on farm,180,62460,2,62460,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF HORSES",Horse Worker,
+1901,MERIONETHSHIRE,Male,farm servant,181,62110,80,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,DURHAM,Male,boilerman,766,96900,8,96910,"ENGINE DRIVERS, STOKERS, FIREMEN (NOT RAILWAY, MARINE, OR AGRICULTURAL)","Stationary Engine Operator, General",simple
+1901,CUMBERLAND,Male,farm servt,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,NORTHUMBERLAND,Female,farm servant,181,62110,296,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,YORKSHIRE EAST RIDING,Male,actress,77,17300,2,17320,ACTORS,Actor,simple
+1901,ESSEX,Male,machine maker,279,84190,3,84190,DOMESTIC MACHINERY MAKERS,Other Machinery Fitters and Machine Assemblers,
+1901,NOTTINGHAMSHIRE,Male,coal loader belowground,196,71120,1,71105,"COAL MINERS - HEWERS, WORKERS AT THE COAL FACE","Miner, General",
+1901,LANCASHIRE,Male,pit waggon lower,433,71300,1,71300,"WELL, MINE--SINKER, BORER","WellDrillers, Borers and Related Workers",moderate
+1901,LONDON,Female,domestice,84,54020,2,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,SURREY,Female,living on own means assisted by friends,778,99999,1,99999,PRIVATE MEANS,Unspecified worktitle or several titles,
+1901,LANCASHIRE,Female,metallic trunk painter,421,93120,2,93120,"PAINTERS, DISTEMPERERS & DECORATORS",Building Painter,
+1901,GLOUCESTERSHIRE,Male,fitters apprentice engineer,363,84400,1,87370,MOTOR CAR CHASSIS MAKER: MOTOR CAR MECHANIC,Vehicle Sheet-Metal Worker,moderate
+1901,GLAMORGANSHIRE,Male,cripple,794,99999,1,99999,"NO SPECIFIED OCCUPATION - RECEIVING INCOME, SUPPORT",Unspecified worktitle or several titles,simple
+1901,ISLANDS IN THE BRITISH SEAS,Male,livery stable work,135,21160,1,41040,"LIVERY STABLE KEEPERS, CAB AND BUS OWNERS",Working Proprietor (Hiring Out),
+1901,LANCASHIRE,Male,creeler cotton factory,548,75100,1,75130,COTTON & COTTON GOODS MANUFACTURE CARD BLOWING ROOM PROCESSES,Fibre Picker,
+1901,LONDON,Male,dealer in chinese goods,370,41010,1,41025,GENERAL HOUSEHOLD APPLIANCE DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LONDON,Male,civil servant nd div war office,6,20200,1,31000,OTHER CIVIL SERVICE OFFICERS AND CLERKS,"Government Executive Official, Specialisation Unknown",
+1901,SUFFOLK,Female,mill hand in drabett factory,572,75000,1,75000,WORSTED AND STUFF MANUFACTURE UNDEFINED,"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,LANCASHIRE,Male,apprentice forge lad,769,99150,1,99999,APPRENTICES,Unspecified worktitle or several titles,
+1901,WILTSHIRE,Male,brewer manufactuer,709,77820,1,77810,BREWERS,"Brewer, General",
+1901,LANCASHIRE,Female,ships stewardess,159,52030,5,54060,"MERCHANT SERVICE: SEAMAN--COOKS, STEWARDS, AND OTHERS (SUBSIDIARY SERVICE)",Ship's Steward,
+1901,YORKSHIRE WEST RIDING,Male,slater and plasterer,416,95320,10,95320,SLATERS & TILERS,Slate and Tile Roofer,
+1901,LONDON,Female,apprentice at swan  edgars skirt,769,99150,1,99999,APPRENTICES,Unspecified worktitle or several titles,
+1901,NOTTINGHAMSHIRE,Male,leivers lace maker,593,75400,15,75452,LACE MANUFACTURE,Lace Weaver (Hand or Machine),
+1901,DERBYSHIRE,Female,millinery wire worker forewoman,313,83860,1,72725,WIRE MAKERS WORKERS WEAVERS,Wire Drawer (Hand or Machine),
+1901,BEDFORDSHIRE,Male,yner  modeller,747,92900,1,16120,FIGURE AND IMAGE MAKERS NOT EARTHENWARE,Sculptor,
+1901,DEVON,Male,lime  stone merchant,237,41015,1,41020,STONE DEALERS,Working Proprietor (Wholesale Trade),
+1901,CHESHIRE,Male,chainsmith,307,83160,1,83110,ANCHOR & CHAIN MANUFACTURE,"Blacksmith, General",simple
+1901,SUFFOLK,Male,bicycle maker,362,84300,4,84975,"BICYCLE MAKERS, BICYCLE REPAIRERS",Pedal-Cycle Repairer,
+1901,SOMERSET,Male,signalman g w rly,129,98430,1,98430,SIGNALMAN,Railway Signaller,
+1901,YORKSHIRE WEST RIDING,Male,colly yard labourer,459,63120,2,63110,TIMBER WOOD WORKERS,Logger (General),
+1901,SOMERSET,Male,musicians son,76,17120,1,17120,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Composer,
+1901,LANCASHIRE,Male,painters app house,421,93120,1,93120,"PAINTERS, DISTEMPERERS & DECORATORS",Building Painter,
+1901,GLOUCESTERSHIRE,Male,tailors cutter apprentice,654,79190,3,79190,OTHERS CLOTHING MANUFACTURERS,Other Tailors and Dressmakers,
+1901,LONDON,Male,railway clearing ho clerk,125,24100,2,22230,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Service Supervisor,complex
+1901,SUSSEX,Male,blacksmiths son,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,ESSEX,Male,sorter general p o,2,37020,1,37020,OTHER POST OFFICE OFFICERS AND CLERKS,Mail Sorting Clerk,
+1901,SURREY,Male,signal engineer,281,84190,1,84190,RAILWAY - SIGNAL SWITCH TURNTABLE MAKERS,Other Machinery Fitters and Machine Assemblers,
+1901,DURHAM,Male,labourer at railway waggon works,132,98490,1,99910,RAILWAY LABOURER (NOT RAILWAY CONTRACTOR'S LABOURER),Labourer,
+1901,WORCESTERSHIRE,Female,tapper nut  bolt,306,83890,2,83990,BOLT NUT RIVET AND SCREW MANUFACTURE,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",moderate
+1901,MONMOUTHSHIRE,Male,wagoner,141,98550,2,98620,CARMEN CARRIERS CARTERS AND DRAYMEN,Animal-Drawn Vehicle Driver (Road),simple
+1901,SUFFOLK,Male,pensioner railway,134,98490,1,54090,OTHER RAILWAY SERVANTS,Other Maids and Related Housekeeping Service Workers,
+1901,HAMPSHIRE,Male,ship labourer,354,87590,6,99910,SHIPYARD LABOURERS (UNDEFINED),Labourer,
+1901,LONDON,Male,post office clerk retired,2,37020,1,37090,OTHER POST OFFICE OFFICERS AND CLERKS,Other Mail Distribution Clerks,
+1901,ESSEX,Male,inn caulker,713,51020,1,51020,"INNKEEPERS, HOTEL KEEPERS AND PUBLICANS",Working Proprietor (Hotel and Restaurant),
+1901,MIDDLESEX,Female,trained nurse  midwife,45,7320,1,7310,MIDWIVES,Professional Midwife,moderate
+1901,CHESHIRE,Male,bedridden,772,99999,1,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,simple
+1901,LANCASHIRE,Male,cellerman,716,59990,10,77890,CELLARMEN,"Other Brewers, Wine and Beverage Makers",simple
+1901,DORSET,Male,engine driver at factory,766,96900,1,96910,"ENGINE DRIVERS, STOKERS, FIREMEN (NOT RAILWAY, MARINE, OR AGRICULTURAL)","Stationary Engine Operator, General",
+1901,ESSEX,Male,boots shoe maker,663,80100,1,80110,SHOE AND BOOT MAKERS (AND REPAIRERS),"Shoemaker, General",
+1901,WILTSHIRE,Female,journeyman bakers wife,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,LANCASHIRE,Female,brass maker machinist,325,83890,1,83990,BRASS BRONZE IMPLEMENT MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",moderate
+1901,GLOUCESTERSHIRE,Male,canvasser rates office,499,41010,1,41025,SOAP DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,ESSEX,Male,carpenter shopkeeper,409,95410,1,95420,"CARPENTER, JOINER",Construction Joiner,
+1901,HAMPSHIRE,Male,tailor working,653,79120,1,79100,TAILORS (NOT MERCHANTS) - DEFAULT,"Tailor, Specialisation Unknown",
+1901,DENBIGHSHIRE,Male,clogger,665,80100,13,81990,"PATTEN, CLOG MAKERS",Other Cabinetmakers and Related Woodworkers,simple
+1901,DURHAM,Male,secretary public company,118,21192,1,21000,OFFICERS OF COMMERCIAL AND OTHERS COMPANIES,"Manager, Specialisation Unknown",
+1901,LANCASHIRE,Male,clogger retired,665,80100,1,80200,"PATTEN, CLOG MAKERS","Shoe Worker, Specialisation Unknown",
+1901,SUFFOLK,Male,barkers apprentic,410,95420,1,99910,"CARPENTER'S, JOINER'S--LABOURER",Labourer,
+1901,YORKSHIRE WEST RIDING,Male,dye horse labourer,765,99130,2,99910,GENERAL LABOURERS,Labourer,
+1901,SHROPSHIRE,Male,carter for father,141,98550,1,98620,CARMEN CARRIERS CARTERS AND DRAYMEN,Animal-Drawn Vehicle Driver (Road),
+1901,LANCASHIRE,Male,calico bleachworks maker up,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,YORKSHIRE EAST RIDING,Male,ships boatswain,354,87590,1,99910,SHIPYARD LABOURERS (UNDEFINED),Labourer,
+1901,LANCASHIRE,Female,woolen piecer,559,75200,22,75220,WOOL SPINNERS WOOL PIECERS,"Spinner, Thread and Yarn",moderate
+1901,DERBYSHIRE,Female,butchers wife shopkeeper,789,99999,1,99999,WIVES ASSISTING GENERALLY IN THEIR HUSBANDS OCCUPATIONS (WIFE OF à),Unspecified worktitle or several titles,
+1901,GLOUCESTERSHIRE,Female,f daughter,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,MONMOUTHSHIRE,Female,retred farmers wife,175,62113,1,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,DURHAM,Male,machine man boilershop,533,92110,1,92230,PRINTING MACHINE MINDERS,Rotary Pressman,
+1901,YORKSHIRE WEST RIDING,Male,bootmiller,300,83890,1,83220,"DIE, SEAL, COIN, MEDAL û MAKER",Tool and Die Maker,simple
+1901,DURHAM,Male,ashplalter,436,97490,2,99910,ROAD LABOURERS,Labourer,
+1901,MERIONETHSHIRE,Male,school master b school,52,13200,1,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",complex
+1901,NORFOLK,Male,farmer  brick manufacturer,173,61110,1,61110,"FARMER, GRAZIER",General Farmer,
+1901,YORKSHIRE WEST RIDING,Male,electric jointer,725,85500,1,96190,OTHER ELECTRICITY SUPPLY,Other Power-Generating Machinery Operators,
+1901,KENT,Male,tarrier,262,83120,2,83110,BLACKSMITHS,"Blacksmith, General",simple
+1901,HEREFORDSHIRE,Male,door boy coal mine,198,71120,1,71105,COAL MINERS - OTHERS BELOW GROUND & UNDEFINED,"Miner, General",
+1901,LANCASHIRE,Female,occupied at home,788,99999,2,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,HAMPSHIRE,Male,canvas manufature  j p,587,79920,1,75000,CANVAS AND SAILCLOTH MANUFACTURE (VARIOUS),"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,LANCASHIRE,Female,goods receiver warehouse,643,41010,1,97145,MANCHESTER GOODS WAREHOUSEMEN,Warehouse Porter,moderate
+1901,LANCASHIRE,Female,stitcher warehouse,643,41010,3,97145,MANCHESTER GOODS WAREHOUSEMEN,Warehouse Porter,
+1901,CARDIGANSHIRE,Male,inn keeper and farmer,173,61110,2,61110,"FARMER, GRAZIER",General Farmer,complex
+1901,LANCASHIRE,Female,box maker matches,526,81730,1,91025,CARDBOARD BOX MAKER,Paper Box Maker (Hand or Machine),
+1901,LONDON,Male,upholsteress assistant,440,79620,1,79620,UPHOLSTERER,Furniture Upholsterer,
+1901,LONDON,Male,newsagent errand boy,171,37040,1,37040,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Messenger,
+1901,NORTHUMBERLAND,Male,retired colliery horsekeeper,202,21140,2,21220,"MINE - OWNER, AGENT, MANAGER",Production Manager (except Farm),
+1901,ESSEX,Male,government g p o clerk retired commission agent,2,37020,1,37010,OTHER POST OFFICE OFFICERS AND CLERKS,"Mail Distribution Clerk, General",
+1901,DERBYSHIRE,Male,shaft coal  stone sinker,433,71300,1,71300,"WELL, MINE--SINKER, BORER","WellDrillers, Borers and Related Workers",
+1901,HEREFORDSHIRE,Female,assisting on farm,181,62110,4,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,YORKSHIRE WEST RIDING,Female,hotel servant laundry maid,721,59990,1,54090,OTHER HOTEL SERVANTS,Other Maids and Related Housekeeping Service Workers,
+1901,MIDDLESEX,Male,managing clerk auctioneers,40,39340,1,39340,LAW CLERK,Legal Clerk,
+1901,GLOUCESTERSHIRE,Unknown,student,785,99999,9,99999,OTHER STUDENTS,Unspecified worktitle or several titles,simple
+1901,CARNARVONSHIRE,Male,farmer son carter,175,62113,2,62110,"FARMER'S, GRAZIER'S--SON, DAUGHTER, OR OTHER RELATIVE ASSISTING IN THE WORK OF THE FARM","FarmHelper, General",
+1901,STAFFORDSHIRE,Male,labourer in works iron,259,72400,1,72500,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED","Metal Moulder or Coremaker, Specialisation Unknown",
+1901,LANCASHIRE,Female,teacher of history literature,76,17120,1,17145,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Singer,complex
+1901,WARWICKSHIRE,Female,horskeeper,139,62460,1,62460,"HORSEKEEPER, GROOM, STABLEMAN (NOT DOMESTIC)",Horse Worker,simple
+1901,OXFORDSHIRE,Male,baker,691,41010,304,41025,BAKERS (DEALERS),Working Proprietor (Wholesale or Retail Trade),
+1901,DENBIGHSHIRE,Male,woollen draper,628,41010,2,41025,DRAPERS LINEN DRAPERS MERCERS,Working Proprietor (Wholesale or Retail Trade),
+1901,CHESHIRE,Female,domesic servant general,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,ESSEX,Male,retired coke filler,204,74390,1,74920,COKE BURNERS,Coke Burner,
+1901,LONDON,Male,retired watch case maker,386,84220,1,84220,WATCH AND CLOCK MAKERS,Watch and Clock Assembler,
+1901,HAMPSHIRE,Male,licensed victuaillew public huse keeper,713,51020,1,51050,"INNKEEPERS, HOTEL KEEPERS AND PUBLICANS","Working Proprietor  (Cafe, Bar and Snack Bar)",
+1901,WARWICKSHIRE,Male,iron fitter steam engine,263,84130,1,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,LONDON,Male,night watchman at furniture dealers,451,41010,1,41025,FURNITURE BROKERS DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,YORKSHIRE NORTH RIDING,Male,steam hammer driver,262,83120,9,83110,BLACKSMITHS,"Blacksmith, General",
+1901,WORCESTERSHIRE,Male,copper scrap cutter,458,63290,1,63290,"CORK, BARK-- CUTTER, WORKER",Other Forestry Workers,
+1901,LEICESTERSHIRE,Male,engineers turner,263,84130,13,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,GLOUCESTERSHIRE,Male,servt st royal scots guards,20,58430,1,58330,SOLDIERS AND NON-COMMISSIONED OFFICERS,Non-Commissioned Officer,complex
+1901,WORCESTERSHIRE,Female,sevants register office,2,37020,1,37020,OTHER POST OFFICE OFFICERS AND CLERKS,Mail Sorting Clerk,
+1901,NORTHUMBERLAND,Male,apprentice plummer,425,87130,1,87105,"PLUMBER, PIPE FITTER","Plumber, General",
+1901,LONDON,Female,waitressprofess,719,53220,1,53210,HOTEL WAITERS,"Waiter, General",simple
+1901,STAFFORDSHIRE,Male,railway inspector,125,24100,31,39960,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Clerk,
+1901,LINCOLNSHIRE,Male,shoeing smiths apprentice,262,83120,1,83110,BLACKSMITHS,"Blacksmith, General",
+1901,DURHAM,Male,retired colliery pit help inspector,202,21140,1,21110,"MINE - OWNER, AGENT, MANAGER",General Manager,
+1901,KENT,Male,retired silk merchant,634,41010,3,41025,SILK MERCHANTS DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LONDON,Female,cook general servant domestic,101,53101,1,53140,COOKS (DOMESTIC: NON-RESIDENT),"Cook, Private Service",
+1901,RUTLAND,Female,postmistress,2,37020,4,37010,OTHER POST OFFICE OFFICERS AND CLERKS,"Mail Distribution Clerk, General",simple
+1901,HAMPSHIRE,Male,county council clerk,14,31090,1,31000,"MUNICIPAL, PARISH, AND  LOCAL OR COUNTY SHERIFFS AND CLERKS","Government Executive Official, Specialisation Unknown",moderate
+1901,YORKSHIRE NORTH RIDING,Male,clerk mercantile ironworks,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",
+1901,OXFORDSHIRE,Male,general labourer agricul,765,99130,3,99910,GENERAL LABOURERS,Labourer,
+1901,SUFFOLK,Male,groom hotel,139,62460,1,62460,"HORSEKEEPER, GROOM, STABLEMAN (NOT DOMESTIC)",Horse Worker,
+1901,YORKSHIRE EAST RIDING,Male,wood turner apprentice ship yard,455,81230,1,81230,WOOD TURNER,Wood Turner,
+1901,GLOUCESTERSHIRE,Male,apprentice iron moulder,259,72400,1,72500,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED","Metal Moulder or Coremaker, Specialisation Unknown",
+1901,YORKSHIRE WEST RIDING,Male,fettlers filer of castings,91,58500,1,58930,PRISON OFFICERS (REFORMATORY SCHOOL),Prison Guard,
+1901,LANCASHIRE,Male,quarryman wind stone,224,71130,1,71110,STONE QUARRIERS,"Quarryman, General",
+1901,GLAMORGANSHIRE,Male,crane driver at steel works,244,72100,1,72000,"STEEL--MANUFACTURE, SMELTING, FOUNDING","Metal Processor, Specialisation Unknown",
+1901,SOMERSET,Male,ordinary farm servant,181,62110,1,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,LONDON,Female,assistant booksellers,543,21194,1,21110,"PUBLISHERS, BOOKSELLERS AND LIBRARIANS (EXCEPT PUBLIC LIBRARIANS)",General Manager,
+1901,SUFFOLK,Female,dress maker apprentice,657,79130,4,79140,DRESSMAKERS,Dressmaker,
+1901,SOMERSET,Male,sheep farmer,173,61110,2,61110,"FARMER, GRAZIER",General Farmer,
+1901,STAFFORDSHIRE,Female,brass maker,250,72000,1,72000,"BRASS, BRONZE-MANUFACTURE","Metal Processor, Specialisation Unknown",moderate
+1901,MIDDLESEX,Male,stone keeper dist ry co,220,21140,1,21110,STONE QUARRY MINE OWNERS,General Manager,
+1901,ANGLESEY,Male,engineer marine,158,98200,4,98290,MERCHANT SERVICE; SEAMAN--ENGINEERING DEPARTMENT,Other Ships’ Engine-Room Ratings,
+1901,SOMERSET,Male,railway cattle canvasser,125,24100,1,39960,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Clerk,
+1901,SUSSEX,Female,maid servant domestic,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,CUMBERLAND,Male,retired railway agent,125,24100,1,22230,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Service Supervisor,
+1901,LANCASHIRE,Female,helper calico weaver,551,75400,2,75432,COTTON & COTTON GOODS MANUFACTURE WEAVING PROCESSES,Cloth Weaver (Hand or Machine),
+1901,LONDON,Unknown,gas  hot water engineer,308,83890,1,83990,GAS STOVE MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,NORTHUMBERLAND,Male,despatch clerk,119,39310,3,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",moderate
+1901,CHESHIRE,Male,general labourer farm,181,62110,7,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,LINCOLNSHIRE,Male,horse  cattle dealer,136,41010,3,41025,"HORSE PROPRIETOR, BREEDER, DEALER",Working Proprietor (Wholesale or Retail Trade),
+1901,WORCESTERSHIRE,Female,warwick  worcester,5,20100,1,20110,"MPs, MINISTERS OF THE CROWN & PEERS",Legislative Official,
+1901,HAMPSHIRE,Female,headmistress school board,55,39900,1,39990,"OTHERS CONNECTED WITH EDUCATION - SCHOOL SERVICE GENERAL, ATTENDANTS, CLERKS, ETC",Other Clerks,
+1901,DORSET,Male,decorator  painter,421,93120,2,93120,"PAINTERS, DISTEMPERERS & DECORATORS",Building Painter,moderate
+1901,LONDON,Male,retired corn  forage merchant,687,41010,1,41020,CORN FLOUR AND SEED MERCHANTS DEALERS,Working Proprietor (Wholesale Trade),
+1901,LONDON,Male,clerk to german agent for fancy goods,599,79990,1,75490,FANCY GOODS TEXTILE MANUFACTURE (VARIOUS),Other Weavers and Related Workers,complex
+1901,LONDON,Male,insurance messenger  hsekeeper,123,39310,1,39350,INSURANCE OFFICIALS CLERKS,Insurance Clerk,
+1901,NORFOLK,Male,labourer market gardens,184,61240,1,62720,MARKET GARDENER (INCLUDING LABOURER),Market Garden Worker,
+1901,STAFFORDSHIRE,Male,working baliff on farm,177,61400,1,21230,FARM - BAILIFFS STEWARDS FOREMEN,Farm Manager,
+1901,YORKSHIRE WEST RIDING,Male,worsted factory roving stockroom,572,75000,1,75000,WORSTED AND STUFF MANUFACTURE UNDEFINED,"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,DEVON,Male,butcher shopkeeper,682,77310,1,77310,BUTCHERS AND MEAT SALESMEN,"Butcher, General",
+1901,LANCASHIRE,Male,living on own means retired painter house,778,99999,1,99999,PRIVATE MEANS,Unspecified worktitle or several titles,complex
+1901,GLOUCESTERSHIRE,Female,private tutor,52,13200,1,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",
+1901,MIDDLESEX,Male,traveller newspapers,114,43090,1,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,
+1901,GLAMORGANSHIRE,Female,servant,84,54020,209,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LEICESTERSHIRE,Male,retired provision manager,680,41010,1,41025,PROVISION DEALERS,Working Proprietor (Wholesale or Retail Trade),
+1901,YORKSHIRE EAST RIDING,Male,railway trimmer,365,81300,2,87370,"COACH, CARRIAGE--MAKER",Vehicle Sheet-Metal Worker,
+1901,WARWICKSHIRE,Female,burnisher studs,337,83520,1,83520,METAL BURNISHERS (UNDEFINED),Buffing and PolishingMachine Operator,
+1901,STAFFORDSHIRE,Male,packer at emanel works,329,83890,1,83990,IRON CLASP BUCKLE HINGE MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,BERKSHIRE,Male,rollers biscuit factory,690,77690,1,77610,BISCUIT CAKE BREAD MAKERS,"Baker, General",
+1901,GLAMORGANSHIRE,Male,retired liscensed victualler,713,51020,1,51020,"INNKEEPERS, HOTEL KEEPERS AND PUBLICANS",Working Proprietor (Hotel and Restaurant),moderate
+1901,YORKSHIRE WEST RIDING,Female,cloth weaver woollen,561,75200,2,75432,WOOL WINDERS WOOL WARPERS WOOL WEAVERS,Cloth Weaver (Hand or Machine),
+1901,CHESHIRE,Female,general servant on farm,181,62110,6,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,KENT,Male,inspector metropolitan police,11,58220,1,58220,POLICE,Policeman and other Maintainers of Law and Order (except Military),
+1901,STAFFORDSHIRE,Male,master seisdon union workhouse,12,31090,1,31090,POOR LAW SERVICE,Government Executive Officials Not Elsewhere Classified,
+1901,YORKSHIRE WEST RIDING,Male,steam crane fitter apprentice,263,84130,1,84105,"FITTERS, TURNERS (ENGINE AND MACHINE)","Machinery Fitter, General",
+1901,NORTHUMBERLAND,Female,servant washerwoman,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,GLOUCESTERSHIRE,Male,railway wagon examr,360,81300,1,81920,"RAILWAY--COACH, WAGON MAKER",CoachBody Builder,
+1901,SUSSEX,Male,carter in brickfield,141,98550,8,98620,CARMEN CARRIERS CARTERS AND DRAYMEN,Animal-Drawn Vehicle Driver (Road),
+1901,OXFORDSHIRE,Male,assistant hay tyer on farm,192,95330,1,62990,THATCHERS (AGRICULTURE),Other Agricultural and Animal Husbandry Workers,
+1901,LANCASHIRE,Male,shipping office app,2,37020,1,37090,OTHER POST OFFICE OFFICERS AND CLERKS,Other Mail Distribution Clerks,
+1901,LONDON,Male,decorator church,30,14120,1,14120,"MINISTER, PRIEST, OF UNITED FREE CHURCH",Minister of Religion,
+1901,LONDON,Male,quantity surveyor,66,3010,107,3010,"LAND, HOUSE, SHIP--SURVEYOR","Surveyor, General",
+1901,CUMBERLAND,Male,agent,114,43090,1,43200,COMMERCIAL TRAVELLERS AND MANUFACTURERS' AGENTS,Commercial Travellers and Manufacturers Agents,simple
+1901,CHESHIRE,Female,hawker green grocery,760,45220,2,45220,HAWKERS HUCKSTERS COSTERS,Street Vendor,
+1901,LANCASHIRE,Male,fender moulder,309,83890,1,83990,STOVE GRATE RANGE FIRE-IRON MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,ESSEX,Male,sub manager silk factory,579,75000,1,75000,SILK WORKERS - UNDEFINED,"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,YORKSHIRE WEST RIDING,Male,colliery boy driver,201,2700,1,2710,MINE SERVICE ENGINEERS,"Mining Engineer, General",
+1901,LANCASHIRE,Male,journeyman pie  sausage maker confectioner  tobacconist,707,41010,1,41030,TOBACCONISTS,Working Proprietor (Retail Trade),
+1901,YORKSHIRE NORTH RIDING,Male,grocer  tea dealer,697,41010,1,41030,GROCERS TEA DEALERS,Working Proprietor (Retail Trade),
+1901,SUFFOLK,Female,farmer,173,61110,245,61110,"FARMER, GRAZIER",General Farmer,simple
+1901,LONDON,Male,cadets servant r m a,27,58420,1,58340,MEN OF THE MARINES,Other Military Ranks,
+1901,WORCESTERSHIRE,Male,furnaceman brass  copper,247,87330,2,72000,COPPER MANUFACTURE,"Metal Processor, Specialisation Unknown",
+1901,MONMOUTHSHIRE,Male,train examiner wheel trapper,189,64970,1,64960,RABBIT CATCHERS TRAPPERS DESTROYERS (ON FARM),Trapper and Hunter,
+1901,CORNWALL,Male,gold miner s africa,212,71120,1,71105,GOLD MINER,"Miner, General",
+1901,STAFFORDSHIRE,Male,labourer in brickfield,464,89300,3,89360,"BRICK, PLAIN TILE, TERRA-COTTA--MAKER",Brick and Tile Kilnman,
+1901,LONDON,Male,carver cleaner,445,81250,1,81945,WOOD CARVER,Wood Carver,
+1901,LANCASHIRE,Male,driller dock yard,345,87530,2,87462,SHIP BOAT PLATERS RIVETTERS,Riveter (Hand or Machine),
+1901,LANCASHIRE,Male,ironfounders coremaker,259,72400,1,72500,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED","Metal Moulder or Coremaker, Specialisation Unknown",
+1901,HERTFORDSHIRE,Male,odd boy ironmonger,145,98550,1,97130,"VAN, ETC.---GUARD, BOY",Railway and Road Vehicle Loader,
+1901,HAMPSHIRE,Female,agricultural field laborer,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,STAFFORDSHIRE,Male,farm labourer hedger,181,62110,2,62120,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED",Farm Servant,
+1901,WILTSHIRE,Male,road man stonebreaker,436,97490,1,99910,ROAD LABOURERS,Labourer,moderate
+1901,LANCASHIRE,Male,apprentice printers machinist,363,84400,1,84320,MOTOR CAR CHASSIS MAKER: MOTOR CAR MECHANIC,Automobile Mechanic,
+1901,LONDON,Male,proprietor of cafe restaurant,711,51050,1,51050,COFFEE AND EATING-HOUSE KEEPERS,"Working Proprietor  (Cafe, Bar and Snack Bar)",
+1901,DERBYSHIRE,Male,letter boy cotton mill,555,79990,1,75000,COTTON & COTTON GOODS MANUFACTURE UNDEFINED,"Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+1901,-,Male,pts ii,10,37040,1,37040,"PRISON SERVICE MESSENGERS, ETC.,",Messenger,
+1901,YORKSHIRE WEST RIDING,Male,student of engineering,785,99999,1,99999,OTHER STUDENTS,Unspecified worktitle or several titles,
+1901,ISLANDS IN THE BRITISH SEAS,Female,housemaid,84,54020,98,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,simple
+1901,YORKSHIRE NORTH RIDING,Male,musician,76,17120,54,17145,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Singer,simple
+1901,YORKSHIRE NORTH RIDING,Female,g wife,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,STAFFORDSHIRE,Male,lamplighter,723,87130,41,74925,GAS WORKS SERVICE,Coal-Gas Maker,simple
+1901,NORFOLK,Male,butcher journey man,681,77340,1,77320,SLAUGHTERER,Slaughterer,
+1901,CORNWALL,Male,manager of iron foundry and rock drill works,259,72400,1,72420,"IRONFOUNDER -- MOULDERS, CORE MAKERS, FETTER, CUPOLA, OVERN-MAN, FOUNDRY LABOURER, OTHER & UNDEFINED",Metal Pourer,
+1901,ISLANDS IN THE BRITISH SEAS,Male,farm serv,181,62110,2,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,DURHAM,Male,railway clerk wesleyan local preacher,125,24100,1,22240,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Transport Service Inspector,
+1901,LONDON,Female,iron warehouseman,168,97190,1,97145,WAREHOUSEMEN (NOT MANCHESTER GOODS),Warehouse Porter,
+1901,ESSEX,Female,shirt dresser,659,79590,9,79510,SHIRTMAKERS AND SEAMSTRESSES,"Hand and Machine Sewer, General",
+1901,LANCASHIRE,Male,machine minder nail shop,533,92110,1,92230,PRINTING MACHINE MINDERS,Rotary Pressman,
+1901,KENT,Male,contractors son carman,791,99999,1,99999,CHILDREN RELATIVES VISITORS AT HOME,Unspecified worktitle or several titles,
+1901,NORFOLK,Female,under nurse domestic,84,54020,8,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,YORKSHIRE WEST RIDING,Male,retired cloth tuller,772,99999,1,99999,RETIRED (NOT ARMY OR NAVY),Unspecified worktitle or several titles,
+1901,LONDON,Male,warehouse man boot fcty,168,97190,1,97145,WAREHOUSEMEN (NOT MANCHESTER GOODS),Warehouse Porter,
+1901,CAMBRIDGESHIRE,Female,home,788,99999,2,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,simple
+1901,YORKSHIRE WEST RIDING,Male,engine brass core maker,325,83890,1,83990,BRASS BRONZE IMPLEMENT MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,LANCASHIRE,Male,life insurance super,124,44120,1,44120,INSURANCE AGENTS,Insurance Salesman,
+1901,MONMOUTHSHIRE,Male,inland revenue clerk,6,20200,1,20210,OTHER CIVIL SERVICE OFFICERS AND CLERKS,Government Administrator,moderate
+1901,LEICESTERSHIRE,Male,shoe rivetter by hand,663,80100,1,80110,SHOE AND BOOT MAKERS (AND REPAIRERS),"Shoemaker, General",
+1901,KENT,Female,sewing machine instructor,378,41015,4,41020,ZINC DEALERS,Working Proprietor (Wholesale Trade),
+1901,LINCOLNSHIRE,Male,plater,768,84110,4,21110,ARTISANS MECHANICS,General Manager,simple
+1901,WARWICKSHIRE,Male,road man county council,436,97490,1,99910,ROAD LABOURERS,Labourer,complex
+1901,YORKSHIRE WEST RIDING,Male,bird cage maker wire,313,83860,1,72725,WIRE MAKERS WORKERS WEAVERS,Wire Drawer (Hand or Machine),
+1901,WARWICKSHIRE,Male,blacksmithe,262,83120,1,83110,BLACKSMITHS,"Blacksmith, General",simple
+1901,WILTSHIRE,Male,hotel waiter,719,53220,6,53210,HOTEL WAITERS,"Waiter, General",
+1901,STAFFORDSHIRE,Unknown,foreman at iron works,334,72000,1,83000,IRON WORKERS (UNDEFINED),"Blacksmith, Toolmaker or Machine-Tool Operator, Specialisation Unknown",
+1901,NORTHUMBERLAND,Male,gas yd labourer,205,74390,1,99930,FACTORY LABOURERS (UNDEFINED) COKE AND GAS,Factory Worker,
+1901,LINCOLNSHIRE,Male,millwright  steam sawyer,258,84120,1,84175,MILLWRIGHT,Machinery Erector and Installer,
+1901,WORCESTERSHIRE,Female,tin cleaner tin shop,377,41015,1,41020,"DEALERS IN TIN, TINPLATE",Working Proprietor (Wholesale Trade),
+1901,STAFFORDSHIRE,Female,cord winder,584,75700,1,75710,"ROPE, TWINE, CORD û MAKERS","Rope Maker, General",moderate
+1901,YORKSHIRE WEST RIDING,Male,retired col civil service pensiones,8,20200,1,20210,SENIOR OFFIALS AND OTHERS IN EAST INDIA SERVICE,Government Administrator,
+1901,CORNWALL,Male,farm ag labourer,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,OXFORDSHIRE,Female,lodgekeeper,94,64990,1,64990,"PARK, LODGE, GATE, ETC.--KEEPER (NOT GOVERNMENT)","Other Fishermen, Hunters and Related Workers",simple
+1901,LANCASHIRE,Male,letter press printers appce,537,92900,1,92990,OTHERS IN PRINTING,Other Printers and Related Workers,
+1901,LANCASHIRE,Male,professor music drawing artist,53,13100,1,13100,UNIVERSITY TEACHERS,"University and Higher Education Teacher, Subject Unknown",
+1901,CORNWALL,Male,mine engine smith,214,21140,1,21110,"METALLIFEROUS MINE--OWNER, GENERAL MANAGER, CAPTAIN",General Manager,
+1901,GLAMORGANSHIRE,Male,ship  colliery owners clerk,119,39310,1,30000,COMMERCIAL OR BUSINESS CLERKS,"Clerical or Related Worker, Specialisation Unknown",complex
+1901,ANGLESEY,Female,grocer  draper,655,41010,1,41025,CLOTHIERS & OUTFITTERS (IE DEALERS AND MERCHANTS),Working Proprietor (Wholesale or Retail Trade),
+1901,WORCESTERSHIRE,Male,odd jobbs about farm,177,61400,1,21230,FARM - BAILIFFS STEWARDS FOREMEN,Farm Manager,
+1901,KENT,Female,greengrocer wife,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,LANCASHIRE,Male,life assurance agents,124,44120,2,44120,INSURANCE AGENTS,Insurance Salesman,
+1901,LANCASHIRE,Male,insurance agent  hardware shop,124,44120,1,44120,INSURANCE AGENTS,Insurance Salesman,
+1901,BUCKINGHAMSHIRE,Female,wife of bricklayer,788,99999,1,99999,WIVES AND OTHERS ENGAGED IN (OWN) HOUSEHOLD DUTIES,Unspecified worktitle or several titles,
+1901,MONMOUTHSHIRE,Female,polisher at slate works,329,83890,1,83990,IRON CLASP BUCKLE HINGE MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,MONMOUTHSHIRE,Male,stockman on farm,179,62420,38,62420,"AGRICULTURAL LABOURER, FARM SERVANT--DISTINGUISHED AS IN CHARGE OF CATTLE",Beef Cattle Farm Worker,
+1901,LANCASHIRE,Female,general servant not worker,108,54010,1,54010,SERVANTS - UNDEFINED (NON-RESIDENT),"Domestic Servant, General",
+1901,CHESHIRE,Male,apprentice commission agent,41,12900,1,12310,OTHERS CONNECTED WITH LAW,Notary,
+1901,LONDON,Male,sliver polisher,439,93190,2,81955,FRENCH POLISHER,Wooden Furniture Finisher,
+1901,WARWICKSHIRE,Male,butler retired,84,54020,1,54020,OTHER DOMESTIC INDOOR SERVANTS -- UNDEFINED,House Servant,
+1901,LANCASHIRE,Female,florist yard,183,61250,1,62730,"NURSERYMAN, SEEDSMAN, FLORIST",Nursery Worker,moderate
+1901,WARWICKSHIRE,Male,wholesale haberdasher,662,75500,1,41025,HOSIERS HABERDASHERS,Working Proprietor (Wholesale or Retail Trade),
+1901,LONDON,Unknown,jam bottler,694,77400,1,77660,JAM PRESERVE SWEET MAKERS,Confectionary Makers,
+1901,ESSEX,Male,musical instut mcht,399,41010,1,41030,MUSICAL INSTRUMENT DEALERS,Working Proprietor (Retail Trade),
+1901,LANCASHIRE,Male,butchers shop lad,171,37040,1,58940,"MESSENGER, PORTER, WATCHMAN (NOT RAILWAY OR GOVERNMENT)",Watchman,
+1901,LONDON,Female,shaw card mounter,522,91020,1,91090,"CARD, STATIONERY MAKERS",Other Paper and Paperboard Products Makers,
+1901,LONDON,Male,retired cut glass manfr,379,41015,1,41020,LEAD DEALERS,Working Proprietor (Wholesale Trade),
+1901,YORKSHIRE WEST RIDING,Female,florist  fruiter,667,79940,1,79990,ARTIFICIAL FLOWER MAKERS,"Other Tailors, Dressmakers, Sewers, Upholsterers and Related Workers",
+1901,MONMOUTHSHIRE,Female,domestic farm servant,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,GLOUCESTERSHIRE,Male,cask maker cooper,457,81500,1,81930,"COOPER; HOOP--MAKER, BENDER",Cooper,
+1901,NOTTINGHAMSHIRE,Male,mid railway clerk,125,24100,1,22230,"RAILWAY OFFICIAL - INSPECTORS, SUPERVISORS, CLERK",Railway Service Supervisor,
+1901,STAFFORDSHIRE,Female,thimble maker pottery,509,80390,3,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,DEVON,Male,ships husband,159,52030,1,53150,"MERCHANT SERVICE: SEAMAN--COOKS, STEWARDS, AND OTHERS (SUBSIDIARY SERVICE)",Ship's Cook,
+1901,CHESHIRE,Female,teacher of piano forte,76,17120,3,17120,"MUSICIAN, MUSIC MASTER, SINGER (NOT TEACHERS)",Composer,
+1901,YORKSHIRE WEST RIDING,Male,foreman pecker maker,509,80390,1,80390,"PARCHMENT, VELLUM - MAKER",Other Leather Goods Makers,
+1901,MERIONETHSHIRE,Male,ordinary agriculture labourer,181,62110,1,62105,"AGRICULTURAL LABOURER, FARM SERVANT--NOT OTHERWISE DISTINGUISHED","Farm-Worker, General",
+1901,LONDON,Male,gas  hot water fitter maker,316,83890,1,83990,GAS FITTINGS MAKERS,"Other Blacksmiths, Toolmakers and MachineTool Operators Not Elsewhere Classified",
+1901,SURREY,Male,labourer fullers earth pits,765,99130,1,99910,GENERAL LABOURERS,Labourer,
+1901,YORKSHIRE WEST RIDING,Male,beerhouse mfr  yeast dealer,703,41010,1,41025,OTHERS DEALING IN FOOD,Working Proprietor (Wholesale or Retail Trade),
+1901,NORFOLK,Male,tutor,52,13200,8,13020,SCHOOLMASTERS AND TEACHERS (DEFAULT),"Teacher, Level and Subject Unknown, Not University and Higher Education Level",simple

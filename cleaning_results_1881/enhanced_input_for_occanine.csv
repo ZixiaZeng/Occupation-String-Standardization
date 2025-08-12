@@ -1,0 +1,998 @@
+record_id,original_hisco,enhanced_input,original_occupation,sex,county,count
+0,99999,Female shopkeeper wife in Anglesey,shopkeeper wife,Female,Anglesey,3
+1,41010,Female shop manager in Anglesey,shop manager,Female,Anglesey,1
+2,61110,Male farmer in acres in Anglesey,farmer in acres,Male,Anglesey,1
+3,61110,Male occupier of ac of land farmer in Anglesey,occupier of ac of land farmer,Male,Anglesey,1
+4,58220,Male police sergeant in Bedfordshire,police sergeant,Male,Bedfordshire,4
+5,54090,Female agl labr housekeeper in Bedfordshire,agl labr housekeeper,Female,Bedfordshire,1
+6,54020,Female house parlour maid domestic servant in Bedfordshire,house parlour maid domestic servant,Female,Bedfordshire,1
+7,13920,Female governess in Bedfordshire,governess,Female,Bedfordshire,1
+8,99999,Female baker wife in Bedfordshire,baker wife,Female,Bedfordshire,1
+9,99999,Female corn dealer wife in Bedfordshire,corn dealer wife,Female,Bedfordshire,1
+10,17120,Male schoolmaster and teacher of music in Bedfordshire,schoolmaster and teacher of music,Male,Bedfordshire,1
+11,61110,Male farmer of acres in Bedfordshire,farmer of acres,Male,Bedfordshire,1
+12,61400,Male farm bailiff in Bedfordshire,farm bailiff,Male,Bedfordshire,1
+13,75600,Male bleacher leghorn in Bedfordshire,bleacher leghorn,Male,Bedfordshire,1
+14,99999,Male labourer in gardens n d in Bedfordshire,labourer in gardens n d,Male,Bedfordshire,1
+15,62460,Male groom in Berkshire,groom,Male,Berkshire,87
+16,54020,Female nursemaid in Berkshire,nursemaid,Female,Berkshire,78
+17,41015,Male timber merchant in Berkshire,timber merchant,Male,Berkshire,10
+18,62110,Female hand field in Berkshire,hand field,Female,Berkshire,7
+19,62460,Male kennelman in Berkshire,kennelman,Male,Berkshire,2
+20,-1,Male berks in Berkshire,berks,Male,Berkshire,2
+21,54020,Female mothers help dom servant in Berkshire,mothers help dom servant,Female,Berkshire,1
+22,44120,Female agent for sutton co parcel delivery in Berkshire,agent for sutton co parcel delivery,Female,Berkshire,1
+23,79400,Female glove gaiter maker in Berkshire,glove gaiter maker,Female,Berkshire,1
+24,99999,Female farm bailiff daughter in Berkshire,farm bailiff daughter,Female,Berkshire,1
+25,14120,Male rector of pangbourne in Berkshire,rector of pangbourne,Male,Berkshire,1
+26,14120,Male vicar of wantage in Berkshire,vicar of wantage,Male,Berkshire,1
+27,61110,Male farmer of acres employing laborers in Berkshire,farmer of acres employing laborers,Male,Berkshire,1
+28,96900,Male engine driver in Berkshire,engine driver,Male,Berkshire,1
+29,61110,Male farmer domestic servant indoor in Brecknockshire,farmer domestic servant indoor,Male,Brecknockshire,2
+30,95410,Male apprentice carpenter in Brecknockshire,apprentice carpenter,Male,Brecknockshire,2
+31,61110,Male farmer acreage not known in Brecknockshire,farmer acreage not known,Male,Brecknockshire,1
+32,61110,Male farmer of acres employing agricultural labourer in Brecknockshire,farmer of acres employing agricultural labourer,Male,Brecknockshire,1
+33,95140,Male mason tiler plasterer employing man in Brecknockshire,mason tiler plasterer employing man,Male,Brecknockshire,1
+34,79130,Female dressmaker in Buckinghamshire,dressmaker,Female,Buckinghamshire,2
+35,54020,Female domestic servant in Buckinghamshire,domestic servant,Female,Buckinghamshire,1
+36,99999,Female blacksmith wife in Buckinghamshire,blacksmith wife,Female,Buckinghamshire,1
+37,2200,Male retired civil engineer in Buckinghamshire,retired civil engineer,Male,Buckinghamshire,1
+38,54020,Male valet dom in Buckinghamshire,valet dom,Male,Buckinghamshire,1
+39,21230,Male master builder employs men in Buckinghamshire,master builder employs men,Male,Buckinghamshire,1
+40,99999,Female unemployed in Cambridgeshire,unemployed,Female,Cambridgeshire,60
+41,79120,Male retired tailor in Cambridgeshire,retired tailor,Male,Cambridgeshire,10
+42,62110,Male agricultural labourer in Cambridgeshire,agricultural labourer,Male,Cambridgeshire,2
+43,62110,Female farm servant in Cambridgeshire,farm servant,Female,Cambridgeshire,1
+44,62110,Female housekeeper in Cambridgeshire,housekeeper,Female,Cambridgeshire,1
+45,41010,Male horsedealer in Cambridgeshire,horsedealer,Male,Cambridgeshire,1
+46,61110,Male stonemason builder emp men boys in Cambridgeshire,stonemason builder emp men boys,Male,Cambridgeshire,1
+47,62420,Male agricultural labourer in Cambridgeshire,agricultural labourer,Male,Cambridgeshire,1
+48,95110,Male wood stone carver mason in Cambridgeshire,wood stone carver mason,Male,Cambridgeshire,1
+49,41010,Male boy linen draper empg men in Cambridgeshire,boy linen draper empg men,Male,Cambridgeshire,1
+50,99999,Male child in Cardiganshire,child,Male,Cardiganshire,32
+51,58410,Male pensioner naval in Cardiganshire,pensioner naval,Male,Cardiganshire,4
+52,54010,Female domestic servant not in employ in Cardiganshire,domestic servant not in employ,Female,Cardiganshire,1
+53,99999,Female supervisors wife in Cardiganshire,supervisors wife,Female,Cardiganshire,1
+54,62110,Male farmer work on farm agricultural labourer in Cardiganshire,farmer work on farm agricultural labourer,Male,Cardiganshire,1
+55,87530,Male apprentice iron manufacture in Cardiganshire,apprentice iron manufacture,Male,Cardiganshire,1
+56,80100,Male clog maker wooden shoe in Cardiganshire,clog maker wooden shoe,Male,Cardiganshire,1
+57,72200,Male shearer tinman in Carmarthenshire,shearer tinman,Male,Carmarthenshire,2
+58,72200,Male furnaceman in tinman works pw in Carmarthenshire,furnaceman in tinman works pw,Male,Carmarthenshire,1
+59,41010,Male apprentice draper in Carmarthenshire,apprentice draper,Male,Carmarthenshire,1
+60,54020,Female domestic servant in Carnarvonshire,domestic servant,Female,Carnarvonshire,2
+61,51020,Male licensed victualler in Carnarvonshire,licensed victualler,Male,Carnarvonshire,2
+62,99999,Female labourer wife in Carnarvonshire,labourer wife,Female,Carnarvonshire,1
+63,31090,Male farmer rel officer reg of b d in Carnarvonshire,farmer rel officer reg of b d,Male,Carnarvonshire,1
+64,61110,Male retired farmer and seaman in Carnarvonshire,retired farmer and seaman,Male,Carnarvonshire,1
+65,83120,Male blacksmith asst servant in Carnarvonshire,blacksmith asst servant,Male,Carnarvonshire,1
+66,77310,Male pork butcher employing men in Carnarvonshire,pork butcher employing men,Male,Carnarvonshire,1
+67,96900,Male engine stoker at a slate quarry in Carnarvonshire,engine stoker at a slate quarry,Male,Carnarvonshire,1
+68,62110,Male farm servant in Cheshire,farm servant,Male,Cheshire,42
+69,99999,Female coal labourer wife in Cheshire,coal labourer wife,Female,Cheshire,18
+70,74920,Male labourer in ry works in Cheshire,labourer in ry works,Male,Cheshire,17
+71,51020,Male house proprietor in Cheshire,house proprietor,Male,Cheshire,15
+72,51020,Male retired innkeeper in Cheshire,retired innkeeper,Male,Cheshire,8
+73,12900,Male articled clerk solicitors in Cheshire,articled clerk solicitors,Male,Cheshire,3
+74,54010,Female formerly waitress in Cheshire,formerly waitress,Female,Cheshire,2
+75,61110,Male farmer acres in Cheshire,farmer acres,Male,Cheshire,2
+76,94920,Male taxidermist in Cheshire,taxidermist,Male,Cheshire,2
+77,41010,Female assistant in shop coal dealer in Cheshire,assistant in shop coal dealer,Female,Cheshire,1
+78,79620,Female retired upholsterer in Cheshire,retired upholsterer,Female,Cheshire,1
+79,99999,Female factory overlookers wife in Cheshire,factory overlookers wife,Female,Cheshire,1
+80,41010,Male ales porter merchant in Cheshire,ales porter merchant,Male,Cheshire,1
+81,33130,Male cashier common law clerk in Cheshire,cashier common law clerk,Male,Cheshire,1
+82,98900,Male working tramway stables in Cheshire,working tramway stables,Male,Cheshire,1
+83,61110,Male farm bailiffe acres employ men in Cheshire,farm bailiffe acres employ men,Male,Cheshire,1
+84,61110,Male farm of acres in Cheshire,farm of acres,Male,Cheshire,1
+85,61110,Male farmer acres employing men in Cheshire,farmer acres employing men,Male,Cheshire,1
+86,61400,Male farm ac in Cheshire,farm ac,Male,Cheshire,1
+87,62110,Male agricultural labourer in Cheshire,agricultural labourer,Male,Cheshire,1
+88,75990,Male callenderman in Cheshire,callenderman,Male,Cheshire,1
+89,87530,Male apprentice shipwright carpenter in Cheshire,apprentice shipwright carpenter,Male,Cheshire,1
+90,87590,Male weight taker shipwright yard bld in Cheshire,weight taker shipwright yard bld,Male,Cheshire,1
+91,63120,Male laborer in boatman yard builder in Cheshire,laborer in boatman yard builder,Male,Cheshire,1
+92,92600,Male book binder employs boys women in Cheshire,book binder employs boys women,Male,Cheshire,1
+93,75200,Male cotton picer in Cheshire,cotton picer,Male,Cheshire,1
+94,41010,Male apprentice silk mercers dlr in Cheshire,apprentice silk mercers dlr,Male,Cheshire,1
+95,51020,Male publican cabinet maker in Cheshire,publican cabinet maker,Male,Cheshire,1
+96,61110,Male farmer of acres in Cornwall,farmer of acres,Male,Cornwall,16
+97,99999,Female butcher wife in Cornwall,butcher wife,Female,Cornwall,4
+98,21220,Male contractor foot in Cornwall,contractor foot,Male,Cornwall,4
+99,99999,Female evangelists wife in Cornwall,evangelists wife,Female,Cornwall,1
+100,31090,Male market toll collector in Cornwall,market toll collector,Male,Cornwall,1
+101,54020,Male a general servant in Cornwall,a general servant,Male,Cornwall,1
+102,54020,Male servant general in the household in Cornwall,servant general in the household,Male,Cornwall,1
+103,61110,Male farmer of acres employ labourer in Cornwall,farmer of acres employ labourer,Male,Cornwall,1
+104,62920,Male oil dealer color man in Cornwall,oil dealer color man,Male,Cornwall,1
+105,96900,Male tinman mine engine driver stoker in Cornwall,tinman mine engine driver stoker,Male,Cornwall,1
+106,-1,Male passager in Cornwall,passager,Male,Cornwall,1
+107,99999,Male income from land in Cumberland,income from land,Male,Cumberland,8
+108,81190,Male apprentice cabinet maker in Cumberland,apprentice cabinet maker,Male,Cumberland,6
+109,62110,Female general servant agricultural labourer in Cumberland,general servant agricultural labourer,Female,Cumberland,3
+110,99999,Female engine smith wife in Cumberland,engine smith wife,Female,Cumberland,3
+111,54020,Female general dom in Cumberland,general dom,Female,Cumberland,2
+112,79590,Female sewer in Cumberland,sewer,Female,Cumberland,2
+113,4250,Male master shipwright in Cumberland,master shipwright,Male,Cumberland,2
+114,61400,Female farm sert dom in Cumberland,farm sert dom,Female,Cumberland,1
+115,99130,Female labouring woman in Cumberland,labouring woman,Female,Cumberland,1
+116,99999,Female railway porter wife in Cumberland,railway porter wife,Female,Cumberland,1
+117,99999,Female wid in Cumberland,wid,Female,Cumberland,1
+118,37020,Male postmastercs in Cumberland,postmastercs,Male,Cumberland,1
+119,98300,Male engine driver on mcry in Cumberland,engine driver on mcry,Male,Cumberland,1
+120,61250,Male husbandsman in Cumberland,husbandsman,Male,Cumberland,1
+121,76140,Male tanner foreman in Cumberland,tanner foreman,Male,Cumberland,1
+122,99999,Male scholar school in Cumberland,scholar school,Male,Cumberland,1
+123,99999,Female clock maker wife in Denbighshire,clock maker wife,Female,Denbighshire,1
+124,6100,Male assistant medical officer in Denbighshire,assistant medical officer,Male,Denbighshire,1
+125,79190,Male assistant clothes tailor in Denbighshire,assistant clothes tailor,Male,Denbighshire,1
+126,79590,Female needlewoman in Derbyshire,needlewoman,Female,Derbyshire,37
+127,75000,Male hand factory cotton in Derbyshire,hand factory cotton,Male,Derbyshire,15
+128,6200,Male dentist in Derbyshire,dentist,Male,Derbyshire,9
+129,62110,Male farm servant in Derbyshire,farm servant,Male,Derbyshire,2
+130,7110,Female monthly nurse in Derbyshire,monthly nurse,Female,Derbyshire,1
+131,58500,Female income derived from rents of houses in Derbyshire,income derived from rents of houses,Female,Derbyshire,1
+132,21230,Female builder in Derbyshire,builder,Female,Derbyshire,1
+133,81230,Female pott wheelwright turner in Derbyshire,pott wheelwright turner,Female,Derbyshire,1
+134,51040,Female lodging and boardinghouse keeper in Derbyshire,lodging and boardinghouse keeper,Female,Derbyshire,1
+135,94990,Female tob in Derbyshire,tob,Female,Derbyshire,1
+136,2100,Male architect surveyer in Derbyshire,architect surveyer,Male,Derbyshire,1
+137,61110,Male blacksmith farmer of acres in Derbyshire,blacksmith farmer of acres,Male,Derbyshire,1
+138,61110,Male boy farmer of ac employ cowmen waggoner in Derbyshire,boy farmer of ac employ cowmen waggoner,Male,Derbyshire,1
+139,72200,Male roller in Derbyshire,roller,Male,Derbyshire,1
+140,41010,Male house furnisher in Derbyshire,house furnisher,Male,Derbyshire,1
+141,99130,Male gardener labourer n d in Derbyshire,gardener labourer n d,Male,Derbyshire,1
+142,99999,Male youth boy tea dealer employing a and a in Derbyshire,youth boy tea dealer employing a and a,Male,Derbyshire,1
+143,76140,Male retired tanner in Devon,retired tanner,Male,Devon,8
+144,62110,Male servant in Devon,servant,Male,Devon,5
+145,61110,Male farmer of acres in Devon,farmer of acres,Male,Devon,4
+146,81300,Male retired coachbuilder in Devon,retired coachbuilder,Male,Devon,3
+147,14120,Female labs domestic domestic servant daughter in Devon,labs domestic domestic servant daughter,Female,Devon,1
+148,54020,Female general domestic servant domestic in Devon,general domestic servant domestic,Female,Devon,1
+149,54020,Female housemaid in Devon,housemaid,Female,Devon,1
+150,63120,Female rope yard in h m dockyard in Devon,rope yard in h m dockyard,Female,Devon,1
+151,99999,Female formerly hairdressers wife in Devon,formerly hairdressers wife,Female,Devon,1
+152,99999,Female of indian judge annuitant widow in Devon,of indian judge annuitant widow,Female,Devon,1
+153,58420,Male retired major general jp in Devon,retired major general jp,Male,Devon,1
+154,58420,Male retired merchant captain in Devon,retired merchant captain,Male,Devon,1
+155,43090,Male book traveller in Devon,book traveller,Male,Devon,1
+156,43090,Male commercial traveller for father in Devon,commercial traveller for father,Male,Devon,1
+157,21160,Male shipwright keeper in Devon,shipwright keeper,Male,Devon,1
+158,61110,Male boy farmer acres labourer in Devon,boy farmer acres labourer,Male,Devon,1
+159,61110,Male boy farmer of acres employing men in Devon,boy farmer of acres employing men,Male,Devon,1
+160,61110,Male farmer of ac emp labourer in Devon,farmer of ac emp labourer,Male,Devon,1
+161,61110,Male farmer of acres servant in Devon,farmer of acres servant,Male,Devon,1
+162,41010,Male dealer in stones in Devon,dealer in stones,Male,Devon,1
+163,99150,Male apprentice in Devon,apprentice,Male,Devon,1
+164,99150,Male apprentice to blacksmith boot in Devon,apprentice to blacksmith boot,Male,Devon,1
+165,99999,Male domestic servant son in Devon,domestic servant son,Male,Devon,1
+166,99999,Male no profession as of all in Devon,no profession as of all,Male,Devon,1
+167,74720,Male retired tallow chandler in Dorset,retired tallow chandler,Male,Dorset,2
+168,54020,Female domestic domestic servant club house in Dorset,domestic domestic servant club house,Female,Dorset,1
+169,44110,Female interest on investments in Dorset,interest on investments,Female,Dorset,1
+170,75000,Female flax bobbin changer at factory in Dorset,flax bobbin changer at factory,Female,Dorset,1
+171,54020,Male general servant groom c in Dorset,general servant groom c,Male,Dorset,1
+172,62110,Male farm laborer in Dorset,farm laborer,Male,Dorset,1
+173,97410,Male general labourer in Dorset,general labourer,Male,Dorset,1
+174,73300,Male labourer at paper miller in Dorset,labourer at paper miller,Male,Dorset,1
+175,49040,Male boy paper night in Dorset,boy paper night,Male,Dorset,1
+176,99150,Male apprentice boy in Dorset,apprentice boy,Male,Dorset,1
+177,99999,Male scholar home duties in Dorset,scholar home duties,Male,Dorset,1
+178,89200,Male potter and earthenware manufacturer in Durham,potter and earthenware manufacturer,Male,Durham,12
+179,92400,Male lithographer in Durham,lithographer,Male,Durham,7
+180,99999,Female boarders wife in Durham,boarders wife,Female,Durham,2
+181,87530,Male apprentice shipbuilder in Durham,apprentice shipbuilder,Male,Durham,2
+182,94120,Male pianoforte maker in Durham,pianoforte maker,Male,Durham,2
+183,44110,Female income from land houses interest of money in Durham,income from land houses interest of money,Female,Durham,1
+184,62110,Female formerly a farm servant in Durham,formerly a farm servant,Female,Durham,1
+185,83160,Female chainman in Durham,chainman,Female,Durham,1
+186,83890,Female pattern maker at w iron in Durham,pattern maker at w iron,Female,Durham,1
+187,80390,Female clothes pin maker in Durham,clothes pin maker,Female,Durham,1
+188,99999,Female helpers wife in Durham,helpers wife,Female,Durham,1
+189,58420,Male sergeant major yeomanry cavalry in Durham,sergeant major yeomanry cavalry,Male,Durham,1
+190,62711,Male domestic servant in Durham,domestic servant,Male,Durham,1
+191,61110,Male iron monger steam shop owner farmer of acres employing men in Durham,iron monger steam shop owner farmer of acres employing men,Male,Durham,1
+192,62110,Male farm servant ag indoor in Durham,farm servant ag indoor,Male,Durham,1
+193,83230,Male joiner pattern maker engine in Durham,joiner pattern maker engine,Male,Durham,1
+194,95420,Male apprentice joiner in Durham,apprentice joiner,Male,Durham,1
+195,79120,Male journey tailor in Durham,journey tailor,Male,Durham,1
+196,99130,Male woodyard labourer in Durham,woodyard labourer,Male,Durham,1
+197,54020,Female servant in Essex,servant,Female,Essex,13
+198,62460,Male ostler in Essex,ostler,Male,Essex,7
+199,14140,Male hawkers a c c in Essex,hawkers a c c,Male,Essex,6
+200,54020,Female servant formerly in Essex,servant formerly,Female,Essex,2
+201,55100,Female charity parish allowance in Essex,charity parish allowance,Female,Essex,1
+202,17120,Female late gard organist in Essex,late gard organist,Female,Essex,1
+203,61240,Female works for the market garden in Essex,works for the market garden,Female,Essex,1
+204,41010,Female show room manager drapery in Essex,show room manager drapery,Female,Essex,1
+205,99999,Female justice of the peace and import merchant wife in Essex,justice of the peace and import merchant wife,Female,Essex,1
+206,13200,Male teacher in Essex,teacher,Male,Essex,1
+207,41010,Male retired merchant in Essex,retired merchant,Male,Essex,1
+208,61400,Male baliff in Essex,baliff,Male,Essex,1
+209,64100,Male dredger fisherman in Essex,dredger fisherman,Male,Essex,1
+210,95120,Male railway labourer in Essex,railway labourer,Male,Essex,1
+211,96900,Male fireman sugar works in Essex,fireman sugar works,Male,Essex,1
+212,-1,Male n in Essex,n,Male,Essex,1
+213,62110,Male formerly farm labr in Flintshire,formerly farm labr,Male,Flintshire,1
+214,99999,Female puddler wife in Glamorganshire,puddler wife,Female,Glamorganshire,30
+215,99999,Female sholar in Glamorganshire,sholar,Female,Glamorganshire,13
+216,75200,Male wool weaver cloth in Glamorganshire,wool weaver cloth,Male,Glamorganshire,12
+217,62110,Male farm laborer in Glamorganshire,farm laborer,Male,Glamorganshire,2
+218,62110,Male labourer in Glamorganshire,labourer,Male,Glamorganshire,2
+219,72200,Male manager tinplate works in Glamorganshire,manager tinplate works,Male,Glamorganshire,2
+220,41010,Male fruiterer in Glamorganshire,fruiterer,Male,Glamorganshire,2
+221,54010,Female general servant at home dom in Glamorganshire,general servant at home dom,Female,Glamorganshire,1
+222,61400,Female farm bailiff in Glamorganshire,farm bailiff,Female,Glamorganshire,1
+223,99150,Female apprentice dressmaker in Glamorganshire,apprentice dressmaker,Female,Glamorganshire,1
+224,99999,Female police constable wife in Glamorganshire,police constable wife,Female,Glamorganshire,1
+225,39310,Male clerk to stipendiary magistrate in Glamorganshire,clerk to stipendiary magistrate,Male,Glamorganshire,1
+226,98490,Male rail straightener in Glamorganshire,rail straightener,Male,Glamorganshire,1
+227,61110,Male plumber in Glamorganshire,plumber,Male,Glamorganshire,1
+228,71120,Male collir in Glamorganshire,collir,Male,Glamorganshire,1
+229,71130,Male quarry man in Glamorganshire,quarry man,Male,Glamorganshire,1
+230,72200,Male catching in tinman works in Glamorganshire,catching in tinman works,Male,Glamorganshire,1
+231,87350,Male apprentice boiler makers labourer in Glamorganshire,apprentice boiler makers labourer,Male,Glamorganshire,1
+232,41015,Male hammarman tinman in Glamorganshire,hammarman tinman,Male,Glamorganshire,1
+233,21290,Male railway yardman in Glamorganshire,railway yardman,Male,Glamorganshire,1
+234,41010,Male assistant in shop grocer in Glamorganshire,assistant in shop grocer,Male,Glamorganshire,1
+235,96900,Male engineer biscuit factory driver in Glamorganshire,engineer biscuit factory driver,Male,Glamorganshire,1
+236,99999,Male student in Gloucestershire,student,Male,Gloucestershire,74
+237,37040,Female porter in Gloucestershire,porter,Female,Gloucestershire,7
+238,13920,Female governess private t in Gloucestershire,governess private t,Female,Gloucestershire,5
+239,97430,Male plate layer on railway in Gloucestershire,plate layer on railway,Male,Gloucestershire,5
+240,21194,Female librarian in Gloucestershire,librarian,Female,Gloucestershire,4
+241,62110,Male agricultural labourer in Gloucestershire,agricultural labourer,Male,Gloucestershire,3
+242,95410,Male carpenter out of employment in Gloucestershire,carpenter out of employment,Male,Gloucestershire,2
+243,41010,Male flock grinder wife in Gloucestershire,flock grinder wife,Male,Gloucestershire,2
+244,58420,Female unable to work has parish pay in Gloucestershire,unable to work has parish pay,Female,Gloucestershire,1
+245,62110,Female farm servant domestic agricultural labourer in Gloucestershire,farm servant domestic agricultural labourer,Female,Gloucestershire,1
+246,75200,Female cloth weaver formerly in Gloucestershire,cloth weaver formerly,Female,Gloucestershire,1
+247,51050,Female assistant in ref house eating in Gloucestershire,assistant in ref house eating,Female,Gloucestershire,1
+248,99999,Female scholer in Gloucestershire,scholer,Female,Gloucestershire,1
+249,99999,Female ag labs wife in Gloucestershire,ag labs wife,Female,Gloucestershire,1
+250,98520,Male coachman dom servant in Gloucestershire,coachman dom servant,Male,Gloucestershire,1
+251,71120,Male fitterironworks in Gloucestershire,fitterironworks,Male,Gloucestershire,1
+252,72100,Male striker in iron foundry in Gloucestershire,striker in iron foundry,Male,Gloucestershire,1
+253,97410,Male builders labourer in Gloucestershire,builders labourer,Male,Gloucestershire,1
+254,95120,Male retired bricklayer in Gloucestershire,retired bricklayer,Male,Gloucestershire,1
+255,94990,Male bookkeeper corset factory in Gloucestershire,bookkeeper corset factory,Male,Gloucestershire,1
+256,94990,Male hand general paper factory in Gloucestershire,hand general paper factory,Male,Gloucestershire,1
+257,62711,Male gardener in Hampshire,gardener,Male,Hampshire,66
+258,6200,Male dentist in Hampshire,dentist,Male,Hampshire,23
+259,62110,Male labourer in Hampshire,labourer,Male,Hampshire,10
+260,4250,Male retired seaman in Hampshire,retired seaman,Male,Hampshire,5
+261,87390,Male apprentice whitesmiths in Hampshire,apprentice whitesmiths,Male,Hampshire,5
+262,95410,Male apprentice carpenter in Hampshire,apprentice carpenter,Male,Hampshire,5
+263,14120,Female ladies nurse dom in Hampshire,ladies nurse dom,Female,Hampshire,3
+264,37020,Male draftsman surveyor os office in Hampshire,draftsman surveyor os office,Male,Hampshire,3
+265,54090,Male servant hotel in Hampshire,servant hotel,Male,Hampshire,2
+266,14120,Female domestic servant wife in Hampshire,domestic servant wife,Female,Hampshire,1
+267,7320,Female retired midwife in Hampshire,retired midwife,Female,Hampshire,1
+268,41010,Female fancy repository keeper fgi in Hampshire,fancy repository keeper fgi,Female,Hampshire,1
+269,99200,Female hand factor in Hampshire,hand factor,Female,Hampshire,1
+270,99999,Female manageress of girls home in Hampshire,manageress of girls home,Female,Hampshire,1
+271,58430,Male retired mariner captain m navy in Hampshire,retired mariner captain m navy,Male,Hampshire,1
+272,14120,Male vicar of weston in Hampshire,vicar of weston,Male,Hampshire,1
+273,98300,Male engine driver locomotive railway in Hampshire,engine driver locomotive railway,Male,Hampshire,1
+274,52030,Male ships stewd asst in Hampshire,ships stewd asst,Male,Hampshire,1
+275,61110,Male farmer acres employ man in Hampshire,farmer acres employ man,Male,Hampshire,1
+276,62430,Male shepherd in Hampshire,shepherd,Male,Hampshire,1
+277,41015,Male assistant coal in Hampshire,assistant coal,Male,Hampshire,1
+278,41015,Male coal mercht and sheriff of southampton in Hampshire,coal mercht and sheriff of southampton,Male,Hampshire,1
+279,84130,Male second foreman engine fitter in Hampshire,second foreman engine fitter,Male,Hampshire,1
+280,95110,Male mason apprentice in Hampshire,mason apprentice,Male,Hampshire,1
+281,41010,Male assistant coal dealer in Hampshire,assistant coal dealer,Male,Hampshire,1
+282,80390,Male umbrella maker in Hampshire,umbrella maker,Male,Hampshire,1
+283,51020,Male retired licensed victualler in Hampshire,retired licensed victualler,Male,Hampshire,1
+284,51050,Male general dealer beer retailer in Hampshire,general dealer beer retailer,Male,Hampshire,1
+285,96900,Male apprentice engine maker in Hampshire,apprentice engine maker,Male,Hampshire,1
+286,54020,Female domestic servant in Herefordshire,domestic servant,Female,Herefordshire,3
+287,54020,Female domestic servant out of employ in Herefordshire,domestic servant out of employ,Female,Herefordshire,3
+288,99999,Female currier daughter in Herefordshire,currier daughter,Female,Herefordshire,2
+289,61110,Male farmer of acres in Herefordshire,farmer of acres,Male,Herefordshire,2
+290,98490,Male railway laborer farm acres in Herefordshire,railway laborer farm acres,Male,Herefordshire,1
+291,61400,Male bailiff other in Herefordshire,bailiff other,Male,Herefordshire,1
+292,45190,Male agricultural machine proprietor a matt in Herefordshire,agricultural machine proprietor a matt,Male,Herefordshire,1
+293,97490,Male draper in Herefordshire,draper,Male,Herefordshire,1
+294,83290,Male scales maker scale in Herefordshire,scales maker scale,Male,Herefordshire,1
+295,77100,Male boy miller employing man in Herefordshire,boy miller employing man,Male,Herefordshire,1
+296,77310,Male journeyman butcher in Hertfordshire,journeyman butcher,Male,Hertfordshire,3
+297,81300,Male carriage maker in Hertfordshire,carriage maker,Male,Hertfordshire,2
+298,62110,Female farm servant in Hertfordshire,farm servant,Female,Hertfordshire,1
+299,37020,Male clerk office of sewers london muni in Hertfordshire,clerk office of sewers london muni,Male,Hertfordshire,1
+300,89300,Male bricklayer in Hertfordshire,bricklayer,Male,Hertfordshire,1
+301,77690,Male cook and confectioner employing men boys woman in Hertfordshire,cook and confectioner employing men boys woman,Male,Hertfordshire,1
+302,62920,Male pheasant keeper bird in Hertfordshire,pheasant keeper bird,Male,Hertfordshire,1
+303,99999,Female tailor publican wife in Huntingdonshire,tailor publican wife,Female,Huntingdonshire,1
+304,58410,Male pensioner naval in Kent (Extra London),pensioner naval,Male,Kent (Extra London),179
+305,95110,Male stonemason in Kent (Extra London),stonemason,Male,Kent (Extra London),80
+306,58430,Male sergeant kent arty militia in Kent (Extra London),sergeant kent arty militia,Male,Kent (Extra London),4
+307,24100,Male clerk railway co in Kent (Extra London),clerk railway co,Male,Kent (Extra London),3
+308,13200,Female certified sup school mistress in Kent (Extra London),certified sup school mistress,Female,Kent (Extra London),2
+309,99999,Female cottage property in Kent (Extra London),cottage property,Female,Kent (Extra London),2
+310,99999,Female coachmaker trimmers daughter in Kent (Extra London),coachmaker trimmers daughter,Female,Kent (Extra London),2
+311,14120,Male footman dom servant in Kent (Extra London),footman dom servant,Male,Kent (Extra London),2
+312,62110,Male labourer ag farm in Kent (Extra London),labourer ag farm,Male,Kent (Extra London),2
+313,87130,Male retort setter gas works in Kent (Extra London),retort setter gas works,Male,Kent (Extra London),2
+314,99999,Male pupil or scholar in Kent (Extra London),pupil or scholar,Male,Kent (Extra London),2
+315,7110,Female village nurse in Kent (Extra London),village nurse,Female,Kent (Extra London),1
+316,62110,Female agricultural labourer in Kent (Extra London),agricultural labourer,Female,Kent (Extra London),1
+317,62110,Female formerly farm servant in Kent (Extra London),formerly farm servant,Female,Kent (Extra London),1
+318,41010,Female draper emplying assist in Kent (Extra London),draper emplying assist,Female,Kent (Extra London),1
+319,41010,Female green grocer in shop in Kent (Extra London),green grocer in shop,Female,Kent (Extra London),1
+320,99999,Female builders surveyor wife in Kent (Extra London),builders surveyor wife,Female,Kent (Extra London),1
+321,99999,Female no occ blacksmith wife in Kent (Extra London),no occ blacksmith wife,Female,Kent (Extra London),1
+322,20200,Male civil service excise branch ride officer in Kent (Extra London),civil service excise branch ride officer,Male,Kent (Extra London),1
+323,58420,Male retired major in the army in Kent (Extra London),retired major in the army,Male,Kent (Extra London),1
+324,6300,Male veterinary surgeon mr cuvs in Kent (Extra London),veterinary surgeon mr cuvs,Male,Kent (Extra London),1
+325,17120,Male teacher of languages maths in Kent (Extra London),teacher of languages maths,Male,Kent (Extra London),1
+326,54020,Male gentlemans domestic servant in Kent (Extra London),gentlemans domestic servant,Male,Kent (Extra London),1
+327,54020,Male servant to a family domestic in Kent (Extra London),servant to a family domestic,Male,Kent (Extra London),1
+328,56000,Male formerly tilemaker in Kent (Extra London),formerly tilemaker,Male,Kent (Extra London),1
+329,54010,Male nautical assessor home department csc in Kent (Extra London),nautical assessor home department csc,Male,Kent (Extra London),1
+330,39310,Male agency clerk in Kent (Extra London),agency clerk,Male,Kent (Extra London),1
+331,4250,Male seaman mate in Kent (Extra London),seaman mate,Male,Kent (Extra London),1
+332,52030,Male steward in Kent (Extra London),steward,Male,Kent (Extra London),1
+333,37040,Male boy errand greengrocers in Kent (Extra London),boy errand greengrocers,Male,Kent (Extra London),1
+334,37040,Male labourer porter in Kent (Extra London),labourer porter,Male,Kent (Extra London),1
+335,87530,Male shipwright in Kent (Extra London),shipwright,Male,Kent (Extra London),1
+336,87130,Male master plumber decorator in Kent (Extra London),master plumber decorator,Male,Kent (Extra London),1
+337,89300,Male brickyard labourer layer in Kent (Extra London),brickyard labourer layer,Male,Kent (Extra London),1
+338,80320,Male pauper harness maker in Kent (Extra London),pauper harness maker,Male,Kent (Extra London),1
+339,73300,Male rag engineer in paper miller in Kent (Extra London),rag engineer in paper miller,Male,Kent (Extra London),1
+340,75400,Male various investments in Kent (Extra London),various investments,Male,Kent (Extra London),1
+341,75000,Male colour sergeant miller in Kent (Extra London),colour sergeant miller,Male,Kent (Extra London),1
+342,61260,Male drayman in Kent (Extra London),drayman,Male,Kent (Extra London),1
+343,96900,Male engine driver in Kent (Extra London),engine driver,Male,Kent (Extra London),1
+344,99999,Male retired licensed victualler in Kent (Extra London),retired licensed victualler,Male,Kent (Extra London),1
+345,98520,Male coachman in Lancashire,coachman,Male,Lancashire,293
+346,75100,Female carder in cotton miller in Lancashire,carder in cotton miller,Female,Lancashire,79
+347,75200,Female warper cotton in Lancashire,warper cotton,Female,Lancashire,65
+348,94290,Female brush maker in Lancashire,brush maker,Female,Lancashire,55
+349,81990,Male lath cutter in Lancashire,lath cutter,Male,Lancashire,16
+350,73300,Male hand copper miner in Lancashire,hand copper miner,Male,Lancashire,16
+351,17120,Female singer in Lancashire,singer,Female,Lancashire,13
+352,75990,Female operative cotton out of work in Lancashire,operative cotton out of work,Female,Lancashire,13
+353,98550,Male buss conductor in Lancashire,buss conductor,Male,Lancashire,12
+354,71120,Male coal labourer in Lancashire,coal labourer,Male,Lancashire,12
+355,79990,Female sack bag maker in Lancashire,sack bag maker,Female,Lancashire,10
+356,-1,Male s in Lancashire,s,Male,Lancashire,9
+357,17120,Female vocalist musician in Lancashire,vocalist musician,Female,Lancashire,8
+358,75990,Male packer at bleachworks cotton in Lancashire,packer at bleachworks cotton,Male,Lancashire,5
+359,95410,Male operative carpenter joiner in Lancashire,operative carpenter joiner,Male,Lancashire,4
+360,43090,Male apprentice meat salesman in Lancashire,apprentice meat salesman,Male,Lancashire,3
+361,39310,Male clerk bleach works in Lancashire,clerk bleach works,Male,Lancashire,3
+362,6500,Female chiropodist in Lancashire,chiropodist,Female,Lancashire,2
+363,79340,Female bonnet maker in Lancashire,bonnet maker,Female,Lancashire,2
+364,45220,Female pedlar in Lancashire,pedlar,Female,Lancashire,2
+365,54010,Male servant man inn in Lancashire,servant man inn,Male,Lancashire,2
+366,62110,Male agricultural labourer agricultal indoor in Lancashire,agricultural labourer agricultal indoor,Male,Lancashire,2
+367,83150,Male farrier horse shoer in Lancashire,farrier horse shoer,Male,Lancashire,2
+368,81190,Male windsor chair maker in Lancashire,windsor chair maker,Male,Lancashire,2
+369,89120,Male unemployed harness maker in Lancashire,unemployed harness maker,Male,Lancashire,2
+370,76140,Male leather in Lancashire,leather,Male,Lancashire,2
+371,-1,Male retired from business in Lancashire,retired from business,Male,Lancashire,2
+372,37020,Female post office in Lancashire,post office,Female,Lancashire,1
+373,54090,Female housekeeper to earl wilton in Lancashire,housekeeper to earl wilton,Female,Lancashire,1
+374,54020,Female boarder servant in Lancashire,boarder servant,Female,Lancashire,1
+375,54020,Female general domestic in Lancashire,general domestic,Female,Lancashire,1
+376,54020,Female unemployed domestic servant in Lancashire,unemployed domestic servant,Female,Lancashire,1
+377,75400,Female centre for alic cotton cottons in Lancashire,centre for alic cotton cottons,Female,Lancashire,1
+378,75300,Female crape draper in Lancashire,crape draper,Female,Lancashire,1
+379,75200,Female twiners c piecer in Lancashire,twiners c piecer,Female,Lancashire,1
+380,79130,Female dressmaker in Lancashire,dressmaker,Female,Lancashire,1
+381,53220,Female waitress of house in Lancashire,waitress of house,Female,Lancashire,1
+382,22190,Female retired overlooker in Lancashire,retired overlooker,Female,Lancashire,1
+383,99150,Female apprentice in Lancashire,apprentice,Female,Lancashire,1
+384,83400,Female machinist father in Lancashire,machinist father,Female,Lancashire,1
+385,99999,Female formerly a quilter in Lancashire,formerly a quilter,Female,Lancashire,1
+386,99999,Female scholors in Lancashire,scholors,Female,Lancashire,1
+387,99999,Female bachs wife in Lancashire,bachs wife,Female,Lancashire,1
+388,99999,Female bleacher cloths wife in Lancashire,bleacher cloths wife,Female,Lancashire,1
+389,99999,Female boot and shoe maker wife in Lancashire,boot and shoe maker wife,Female,Lancashire,1
+390,99999,Female earthenware manufacture wife in Lancashire,earthenware manufacture wife,Female,Lancashire,1
+391,99999,Female foreman dyer wife in Lancashire,foreman dyer wife,Female,Lancashire,1
+392,99999,Female spreaders wife in Lancashire,spreaders wife,Female,Lancashire,1
+393,99999,Female iron manufacture daughter in Lancashire,iron manufacture daughter,Female,Lancashire,1
+394,37020,Male at postboy office csm in Lancashire,at postboy office csm,Male,Lancashire,1
+395,37020,Male com clerk indian manchester office in Lancashire,com clerk indian manchester office,Male,Lancashire,1
+396,14120,Male vicar of tonge cum brightmead in Lancashire,vicar of tonge cum brightmead,Male,Lancashire,1
+397,16150,Male apprentice to engraver litho in Lancashire,apprentice to engraver litho,Male,Lancashire,1
+398,17120,Male music teacher advertising agent in Lancashire,music teacher advertising agent,Male,Lancashire,1
+399,54090,Male asylum attendant instit domestic servant in Lancashire,asylum attendant instit domestic servant,Male,Lancashire,1
+400,41010,Male turkish merchant in Lancashire,turkish merchant,Male,Lancashire,1
+401,43090,Male commercial traveller in Lancashire,commercial traveller,Male,Lancashire,1
+402,43090,Male commercial traveller boot shoe trade in Lancashire,commercial traveller boot shoe trade,Male,Lancashire,1
+403,39310,Male clerk at tobacco manufactory in Lancashire,clerk at tobacco manufactory,Male,Lancashire,1
+404,97130,Male railway porter in Lancashire,railway porter,Male,Lancashire,1
+405,4250,Male frierman seaman in Lancashire,frierman seaman,Male,Lancashire,1
+406,97120,Male commerce clerk dock labourer in Lancashire,commerce clerk dock labourer,Male,Lancashire,1
+407,97190,Male cloth warehouse boy in Lancashire,cloth warehouse boy,Male,Lancashire,1
+408,62920,Male stockwright in Lancashire,stockwright,Male,Lancashire,1
+409,71190,Male laborer at colliery miner in Lancashire,laborer at colliery miner,Male,Lancashire,1
+410,87330,Male copper refiner in Lancashire,copper refiner,Male,Lancashire,1
+411,72400,Male iron foundry labourer general in Lancashire,iron foundry labourer general,Male,Lancashire,1
+412,72400,Male mechanic beer seller agricl iron works in Lancashire,mechanic beer seller agricl iron works,Male,Lancashire,1
+413,84130,Male engine tool fitter at works in Lancashire,engine tool fitter at works,Male,Lancashire,1
+414,83520,Male miller finisher retailer in Lancashire,miller finisher retailer,Male,Lancashire,1
+415,83400,Male beershop keeper in Lancashire,beershop keeper,Male,Lancashire,1
+416,84190,Male apprentice turner in machine works in Lancashire,apprentice turner in machine works,Male,Lancashire,1
+417,83830,Male ag implement maker in Lancashire,ag implement maker,Male,Lancashire,1
+418,83850,Male nail maker in Lancashire,nail maker,Male,Lancashire,1
+419,83860,Male foreman wire works tobacconist in Lancashire,foreman wire works tobacconist,Male,Lancashire,1
+420,83860,Male goldsmith wire maker ont in Lancashire,goldsmith wire maker ont,Male,Lancashire,1
+421,21230,Male employer joiner builder of labour in Lancashire,employer joiner builder of labour,Male,Lancashire,1
+422,95410,Male master joiner in Lancashire,master joiner,Male,Lancashire,1
+423,41010,Male apprentice to chemist d in Lancashire,apprentice to chemist d,Male,Lancashire,1
+424,94290,Male assistant hair drawer in Lancashire,assistant hair drawer,Male,Lancashire,1
+425,43030,Male warehouseman news agent in Lancashire,warehouseman news agent,Male,Lancashire,1
+426,75400,Male pensioner cotton weaver in Lancashire,pensioner cotton weaver,Male,Lancashire,1
+427,75200,Male hand woollen weaver by in Lancashire,hand woollen weaver by,Male,Lancashire,1
+428,75400,Male silk weaver dresser in Lancashire,silk weaver dresser,Male,Lancashire,1
+429,75600,Male finisher of cloth bleach wks in Lancashire,finisher of cloth bleach wks,Male,Lancashire,1
+430,41010,Male apprentice in silk warehouse manuf in Lancashire,apprentice in silk warehouse manuf,Male,Lancashire,1
+431,79120,Male no occupation formerly tailor in Lancashire,no occupation formerly tailor,Male,Lancashire,1
+432,77100,Male miller emp men boys in Lancashire,miller emp men boys,Male,Lancashire,1
+433,41010,Male grain laborer corn dl in Lancashire,grain laborer corn dl,Male,Lancashire,1
+434,77650,Male apprentice to tea trade in Lancashire,apprentice to tea trade,Male,Lancashire,1
+435,51020,Male outdoor beerhouse keeper in Lancashire,outdoor beerhouse keeper,Male,Lancashire,1
+436,99120,Male labourer carter out of employ in Lancashire,labourer carter out of employ,Male,Lancashire,1
+437,96900,Male boiler tender unemployed engine driver in Lancashire,boiler tender unemployed engine driver,Male,Lancashire,1
+438,99150,Male apprentice g in Lancashire,apprentice g,Male,Lancashire,1
+439,80100,Female shoe machinist in Leicestershire,shoe machinist,Female,Leicestershire,16
+440,17120,Female teacher music in Leicestershire,teacher music,Female,Leicestershire,4
+441,61400,Male bailiff in Leicestershire,bailiff,Male,Leicestershire,4
+442,77310,Female retired butcher in Leicestershire,retired butcher,Female,Leicestershire,3
+443,62110,Male work on farm in Leicestershire,work on farm,Male,Leicestershire,2
+444,12900,Female clerk solicitors in Leicestershire,clerk solicitors,Female,Leicestershire,1
+445,54090,Female vegetable maid in Leicestershire,vegetable maid,Female,Leicestershire,1
+446,97190,Female housekeeper in Leicestershire,housekeeper,Female,Leicestershire,1
+447,81730,Female box maker in Leicestershire,box maker,Female,Leicestershire,1
+448,81300,Male employed at ry wagon works in Leicestershire,employed at ry wagon works,Male,Leicestershire,1
+449,87130,Male master plumber employing plumbers plumber labs in Leicestershire,master plumber employing plumbers plumber labs,Male,Leicestershire,1
+450,75000,Male engine smith at factory em in Leicestershire,engine smith at factory em,Male,Leicestershire,1
+451,75500,Male frameworker employing men hos manf in Leicestershire,frameworker employing men hos manf,Male,Leicestershire,1
+452,99999,Male labourer son in Lincolnshire,labourer son,Male,Lincolnshire,34
+453,37040,Male boy baker errand in Lincolnshire,boy baker errand,Male,Lincolnshire,9
+454,99999,Male annutant in Lincolnshire,annutant,Male,Lincolnshire,4
+455,62110,Male general servant agricultural labourer in Lincolnshire,general servant agricultural labourer,Male,Lincolnshire,2
+456,95920,Female paperhanger wife in Lincolnshire,paperhanger wife,Female,Lincolnshire,1
+457,99999,Female parochial relief in Lincolnshire,parochial relief,Female,Lincolnshire,1
+458,20200,Male inland revenue officer cs off in Lincolnshire,inland revenue officer cs off,Male,Lincolnshire,1
+459,14120,Male rector of willingham in Lincolnshire,rector of willingham,Male,Lincolnshire,1
+460,6100,Male frcsengl lrcpedlsaland genl practioner in Lincolnshire,frcsengl lrcpedlsaland genl practioner,Male,Lincolnshire,1
+461,2700,Male civil engineer architect in Lincolnshire,civil engineer architect,Male,Lincolnshire,1
+462,61110,Male agricultural labourer in Lincolnshire,agricultural labourer,Male,Lincolnshire,1
+463,61110,Male brewer maltster farmer in Lincolnshire,brewer maltster farmer,Male,Lincolnshire,1
+464,61110,Male farmer acres employs men boys in Lincolnshire,farmer acres employs men boys,Male,Lincolnshire,1
+465,61110,Male farmer of acres employing men and boys in Lincolnshire,farmer of acres employing men and boys,Male,Lincolnshire,1
+466,61110,Male farmer of acres grocer in Lincolnshire,farmer of acres grocer,Male,Lincolnshire,1
+467,61110,Male inkeeper farms acres in Lincolnshire,inkeeper farms acres,Male,Lincolnshire,1
+468,61400,Male bailiff foreman on a farm in Lincolnshire,bailiff foreman on a farm,Male,Lincolnshire,1
+469,62430,Male sheppard on farm in Lincolnshire,sheppard on farm,Male,Lincolnshire,1
+470,62110,Male servant in Lincolnshire,servant,Male,Lincolnshire,1
+471,83830,Male machine maker in Lincolnshire,machine maker,Male,Lincolnshire,1
+472,87590,Male fitters apprentice in Lincolnshire,fitters apprentice,Male,Lincolnshire,1
+473,81400,Male wheelwright and machine mate in Lincolnshire,wheelwright and machine mate,Male,Lincolnshire,1
+474,79190,Male tailor cutter in Lincolnshire,tailor cutter,Male,Lincolnshire,1
+475,80100,Male journeyman cordwainer in Lincolnshire,journeyman cordwainer,Male,Lincolnshire,1
+476,80100,Male rivetter shoe in Lincolnshire,rivetter shoe,Male,Lincolnshire,1
+477,41010,Male tobbaconist in Lincolnshire,tobbaconist,Male,Lincolnshire,1
+478,80100,"Male boot maker in London (Parts Of Middlesex, ",boot maker,Male,"London (Parts Of Middlesex, ",4547
+479,62460,"Male no in London (Parts Of Middlesex, ",no,Male,"London (Parts Of Middlesex, ",49
+480,53290,"Male servant club in London (Parts Of Middlesex, ",servant club,Male,"London (Parts Of Middlesex, ",27
+481,79320,"Female apprentice milliner in London (Parts Of Middlesex, ",apprentice milliner,Female,"London (Parts Of Middlesex, ",16
+482,81730,"Female cardboard liner in London (Parts Of Middlesex, ",cardboard liner,Female,"London (Parts Of Middlesex, ",10
+483,84110,"Female assist in London (Parts Of Middlesex, ",assist,Female,"London (Parts Of Middlesex, ",8
+484,17120,"Male retired musician in London (Parts Of Middlesex, ",retired musician,Male,"London (Parts Of Middlesex, ",7
+485,33130,"Male clerk to bank in London (Parts Of Middlesex, ",clerk to bank,Male,"London (Parts Of Middlesex, ",7
+486,62710,"Male road labourer in London (Parts Of Middlesex, ",road labourer,Male,"London (Parts Of Middlesex, ",7
+487,99999,"Male watch maker son in London (Parts Of Middlesex, ",watch maker son,Male,"London (Parts Of Middlesex, ",6
+488,99999,"Female of dentist wife in London (Parts Of Middlesex, ",of dentist wife,Female,"London (Parts Of Middlesex, ",5
+489,54020,"Female servant ladysmaid in London (Parts Of Middlesex, ",servant ladysmaid,Female,"London (Parts Of Middlesex, ",4
+490,99999,"Female schoolmaster in London (Parts Of Middlesex, ",schoolmaster,Female,"London (Parts Of Middlesex, ",4
+491,16150,"Male apprentice wood engravers in London (Parts Of Middlesex, ",apprentice wood engravers,Male,"London (Parts Of Middlesex, ",4
+492,7110,"Female nurse in London (Parts Of Middlesex, ",nurse,Female,"London (Parts Of Middlesex, ",3
+493,54020,"Female domestic servant in London (Parts Of Middlesex, ",domestic servant,Female,"London (Parts Of Middlesex, ",3
+494,3200,"Female assistant hat in London (Parts Of Middlesex, ",assistant hat,Female,"London (Parts Of Middlesex, ",3
+495,81190,"Female cabinet maker wife in London (Parts Of Middlesex, ",cabinet maker wife,Female,"London (Parts Of Middlesex, ",3
+496,97120,"Male dock labourer in London (Parts Of Middlesex, ",dock labourer,Male,"London (Parts Of Middlesex, ",3
+497,81190,"Male chair back maker in London (Parts Of Middlesex, ",chair back maker,Male,"London (Parts Of Middlesex, ",3
+498,74730,"Male labourer soap works in London (Parts Of Middlesex, ",labourer soap works,Male,"London (Parts Of Middlesex, ",3
+499,41010,"Male late coal merchant in London (Parts Of Middlesex, ",late coal merchant,Male,"London (Parts Of Middlesex, ",3
+500,54020,"Female assistant housekeeper in London (Parts Of Middlesex, ",assistant housekeeper,Female,"London (Parts Of Middlesex, ",2
+501,54020,"Female servant house maid in London (Parts Of Middlesex, ",servant house maid,Female,"London (Parts Of Middlesex, ",2
+502,91020,"Female mantle maker cutter in London (Parts Of Middlesex, ",mantle maker cutter,Female,"London (Parts Of Middlesex, ",2
+503,41010,"Female apprentice cigar making tobacconist in London (Parts Of Middlesex, ",apprentice cigar making tobacconist,Female,"London (Parts Of Middlesex, ",2
+504,99999,"Female carrier wife in London (Parts Of Middlesex, ",carrier wife,Female,"London (Parts Of Middlesex, ",2
+505,99999,"Female milk carrier daughter in London (Parts Of Middlesex, ",milk carrier daughter,Female,"London (Parts Of Middlesex, ",2
+506,39310,"Male clerk leather merchants in London (Parts Of Middlesex, ",clerk leather merchants,Male,"London (Parts Of Middlesex, ",2
+507,81300,"Male waggon maker ry in London (Parts Of Middlesex, ",waggon maker ry,Male,"London (Parts Of Middlesex, ",2
+508,41010,"Male grocers in London (Parts Of Middlesex, ",grocers,Male,"London (Parts Of Middlesex, ",2
+509,99999,"Male visiting in London (Parts Of Middlesex, ",visiting,Male,"London (Parts Of Middlesex, ",2
+510,37020,"Female assistant supervisor postboy office telegraphist in London (Parts Of Middlesex, ",assistant supervisor postboy office telegraphist,Female,"London (Parts Of Middlesex, ",1
+511,14120,"Female annuitant w of clergyman of church of england in London (Parts Of Middlesex, ",annuitant w of clergyman of church of england,Female,"London (Parts Of Middlesex, ",1
+512,14120,"Female lode in London (Parts Of Middlesex, ",lode,Female,"London (Parts Of Middlesex, ",1
+513,14120,"Female genlservtdomestic in London (Parts Of Middlesex, ",genlservtdomestic,Female,"London (Parts Of Middlesex, ",1
+514,17120,"Female musician in London (Parts Of Middlesex, ",musician,Female,"London (Parts Of Middlesex, ",1
+515,54020,"Female monthly in London (Parts Of Middlesex, ",monthly,Female,"London (Parts Of Middlesex, ",1
+516,54020,"Female servant dom uneployed in London (Parts Of Middlesex, ",servant dom uneployed,Female,"London (Parts Of Middlesex, ",1
+517,53102,"Female cook in London (Parts Of Middlesex, ",cook,Female,"London (Parts Of Middlesex, ",1
+518,53101,"Female cook dom boarder in London (Parts Of Middlesex, ",cook dom boarder,Female,"London (Parts Of Middlesex, ",1
+519,83890,"Female grazier in London (Parts Of Middlesex, ",grazier,Female,"London (Parts Of Middlesex, ",1
+520,94290,"Female wire bristle brush maker in London (Parts Of Middlesex, ",wire bristle brush maker,Female,"London (Parts Of Middlesex, ",1
+521,41010,"Female stationer fancy dealer in London (Parts Of Middlesex, ",stationer fancy dealer,Female,"London (Parts Of Middlesex, ",1
+522,41010,"Female leather bag maker draper in London (Parts Of Middlesex, ",leather bag maker draper,Female,"London (Parts Of Middlesex, ",1
+523,79340,"Female late bonnet maker in London (Parts Of Middlesex, ",late bonnet maker,Female,"London (Parts Of Middlesex, ",1
+524,79330,"Female army cap maker accoutrement in London (Parts Of Middlesex, ",army cap maker accoutrement,Female,"London (Parts Of Middlesex, ",1
+525,51040,"Female surgeons boarding housekeeper widow in London (Parts Of Middlesex, ",surgeons boarding housekeeper widow,Female,"London (Parts Of Middlesex, ",1
+526,99999,"Female income derived from freehold property in London (Parts Of Middlesex, ",income derived from freehold property,Female,"London (Parts Of Middlesex, ",1
+527,99999,"Female missionarys wife in London (Parts Of Middlesex, ",missionarys wife,Female,"London (Parts Of Middlesex, ",1
+528,99999,"Female fruiterer wife in London (Parts Of Middlesex, ",fruiterer wife,Female,"London (Parts Of Middlesex, ",1
+529,99999,"Female ironmongers packer wife in London (Parts Of Middlesex, ",ironmongers packer wife,Female,"London (Parts Of Middlesex, ",1
+530,99999,"Female of admiral wife in London (Parts Of Middlesex, ",of admiral wife,Female,"London (Parts Of Middlesex, ",1
+531,99999,"Female stationer employing men and women wife in London (Parts Of Middlesex, ",stationer employing men and women wife,Female,"London (Parts Of Middlesex, ",1
+532,99999,"Female tobacconist wife in London (Parts Of Middlesex, ",tobacconist wife,Female,"London (Parts Of Middlesex, ",1
+533,99999,"Female agricultural labourer in London (Parts Of Middlesex, ",agricultural labourer,Female,"London (Parts Of Middlesex, ",1
+534,38010,"Male courier sorter gpo civil in London (Parts Of Middlesex, ",courier sorter gpo civil,Male,"London (Parts Of Middlesex, ",1
+535,37020,"Male clerk in meteorological office in London (Parts Of Middlesex, ",clerk in meteorological office,Male,"London (Parts Of Middlesex, ",1
+536,37020,"Male late travelling sorter gpo superannuated in London (Parts Of Middlesex, ",late travelling sorter gpo superannuated,Male,"London (Parts Of Middlesex, ",1
+537,37020,"Male masters clerk central office royal courts of justice in London (Parts Of Middlesex, ",masters clerk central office royal courts of justice,Male,"London (Parts Of Middlesex, ",1
+538,37020,"Male private enquiry office gnrly in London (Parts Of Middlesex, ",private enquiry office gnrly,Male,"London (Parts Of Middlesex, ",1
+539,37020,"Male retired surveyor of taxes in London (Parts Of Middlesex, ",retired surveyor of taxes,Male,"London (Parts Of Middlesex, ",1
+540,20200,"Male civil service regents pk constable in London (Parts Of Middlesex, ",civil service regents pk constable,Male,"London (Parts Of Middlesex, ",1
+541,58220,"Male police inspector supernumerary in London (Parts Of Middlesex, ",police inspector supernumerary,Male,"London (Parts Of Middlesex, ",1
+542,58900,"Male inspector of goods dept rly in London (Parts Of Middlesex, ",inspector of goods dept rly,Male,"London (Parts Of Middlesex, ",1
+543,58900,"Male rate and tax collector clerk in London (Parts Of Middlesex, ",rate and tax collector clerk,Male,"London (Parts Of Middlesex, ",1
+544,31090,"Male schoolmaster wes local preacher in London (Parts Of Middlesex, ",schoolmaster wes local preacher,Male,"London (Parts Of Middlesex, ",1
+545,58420,"Male retired staff vety surgeon list madras army in London (Parts Of Middlesex, ",retired staff vety surgeon list madras army,Male,"London (Parts Of Middlesex, ",1
+546,58420,"Male retired surgeon major lst in London (Parts Of Middlesex, ",retired surgeon major lst,Male,"London (Parts Of Middlesex, ",1
+547,58430,"Male late captn kings own light infantry militia in London (Parts Of Middlesex, ",late captn kings own light infantry militia,Male,"London (Parts Of Middlesex, ",1
+548,58430,"Male captain r n retired in London (Parts Of Middlesex, ",captain r n retired,Male,"London (Parts Of Middlesex, ",1
+549,58420,"Male superintendent of police in London (Parts Of Middlesex, ",superintendent of police,Male,"London (Parts Of Middlesex, ",1
+550,39340,"Male assistant clerk in a law office in London (Parts Of Middlesex, ",assistant clerk in a law office,Male,"London (Parts Of Middlesex, ",1
+551,13100,"Male undergraduate of the university of london in London (Parts Of Middlesex, ",undergraduate of the university of london,Male,"London (Parts Of Middlesex, ",1
+552,59990,"Male billard marker barman in London (Parts Of Middlesex, ",billard marker barman,Male,"London (Parts Of Middlesex, ",1
+553,64990,"Male assistant keeper of the gyts in London (Parts Of Middlesex, ",assistant keeper of the gyts,Male,"London (Parts Of Middlesex, ",1
+554,43090,"Male commercial traveller in London (Parts Of Middlesex, ",commercial traveller,Male,"London (Parts Of Middlesex, ",1
+555,39310,"Male chelsea pensioner clerk in London (Parts Of Middlesex, ",chelsea pensioner clerk,Male,"London (Parts Of Middlesex, ",1
+556,39310,"Male clerk at contractors in London (Parts Of Middlesex, ",clerk at contractors,Male,"London (Parts Of Middlesex, ",1
+557,98300,"Male engine driver to builder in London (Parts Of Middlesex, ",engine driver to builder,Male,"London (Parts Of Middlesex, ",1
+558,98490,"Male laborer carriage cleaner in London (Parts Of Middlesex, ",laborer carriage cleaner,Male,"London (Parts Of Middlesex, ",1
+559,41010,"Male sheriffs man in London (Parts Of Middlesex, ",sheriffs man,Male,"London (Parts Of Middlesex, ",1
+560,98550,"Male omnibus cleaner in London (Parts Of Middlesex, ",omnibus cleaner,Male,"London (Parts Of Middlesex, ",1
+561,98550,"Male boy bookseller men in London (Parts Of Middlesex, ",boy bookseller men,Male,"London (Parts Of Middlesex, ",1
+562,4290,"Male bricklayer in London (Parts Of Middlesex, ",bricklayer,Male,"London (Parts Of Middlesex, ",1
+563,37040,"Male boy boy newspaper errand in London (Parts Of Middlesex, ",boy boy newspaper errand,Male,"London (Parts Of Middlesex, ",1
+564,37040,"Male boy errand fisherman in London (Parts Of Middlesex, ",boy errand fisherman,Male,"London (Parts Of Middlesex, ",1
+565,83230,"Male apprentice house furnishers cabt maker in London (Parts Of Middlesex, ",apprentice house furnishers cabt maker,Male,"London (Parts Of Middlesex, ",1
+566,85100,"Male electricion in London (Parts Of Middlesex, ",electricion,Male,"London (Parts Of Middlesex, ",1
+567,83830,"Male machine turner eng in London (Parts Of Middlesex, ",machine turner eng,Male,"London (Parts Of Middlesex, ",1
+568,72000,"Male labourer tank work iron in London (Parts Of Middlesex, ",labourer tank work iron,Male,"London (Parts Of Middlesex, ",1
+569,81300,"Male carriage spring maker coachmaker mkr in London (Parts Of Middlesex, ",carriage spring maker coachmaker mkr,Male,"London (Parts Of Middlesex, ",1
+570,21230,"Male master builder m boys in London (Parts Of Middlesex, ",master builder m boys,Male,"London (Parts Of Middlesex, ",1
+571,95410,"Male apprentice to carpenter and joiner in London (Parts Of Middlesex, ",apprentice to carpenter and joiner,Male,"London (Parts Of Middlesex, ",1
+572,93120,"Male house decr employing men in London (Parts Of Middlesex, ",house decr employing men,Male,"London (Parts Of Middlesex, ",1
+573,81190,"Male chair couch manufr in London (Parts Of Middlesex, ",chair couch manufr,Male,"London (Parts Of Middlesex, ",1
+574,63290,"Male cork cutter in London (Parts Of Middlesex, ",cork cutter,Male,"London (Parts Of Middlesex, ",1
+575,63290,"Male underclothing cutter dressmaker in London (Parts Of Middlesex, ",underclothing cutter dressmaker,Male,"London (Parts Of Middlesex, ",1
+576,89300,"Male labourer brick layer in London (Parts Of Middlesex, ",labourer brick layer,Male,"London (Parts Of Middlesex, ",1
+577,80390,"Male carpenter staircase handrail maker in London (Parts Of Middlesex, ",carpenter staircase handrail maker,Male,"London (Parts Of Middlesex, ",1
+578,80390,"Male matchmaker bryant m fusee in London (Parts Of Middlesex, ",matchmaker bryant m fusee,Male,"London (Parts Of Middlesex, ",1
+579,80390,"Male rectifier parchment maker in London (Parts Of Middlesex, ",rectifier parchment maker,Male,"London (Parts Of Middlesex, ",1
+580,94290,"Male apprentice brush maker in London (Parts Of Middlesex, ",apprentice brush maker,Male,"London (Parts Of Middlesex, ",1
+581,41010,"Male boy stationer employing girls in London (Parts Of Middlesex, ",boy stationer employing girls,Male,"London (Parts Of Middlesex, ",1
+582,92400,"Male artists lithographer in London (Parts Of Middlesex, ",artists lithographer,Male,"London (Parts Of Middlesex, ",1
+583,92600,"Male book binder in London (Parts Of Middlesex, ",book binder,Male,"London (Parts Of Middlesex, ",1
+584,75500,"Male table maker out of work in London (Parts Of Middlesex, ",table maker out of work,Male,"London (Parts Of Middlesex, ",1
+585,79990,"Male braid maker trimmings in London (Parts Of Middlesex, ",braid maker trimmings,Male,"London (Parts Of Middlesex, ",1
+586,79330,"Male hat maker hatter in London (Parts Of Middlesex, ",hat maker hatter,Male,"London (Parts Of Middlesex, ",1
+587,79590,"Male hat manufacture in London (Parts Of Middlesex, ",hat manufacture,Male,"London (Parts Of Middlesex, ",1
+588,77650,"Male packer in London (Parts Of Middlesex, ",packer,Male,"London (Parts Of Middlesex, ",1
+589,61220,"Male tea sampler in London (Parts Of Middlesex, ",tea sampler,Male,"London (Parts Of Middlesex, ",1
+590,41010,"Male tobacconist and letter carrier in London (Parts Of Middlesex, ",tobacconist and letter carrier,Male,"London (Parts Of Middlesex, ",1
+591,53220,"Male potman waiter unemployed in London (Parts Of Middlesex, ",potman waiter unemployed,Male,"London (Parts Of Middlesex, ",1
+592,41010,"Male wine merchant wholesale in London (Parts Of Middlesex, ",wine merchant wholesale,Male,"London (Parts Of Middlesex, ",1
+593,92900,"Male cartridge maker in r arsenal in London (Parts Of Middlesex, ",cartridge maker in r arsenal,Male,"London (Parts Of Middlesex, ",1
+594,49020,"Male unemployed broker in London (Parts Of Middlesex, ",unemployed broker,Male,"London (Parts Of Middlesex, ",1
+595,83400,"Male boy machinist messenger in London (Parts Of Middlesex, ",boy machinist messenger,Male,"London (Parts Of Middlesex, ",1
+596,99999,"Male retired manager of braid trimming business in London (Parts Of Middlesex, ",retired manager of braid trimming business,Male,"London (Parts Of Middlesex, ",1
+597,99999,"Male pensioner attendant on gentleman in London (Parts Of Middlesex, ",pensioner attendant on gentleman,Male,"London (Parts Of Middlesex, ",1
+598,-1,"Male dressmaker in London (Parts Of Middlesex, ",dressmaker,Male,"London (Parts Of Middlesex, ",1
+599,-1,"Male maartist in London (Parts Of Middlesex, ",maartist,Male,"London (Parts Of Middlesex, ",1
+600,-1,"Male upholsterer in London (Parts Of Middlesex, ",upholsterer,Male,"London (Parts Of Middlesex, ",1
+601,95410,"Unknown joiner in London (Parts Of Middlesex, ",joiner,Unknown,"London (Parts Of Middlesex, ",1
+602,21194,Male bookseller in Merionethshire,bookseller,Male,Merionethshire,10
+603,62110,Male agricultural labourer in Merionethshire,agricultural labourer,Male,Merionethshire,3
+604,62430,Male farm servant shepherd in Merionethshire,farm servant shepherd,Male,Merionethshire,2
+605,54020,Female assistant housekeeper in Merionethshire,assistant housekeeper,Female,Merionethshire,1
+606,99999,Female shop man wife in Merionethshire,shop man wife,Female,Merionethshire,1
+607,17120,Male bachelor of arts teacher in Merionethshire,bachelor of arts teacher,Male,Merionethshire,1
+608,41010,Female retired grocer in Middlesex (Extra London),retired grocer,Female,Middlesex (Extra London),11
+609,62110,Male field laborer in Middlesex (Extra London),field laborer,Male,Middlesex (Extra London),4
+610,54020,Female domestic servant in Middlesex (Extra London),domestic servant,Female,Middlesex (Extra London),3
+611,58900,Female pt income in Middlesex (Extra London),pt income,Female,Middlesex (Extra London),2
+612,55100,Female caretaker of house in Middlesex (Extra London),caretaker of house,Female,Middlesex (Extra London),2
+613,41010,Male unemployed tea trade in Middlesex (Extra London),unemployed tea trade,Male,Middlesex (Extra London),2
+614,37020,Female postboy office draper in Middlesex (Extra London),postboy office draper,Female,Middlesex (Extra London),1
+615,99999,Female housekeeper wife in Middlesex (Extra London),housekeeper wife,Female,Middlesex (Extra London),1
+616,99999,Female cotton brokers daughter in Middlesex (Extra London),cotton brokers daughter,Female,Middlesex (Extra London),1
+617,31090,Male retired watch maker registrar of births and deaths in Middlesex (Extra London),retired watch maker registrar of births and deaths,Male,Middlesex (Extra London),1
+618,13100,Male professor in the french language in Middlesex (Extra London),professor in the french language,Male,Middlesex (Extra London),1
+619,4250,Male apprentice seaman in Middlesex (Extra London),apprentice seaman,Male,Middlesex (Extra London),1
+620,21140,Male copper agent in Middlesex (Extra London),copper agent,Male,Middlesex (Extra London),1
+621,83210,Male tool maker machine in Middlesex (Extra London),tool maker machine,Male,Middlesex (Extra London),1
+622,94290,Male master basket maker employing men boys in Middlesex (Extra London),master basket maker employing men boys,Male,Middlesex (Extra London),1
+623,41010,Male cattle dealer in Middlesex (Extra London),cattle dealer,Male,Middlesex (Extra London),1
+624,77400,Male tripe dresser dlr provis in Middlesex (Extra London),tripe dresser dlr provis,Male,Middlesex (Extra London),1
+625,13200,Male tutor in Monmouthshire,tutor,Male,Monmouthshire,2
+626,22190,Female mangler in Monmouthshire,mangler,Female,Monmouthshire,1
+627,99999,Female horsekeeper wife in Monmouthshire,horsekeeper wife,Female,Monmouthshire,1
+628,12900,Male accountant solicitors clerk in Monmouthshire,accountant solicitors clerk,Male,Monmouthshire,1
+629,51020,Male retired licensed victualler in Monmouthshire,retired licensed victualler,Male,Monmouthshire,1
+630,99999,Male fr son in Monmouthshire,fr son,Male,Monmouthshire,1
+631,61400,Male farm servant indoor in Montgomeryshire,farm servant indoor,Male,Montgomeryshire,25
+632,53101,Female domestic cook in Montgomeryshire,domestic cook,Female,Montgomeryshire,4
+633,14120,Male gentlemans servant dom in Montgomeryshire,gentlemans servant dom,Male,Montgomeryshire,3
+634,53220,Female hotel waitress domestic servant in Montgomeryshire,hotel waitress domestic servant,Female,Montgomeryshire,1
+635,99999,Female blacksmith daughter in Montgomeryshire,blacksmith daughter,Female,Montgomeryshire,1
+636,14120,Male vicar of llanfair ce ba in Montgomeryshire,vicar of llanfair ce ba,Male,Montgomeryshire,1
+637,61110,Male farmer of acres employing labourer in Montgomeryshire,farmer of acres employing labourer,Male,Montgomeryshire,1
+638,61400,Male farm bailiff domestic in Montgomeryshire,farm bailiff domestic,Male,Montgomeryshire,1
+639,79990,Female maltster in Norfolk,maltster,Female,Norfolk,71
+640,55240,Male sweep in Norfolk,sweep,Male,Norfolk,23
+641,62430,Male shepherd in Norfolk,shepherd,Male,Norfolk,11
+642,71120,Female box maker in Norfolk,box maker,Female,Norfolk,4
+643,62110,Male retired farm servant in Norfolk,retired farm servant,Male,Norfolk,3
+644,99999,Male infirm in Norfolk,infirm,Male,Norfolk,3
+645,54020,Female housekeeper domestic servant in Norfolk,housekeeper domestic servant,Female,Norfolk,2
+646,62110,Female worker farm servant in Norfolk,worker farm servant,Female,Norfolk,2
+647,61110,Male boy farmer of acres employing men in Norfolk,boy farmer of acres employing men,Male,Norfolk,2
+648,62113,Male farmer grocer son in Norfolk,farmer grocer son,Male,Norfolk,2
+649,41010,Female assist to a linen draper in Norfolk,assist to a linen draper,Female,Norfolk,1
+650,99999,Female twine spinners wife in Norfolk,twine spinners wife,Female,Norfolk,1
+651,99999,Female parish road labourer man wife in Norfolk,parish road labourer man wife,Female,Norfolk,1
+652,4250,Male seaman mcht svce in Norfolk,seaman mcht svce,Male,Norfolk,1
+653,61110,Male farmer acres men in Norfolk,farmer acres men,Male,Norfolk,1
+654,84130,Male apprentice fitter engineers in Norfolk,apprentice fitter engineers,Male,Norfolk,1
+655,74500,Male laborer in cake oil mills in Norfolk,laborer in cake oil mills,Male,Norfolk,1
+656,73300,Male works at paper miller in Norfolk,works at paper miller,Male,Norfolk,1
+657,80100,Male pressman in shoe factory in Norfolk,pressman in shoe factory,Male,Norfolk,1
+658,45220,Male hawker son in Norfolk,hawker son,Male,Norfolk,1
+659,51020,Male innkeeper in Northamptonshire,innkeeper,Male,Northamptonshire,77
+660,99999,Female house painter wife in Northamptonshire,house painter wife,Female,Northamptonshire,3
+661,61400,Male labourer foreman farm bailiff in Northamptonshire,labourer foreman farm bailiff,Male,Northamptonshire,3
+662,61400,Male estate laborer farm in Northamptonshire,estate laborer farm,Male,Northamptonshire,2
+663,84220,Male retired watch maker in Northamptonshire,retired watch maker,Male,Northamptonshire,2
+664,41010,Male retired grocer in Northamptonshire,retired grocer,Male,Northamptonshire,2
+665,14120,Female family servant cook in Northamptonshire,family servant cook,Female,Northamptonshire,1
+666,62113,Female farmer of acres lime burner wife in Northamptonshire,farmer of acres lime burner wife,Female,Northamptonshire,1
+667,41010,Female machinist shoes in Northamptonshire,machinist shoes,Female,Northamptonshire,1
+668,99999,Female agricultural scholar in Northamptonshire,agricultural scholar,Female,Northamptonshire,1
+669,99999,Female formerly miller wife in Northamptonshire,formerly miller wife,Female,Northamptonshire,1
+670,61110,Male farmer of acres employing man in Northamptonshire,farmer of acres employing man,Male,Northamptonshire,1
+671,71120,Male laborer ironstone miner in Northamptonshire,laborer ironstone miner,Male,Northamptonshire,1
+672,76140,Male leather cutter in Northamptonshire,leather cutter,Male,Northamptonshire,1
+673,41010,Male baker grazier in Northamptonshire,baker grazier,Male,Northamptonshire,1
+674,99130,Male late painters labourer in Northamptonshire,late painters labourer,Male,Northamptonshire,1
+675,62110,Male agricultural labourer in Northumberland,agricultural labourer,Male,Northumberland,44
+676,62110,Female agricultural labourer in Northumberland,agricultural labourer,Female,Northumberland,35
+677,72400,Male apprentice iron moulder in Northumberland,apprentice iron moulder,Male,Northumberland,4
+678,77100,Female miller in Northumberland,miller,Female,Northumberland,3
+679,61110,Male farmer acres in Northumberland,farmer acres,Male,Northumberland,3
+680,62110,Female farm servant out door in Northumberland,farm servant out door,Female,Northumberland,2
+681,98130,Male waterman on steam boatman in Northumberland,waterman on steam boatman,Male,Northumberland,2
+682,71120,Male miner lead ore dresser in Northumberland,miner lead ore dresser,Male,Northumberland,2
+683,83400,Male model maker at engine works in Northumberland,model maker at engine works,Male,Northumberland,2
+684,14120,Female wesleyan ministers daughter in Northumberland,wesleyan ministers daughter,Female,Northumberland,1
+685,54010,Female acting as servant in Northumberland,acting as servant,Female,Northumberland,1
+686,99999,Female solicitors managing clerk wife in Northumberland,solicitors managing clerk wife,Female,Northumberland,1
+687,41010,Male fisherman merchant in Northumberland,fisherman merchant,Male,Northumberland,1
+688,41010,Male horse shoer blacksmith in Northumberland,horse shoer blacksmith,Male,Northumberland,1
+689,98590,Male deputy overman in a coal pit in Northumberland,deputy overman in a coal pit,Male,Northumberland,1
+690,4250,Male boatswain seamen in Northumberland,boatswain seamen,Male,Northumberland,1
+691,37040,Male messageboy in Northumberland,messageboy,Male,Northumberland,1
+692,45190,Male travelling steam thresher agricultural labourer in Northumberland,travelling steam thresher agricultural labourer,Male,Northumberland,1
+693,71130,Male quarreyman in Northumberland,quarreyman,Male,Northumberland,1
+694,99999,Male blacksmith son in Northumberland,blacksmith son,Male,Northumberland,1
+695,99999,Male pauper in Northumberland,pauper,Male,Northumberland,1
+696,41010,Male coal merchant in Nottinghamshire,coal merchant,Male,Nottinghamshire,35
+697,77310,Male apprentice butcher in Nottinghamshire,apprentice butcher,Male,Nottinghamshire,11
+698,83230,Male pattern maker in Nottinghamshire,pattern maker,Male,Nottinghamshire,8
+699,54020,Female kitchen maid domestic domestic servant in Nottinghamshire,kitchen maid domestic domestic servant,Female,Nottinghamshire,6
+700,57020,Female hairdresser in Nottinghamshire,hairdresser,Female,Nottinghamshire,3
+701,83890,Female house shop in Nottinghamshire,house shop,Female,Nottinghamshire,2
+702,51020,Female puplican in Nottinghamshire,puplican,Female,Nottinghamshire,1
+703,99999,Female butler wife in Nottinghamshire,butler wife,Female,Nottinghamshire,1
+704,99999,Female farm laborer wife in Nottinghamshire,farm laborer wife,Female,Nottinghamshire,1
+705,99999,Female trained nurse sm in Nottinghamshire,trained nurse sm,Female,Nottinghamshire,1
+706,-1,Female grocer hosiery framework knitter daughter in Nottinghamshire,grocer hosiery framework knitter daughter,Female,Nottinghamshire,1
+707,14120,Male vicar of langford with holme in Nottinghamshire,vicar of langford with holme,Male,Nottinghamshire,1
+708,62711,Male gardiner domestic in Nottinghamshire,gardiner domestic,Male,Nottinghamshire,1
+709,62460,Male groom in Nottinghamshire,groom,Male,Nottinghamshire,1
+710,61110,Male farmer of acres carpenter in Nottinghamshire,farmer of acres carpenter,Male,Nottinghamshire,1
+711,83830,Male printing machine maker em in Nottinghamshire,printing machine maker em,Male,Nottinghamshire,1
+712,95410,Male carpenter employing man boys in Nottinghamshire,carpenter employing man boys,Male,Nottinghamshire,1
+713,41010,Male boy furniture dealer keeps in Nottinghamshire,boy furniture dealer keeps,Male,Nottinghamshire,1
+714,75500,Male manufacturer in Nottinghamshire,manufacturer,Male,Nottinghamshire,1
+715,41010,Male cashier clark to draper in Nottinghamshire,cashier clark to draper,Male,Nottinghamshire,1
+716,99999,Male retired iron miner in Nottinghamshire,retired iron miner,Male,Nottinghamshire,1
+717,41010,Female merchant widow in Oxfordshire,merchant widow,Female,Oxfordshire,3
+718,99999,Female sawyer wife in Oxfordshire,sawyer wife,Female,Oxfordshire,2
+719,14140,Female proprietor of funds c in Oxfordshire,proprietor of funds c,Female,Oxfordshire,1
+720,39900,Female matron school domestic servant in Oxfordshire,matron school domestic servant,Female,Oxfordshire,1
+721,54020,Female general servant of workhouse munic in Oxfordshire,general servant of workhouse munic,Female,Oxfordshire,1
+722,54020,Female servant in Oxfordshire,servant,Female,Oxfordshire,1
+723,79590,Female needlewomam in Oxfordshire,needlewomam,Female,Oxfordshire,1
+724,99999,Female pub wife in Oxfordshire,pub wife,Female,Oxfordshire,1
+725,99999,Female of mason laborer wife in Oxfordshire,of mason laborer wife,Female,Oxfordshire,1
+726,61110,Male farmer out of a farm in Oxfordshire,farmer out of a farm,Male,Oxfordshire,1
+727,62110,Male farm servant in doors in Oxfordshire,farm servant in doors,Male,Oxfordshire,1
+728,75200,Male woollen weaver cloth manuf in Oxfordshire,woollen weaver cloth manuf,Male,Oxfordshire,1
+729,41010,Male drayman in Oxfordshire,drayman,Male,Oxfordshire,1
+730,54020,Female formerly a domestic servant in Pembrokeshire,formerly a domestic servant,Female,Pembrokeshire,2
+731,41010,Female baker wife in Pembrokeshire,baker wife,Female,Pembrokeshire,2
+732,7220,Male army hospital corporal corps in Pembrokeshire,army hospital corporal corps,Male,Pembrokeshire,1
+733,33130,Male clerk in bank in Pembrokeshire,clerk in bank,Male,Pembrokeshire,1
+734,61110,Male farm holder in Pembrokeshire,farm holder,Male,Pembrokeshire,1
+735,61110,Male girl farmer of acres employing servant boys in Pembrokeshire,girl farmer of acres employing servant boys,Male,Pembrokeshire,1
+736,62460,Male boy farm servant in Pembrokeshire,boy farm servant,Male,Pembrokeshire,1
+737,79590,Female plain sewer in Rutland,plain sewer,Female,Rutland,1
+738,62110,Male farm laborer in Rutland,farm laborer,Male,Rutland,1
+739,84130,Male railway engine driver in Shropshire,railway engine driver,Male,Shropshire,4
+740,61250,Male agricultural labourer in Shropshire,agricultural labourer,Male,Shropshire,2
+741,7110,Female nurse in Shropshire,nurse,Female,Shropshire,1
+742,61110,Female farmer acres employs men in Shropshire,farmer acres employs men,Female,Shropshire,1
+743,61400,Female farm bailiff in Shropshire,farm bailiff,Female,Shropshire,1
+744,79320,Female apprentice milliner in Shropshire,apprentice milliner,Female,Shropshire,1
+745,24100,Male inspector of waggons railway in Shropshire,inspector of waggons railway,Male,Shropshire,1
+746,61110,Male farmer of acers in Shropshire,farmer of acers,Male,Shropshire,1
+747,37030,Male postman in Somerset,postman,Male,Somerset,59
+748,71120,Male unemployed coal miner in Somerset,unemployed coal miner,Male,Somerset,13
+749,99999,Female retired living in means in Somerset,retired living in means,Female,Somerset,2
+750,64990,Male gamekeeper domestic domestic servant in Somerset,gamekeeper domestic domestic servant,Male,Somerset,2
+751,75200,Male weaver worsted in Somerset,weaver worsted,Male,Somerset,2
+752,54010,Female general servant in Somerset,general servant,Female,Somerset,1
+753,41010,Female late dairy woman in Somerset,late dairy woman,Female,Somerset,1
+754,80390,Female vest maker tj in Somerset,vest maker tj,Female,Somerset,1
+755,79590,Female grooms collar works shirt wife in Somerset,grooms collar works shirt wife,Female,Somerset,1
+756,99999,Female gas manager wife in Somerset,gas manager wife,Female,Somerset,1
+757,58430,Male retired capt royal artillery in Somerset,retired capt royal artillery,Male,Somerset,1
+758,2200,Male civil gas engineer in Somerset,civil gas engineer,Male,Somerset,1
+759,17120,Male pensioner musician in Somerset,pensioner musician,Male,Somerset,1
+760,83210,Male edge tool maker local m proctor in Somerset,edge tool maker local m proctor,Male,Somerset,1
+761,74430,Male laborer in matting works in Somerset,laborer in matting works,Male,Somerset,1
+762,94290,Male hairdresser in Somerset,hairdresser,Male,Somerset,1
+763,77820,Male unemployed brewer in Somerset,unemployed brewer,Male,Somerset,1
+764,92600,Male book binder in Staffordshire,book binder,Male,Staffordshire,34
+765,94290,Female brush maker in Staffordshire,brush maker,Female,Staffordshire,32
+766,41015,Male retired coal merchant in Staffordshire,retired coal merchant,Male,Staffordshire,5
+767,72100,Male boy foundry in Staffordshire,boy foundry,Male,Staffordshire,4
+768,83400,Male hollowware turner iron in Staffordshire,hollowware turner iron,Male,Staffordshire,4
+769,85500,Male miner in Staffordshire,miner,Male,Staffordshire,3
+770,79320,Female apprentice milliner in Staffordshire,apprentice milliner,Female,Staffordshire,2
+771,83700,Male retired key maker in Staffordshire,retired key maker,Male,Staffordshire,2
+772,81120,Female upholsterer in Staffordshire,upholsterer,Female,Staffordshire,1
+773,89300,Female brick maker in Staffordshire,brick maker,Female,Staffordshire,1
+774,89200,Female painter on earthenware in Staffordshire,painter on earthenware,Female,Staffordshire,1
+775,79400,Female buttoner in Staffordshire,buttoner,Female,Staffordshire,1
+776,83400,Female machinist in Staffordshire,machinist,Female,Staffordshire,1
+777,99999,Female maltster maker wife in Staffordshire,maltster maker wife,Female,Staffordshire,1
+778,44330,Male house agent in Staffordshire,house agent,Male,Staffordshire,1
+779,98300,Male locomotive engineer cleaner or in Staffordshire,locomotive engineer cleaner or,Male,Staffordshire,1
+780,37040,Male office boy in tramway messenger in Staffordshire,office boy in tramway messenger,Male,Staffordshire,1
+781,61110,Male boy farmer acres laborers in Staffordshire,boy farmer acres laborers,Male,Staffordshire,1
+782,87330,Male commercial clerk at copper works in Staffordshire,commercial clerk at copper works,Male,Staffordshire,1
+783,84190,Male trap manufacturer vermin control man in Staffordshire,trap manufacturer vermin control man,Male,Staffordshire,1
+784,83890,Male fetler artz in Staffordshire,fetler artz,Male,Staffordshire,1
+785,83890,Male tube finisher in Staffordshire,tube finisher,Male,Staffordshire,1
+786,81300,Male rly waggon maker in Staffordshire,rly waggon maker,Male,Staffordshire,1
+787,81120,Male cabinet makers foreman in Staffordshire,cabinet makers foreman,Male,Staffordshire,1
+788,81230,Male ironworker turner over in Staffordshire,ironworker turner over,Male,Staffordshire,1
+789,92110,Male printing machine minder in Staffordshire,printing machine minder,Male,Staffordshire,1
+790,41010,Male apprentice draper employee in Staffordshire,apprentice draper employee,Male,Staffordshire,1
+791,77650,Male packer in in Staffordshire,packer in,Male,Staffordshire,1
+792,92900,Male figure maker cg in Staffordshire,figure maker cg,Male,Staffordshire,1
+793,84110,Male unemployed tender moulder in Staffordshire,unemployed tender moulder,Male,Staffordshire,1
+794,99999,Female carpenter wife in Suffolk,carpenter wife,Female,Suffolk,98
+795,99999,Female brick maker wife in Suffolk,brick maker wife,Female,Suffolk,19
+796,51020,Male innkeeper in Suffolk,innkeeper,Male,Suffolk,8
+797,17120,Female teacher of music pianist in Suffolk,teacher of music pianist,Female,Suffolk,3
+798,98300,Male engine driver in Suffolk,engine driver,Male,Suffolk,3
+799,99999,Female paupers in Suffolk,paupers,Female,Suffolk,2
+800,61110,Female boy farmer of acres employg men in Suffolk,boy farmer of acres employg men,Female,Suffolk,1
+801,41010,Female hand dealer in second clothes in Suffolk,hand dealer in second clothes,Female,Suffolk,1
+802,58220,Male superintendent suffolk county police in Suffolk,superintendent suffolk county police,Male,Suffolk,1
+803,13200,Male master school certified in Suffolk,master school certified,Male,Suffolk,1
+804,81400,Male boy wheelwright publican emp men in Suffolk,boy wheelwright publican emp men,Male,Suffolk,1
+805,95120,Male bricklayer in Suffolk,bricklayer,Male,Suffolk,1
+806,54020,Female domestic servant in Surrey (Extra London),domestic servant,Female,Surrey (Extra London),46
+807,43030,Male news agent in Surrey (Extra London),news agent,Male,Surrey (Extra London),14
+808,15100,Male author in Surrey (Extra London),author,Male,Surrey (Extra London),9
+809,59990,Male boot maker in Surrey (Extra London),boot maker,Male,Surrey (Extra London),4
+810,41010,Male baker man in Surrey (Extra London),baker man,Male,Surrey (Extra London),4
+811,13100,Female interest of money and rents of lands in Surrey (Extra London),interest of money and rents of lands,Female,Surrey (Extra London),3
+812,54020,Male domestic servant in Surrey (Extra London),domestic servant,Male,Surrey (Extra London),3
+813,37040,Male hall porter dom in Surrey (Extra London),hall porter dom,Male,Surrey (Extra London),2
+814,84190,Male road labourer in Surrey (Extra London),road labourer,Male,Surrey (Extra London),2
+815,53102,Female formely in Surrey (Extra London),formely,Female,Surrey (Extra London),1
+816,83150,Female carrier in Surrey (Extra London),carrier,Female,Surrey (Extra London),1
+817,99999,Female retired pensioner in Surrey (Extra London),retired pensioner,Female,Surrey (Extra London),1
+818,99999,Female surveyor wife in Surrey (Extra London),surveyor wife,Female,Surrey (Extra London),1
+819,58420,Male enginer labr e r in Surrey (Extra London),enginer labr e r,Male,Surrey (Extra London),1
+820,62110,Male domestic servant in Surrey (Extra London),domestic servant,Male,Surrey (Extra London),1
+821,62710,Male gardener in Surrey (Extra London),gardener,Male,Surrey (Extra London),1
+822,87350,Male apprentice boiler maker in Surrey (Extra London),apprentice boiler maker,Male,Surrey (Extra London),1
+823,87130,Male labr plumbers in Surrey (Extra London),labr plumbers,Male,Surrey (Extra London),1
+824,89120,Male assist carrier in Surrey (Extra London),assist carrier,Male,Surrey (Extra London),1
+825,75600,Male dyer cleaner in Surrey (Extra London),dyer cleaner,Male,Surrey (Extra London),1
+826,89300,Male brick maker in Sussex,brick maker,Male,Sussex,787
+827,62110,Female agricultural labourer in Sussex,agricultural labourer,Female,Sussex,5
+828,62110,Male stackman in Sussex,stackman,Male,Sussex,2
+829,62110,Female farm domestic servant indoor agricultural labourer in Sussex,farm domestic servant indoor agricultural labourer,Female,Sussex,1
+830,79540,Female embroidery in Sussex,embroidery,Female,Sussex,1
+831,41010,Female assistant stationer confectioner in Sussex,assistant stationer confectioner,Female,Sussex,1
+832,99999,Female wheelwright wife in Sussex,wheelwright wife,Female,Sussex,1
+833,99999,Female farmer widow in Sussex,farmer widow,Female,Sussex,1
+834,6100,Male surgeon general practitioner in Sussex,surgeon general practitioner,Male,Sussex,1
+835,13100,Male professor of elocution in Sussex,professor of elocution,Male,Sussex,1
+836,13100,Male professor of experimental physics in Sussex,professor of experimental physics,Male,Sussex,1
+837,17120,Male teacher pianoforte music in Sussex,teacher pianoforte music,Male,Sussex,1
+838,98130,Male boatman in Sussex,boatman,Male,Sussex,1
+839,37040,Male boy errand boy in Sussex,boy errand boy,Male,Sussex,1
+840,83120,Male smith b in Sussex,smith b,Male,Sussex,1
+841,85100,Male late in revenu excise offices in Sussex,late in revenu excise offices,Male,Sussex,1
+842,81300,Male apprentice coachmaker painters in Sussex,apprentice coachmaker painters,Male,Sussex,1
+843,97490,Male urban suss authy road labourer in Sussex,urban suss authy road labourer,Male,Sussex,1
+844,92120,Male printer compositor machine foreman in Sussex,printer compositor machine foreman,Male,Sussex,1
+845,80100,Male assistant boot and shoe maker in Sussex,assistant boot and shoe maker,Male,Sussex,1
+846,83120,Female blacksmith in Warwickshire,blacksmith,Female,Warwickshire,9
+847,77840,Male mineral water maker in Warwickshire,mineral water maker,Male,Warwickshire,9
+848,94990,Female pearl grinder in Warwickshire,pearl grinder,Female,Warwickshire,8
+849,83890,Male brass tube solderer in Warwickshire,brass tube solderer,Male,Warwickshire,7
+850,83160,Female machine maker in Warwickshire,machine maker,Female,Warwickshire,5
+851,99999,Female iron moulder wife in Warwickshire,iron moulder wife,Female,Warwickshire,5
+852,83890,Male unemployed bedstead maker in Warwickshire,unemployed bedstead maker,Male,Warwickshire,4
+853,83890,Female wood screw woman in Warwickshire,wood screw woman,Female,Warwickshire,2
+854,61110,Female boy employing men in Warwickshire,boy employing men,Female,Warwickshire,1
+855,83890,Female warehouse woman pin maker in Warwickshire,warehouse woman pin maker,Female,Warwickshire,1
+856,99999,Female glass etchers wife in Warwickshire,glass etchers wife,Female,Warwickshire,1
+857,99999,Female miller corn merchants wife in Warwickshire,miller corn merchants wife,Female,Warwickshire,1
+858,14120,Male late vicar of chilvers coton warwickshire in Warwickshire,late vicar of chilvers coton warwickshire,Male,Warwickshire,1
+859,14120,Male vicar of st marys leamington in Warwickshire,vicar of st marys leamington,Male,Warwickshire,1
+860,98430,Male pointman in Warwickshire,pointman,Male,Warwickshire,1
+861,72400,Male iron founder in Warwickshire,iron founder,Male,Warwickshire,1
+862,83210,Male tool maker and tobacconist in Warwickshire,tool maker and tobacconist,Male,Warwickshire,1
+863,83860,Male wirespring mattress maker in Warwickshire,wirespring mattress maker,Male,Warwickshire,1
+864,88040,Male silversmith goldsmith cutter out of employ in Warwickshire,silversmith goldsmith cutter out of employ,Male,Warwickshire,1
+865,81300,Male retired coachmaker builder in Warwickshire,retired coachmaker builder,Male,Warwickshire,1
+866,84220,Male boy watch dial maker employing men in Warwickshire,boy watch dial maker employing men,Male,Warwickshire,1
+867,87130,Male master plumber glazier painter employing men in Warwickshire,master plumber glazier painter employing men,Male,Warwickshire,1
+868,41010,Male retired druggist in Warwickshire,retired druggist,Male,Warwickshire,1
+869,75990,Male ribbon weaver fisherman shop in Warwickshire,ribbon weaver fisherman shop,Male,Warwickshire,1
+870,99999,Male son in Warwickshire,son,Male,Warwickshire,1
+871,76140,Male tanner in Westmorland,tanner,Male,Westmorland,9
+872,61400,Male ser farm indoor in Westmorland,ser farm indoor,Male,Westmorland,2
+873,63110,Male forester wd man in Westmorland,forester wd man,Male,Westmorland,2
+874,62110,Female servant farm indoor agricultural labourer in Westmorland,servant farm indoor agricultural labourer,Female,Westmorland,1
+875,-1,Female legalte in Westmorland,legalte,Female,Westmorland,1
+876,37040,Male queens porter messenger in Westmorland,queens porter messenger,Male,Westmorland,1
+877,80390,Male skewer maker in Westmorland,skewer maker,Male,Westmorland,1
+878,62110,Male agricultural labourer in Wiltshire,agricultural labourer,Male,Wiltshire,87
+879,54020,Female domestic servant in Wiltshire,domestic servant,Female,Wiltshire,8
+880,17120,Female organist in Wiltshire,organist,Female,Wiltshire,5
+881,99999,Female fishmonger wife in Wiltshire,fishmonger wife,Female,Wiltshire,4
+882,2100,Female assistant to dress making in Wiltshire,assistant to dress making,Female,Wiltshire,1
+883,62710,Female road labourer in Wiltshire,road labourer,Female,Wiltshire,1
+884,31090,Male workhouse labour supervisor in Wiltshire,workhouse labour supervisor,Male,Wiltshire,1
+885,14120,Male rector of fittleton in Wiltshire,rector of fittleton,Male,Wiltshire,1
+886,17120,Male master band sergt r wilts and in Wiltshire,master band sergt r wilts and,Male,Wiltshire,1
+887,62460,Male lodging house keeper in Wiltshire,lodging house keeper,Male,Wiltshire,1
+888,61110,Male farmer of acres employing men boys in Wiltshire,farmer of acres employing men boys,Male,Wiltshire,1
+889,62110,Male employed agricultural labourer in Wiltshire,employed agricultural labourer,Male,Wiltshire,1
+890,87330,Male grazier in Wiltshire,grazier,Male,Wiltshire,1
+891,83890,Male labourer at parchment works in Wiltshire,labourer at parchment works,Male,Wiltshire,1
+892,83230,Female glouemaker in Worcestershire,glouemaker,Female,Worcestershire,3
+893,85100,Female works in earthenware factory in Worcestershire,works in earthenware factory,Female,Worcestershire,1
+894,99999,Female of of family wife in Worcestershire,of of family wife,Female,Worcestershire,1
+895,99999,Female analytical manufs chemist fcs wife in Worcestershire,analytical manufs chemist fcs wife,Female,Worcestershire,1
+896,20100,Male member of st georges guild in Worcestershire,member of st georges guild,Male,Worcestershire,1
+897,58500,Male out of business in Worcestershire,out of business,Male,Worcestershire,1
+898,98550,Male mail carter driver carter in Worcestershire,mail carter driver carter,Male,Worcestershire,1
+899,61110,Male boy farmer acres employing men in Worcestershire,boy farmer acres employing men,Male,Worcestershire,1
+900,94940,Male clerk steel toy works in Worcestershire,clerk steel toy works,Male,Worcestershire,1
+901,94990,Male pipe finisher tobacco in Worcestershire,pipe finisher tobacco,Male,Worcestershire,1
+902,99150,Male apprentice hop mart in Worcestershire,apprentice hop mart,Male,Worcestershire,1
+903,54020,Female domestic servant laundry maid in Yorkshire East Riding (With ,domestic servant laundry maid,Female,Yorkshire East Riding (With ,6
+904,72400,Male laborer iron works in Yorkshire East Riding (With ,laborer iron works,Male,Yorkshire East Riding (With ,6
+905,54020,Female kitchenmaid domestic domestic servant in Yorkshire East Riding (With ,kitchenmaid domestic domestic servant,Female,Yorkshire East Riding (With ,3
+906,62420,Female dairy maid ind farm in Yorkshire East Riding (With ,dairy maid ind farm,Female,Yorkshire East Riding (With ,1
+907,62110,Female servant farm dom in Yorkshire East Riding (With ,servant farm dom,Female,Yorkshire East Riding (With ,1
+908,99999,Female wool broker wife in Yorkshire East Riding (With ,wool broker wife,Female,Yorkshire East Riding (With ,1
+909,99999,Female gas house stokers wife in Yorkshire East Riding (With ,gas house stokers wife,Female,Yorkshire East Riding (With ,1
+910,54020,Male butlers servant domestic in Yorkshire East Riding (With ,butlers servant domestic,Male,Yorkshire East Riding (With ,1
+911,98430,Male boy railway gate points in Yorkshire East Riding (With ,boy railway gate points,Male,Yorkshire East Riding (With ,1
+912,62110,Male farm servant in Yorkshire East Riding (With ,farm servant,Male,Yorkshire East Riding (With ,1
+913,87350,Male boiler maker shipyard in Yorkshire East Riding (With ,boiler maker shipyard,Male,Yorkshire East Riding (With ,1
+914,83210,Male goldsmith in Yorkshire East Riding (With ,goldsmith,Male,Yorkshire East Riding (With ,1
+915,81300,Male apprentice to carriage maker rly in Yorkshire East Riding (With ,apprentice to carriage maker rly,Male,Yorkshire East Riding (With ,1
+916,99999,Male gentleman annuitant in Yorkshire East Riding (With ,gentleman annuitant,Male,Yorkshire East Riding (With ,1
+917,99999,Male parish pay in Yorkshire East Riding (With ,parish pay,Male,Yorkshire East Riding (With ,1
+918,-1,Male confectioner in Yorkshire East Riding (With ,confectioner,Male,Yorkshire East Riding (With ,1
+919,99999,Female boiler maker wife in Yorkshire North Riding,boiler maker wife,Female,Yorkshire North Riding,7
+920,72400,Male laborer iron foundry in Yorkshire North Riding,laborer iron foundry,Male,Yorkshire North Riding,4
+921,63110,Male woodmans labourer in Yorkshire North Riding,woodmans labourer,Male,Yorkshire North Riding,3
+922,58420,Male inspecting engines em in Yorkshire North Riding,inspecting engines em,Male,Yorkshire North Riding,2
+923,14130,Female female missionary in Yorkshire North Riding,female missionary,Female,Yorkshire North Riding,1
+924,54020,Female kitchenmaid domestic servant in Yorkshire North Riding,kitchenmaid domestic servant,Female,Yorkshire North Riding,1
+925,51040,Female shopkeeper in Yorkshire North Riding,shopkeeper,Female,Yorkshire North Riding,1
+926,54020,Male general servant indoor farm in Yorkshire North Riding,general servant indoor farm,Male,Yorkshire North Riding,1
+927,62110,Male agricultural labourer agricultural labourer indoor in Yorkshire North Riding,agricultural labourer agricultural labourer indoor,Male,Yorkshire North Riding,1
+928,62110,Male farm laborer in Yorkshire North Riding,farm laborer,Male,Yorkshire North Riding,1
+929,83120,Male licenced victualler and blacksmith in Yorkshire North Riding,licenced victualler and blacksmith,Male,Yorkshire North Riding,1
+930,87590,Male shipwright in Yorkshire North Riding,shipwright,Male,Yorkshire North Riding,1
+931,96900,Male hauling engine man in Yorkshire North Riding,hauling engine man,Male,Yorkshire North Riding,1
+932,99999,Male retired house proprietor in Yorkshire North Riding,retired house proprietor,Male,Yorkshire North Riding,1
+933,54020,Female general domestic in Yorkshire West Riding,general domestic,Female,Yorkshire West Riding,176
+934,75200,Male cotton warp dresser in Yorkshire West Riding,cotton warp dresser,Male,Yorkshire West Riding,36
+935,79990,Female cotton minder in Yorkshire West Riding,cotton minder,Female,Yorkshire West Riding,19
+936,73300,Male labourer at paper miller in Yorkshire West Riding,labourer at paper miller,Male,Yorkshire West Riding,17
+937,61400,Male farm bailiff in Yorkshire West Riding,farm bailiff,Male,Yorkshire West Riding,8
+938,75100,Male teazer woollen in Yorkshire West Riding,teazer woollen,Male,Yorkshire West Riding,6
+939,75000,Male worsted weft manager in Yorkshire West Riding,worsted weft manager,Male,Yorkshire West Riding,5
+940,7110,Female nurse s m in Yorkshire West Riding,nurse s m,Female,Yorkshire West Riding,3
+941,41010,Female beershop keeper in Yorkshire West Riding,beershop keeper,Female,Yorkshire West Riding,2
+942,44330,Male land drainage in Yorkshire West Riding,land drainage,Male,Yorkshire West Riding,2
+943,33130,Male cashier bank in Yorkshire West Riding,cashier bank,Male,Yorkshire West Riding,2
+944,98300,Male locomotive engine fireman in Yorkshire West Riding,locomotive engine fireman,Male,Yorkshire West Riding,2
+945,84190,Male apprentice fitter printing machine works in Yorkshire West Riding,apprentice fitter printing machine works,Male,Yorkshire West Riding,2
+946,95410,Male apprentice joiner builder in Yorkshire West Riding,apprentice joiner builder,Male,Yorkshire West Riding,2
+947,75000,Male worsted genappe mohair overlooker in Yorkshire West Riding,worsted genappe mohair overlooker,Male,Yorkshire West Riding,2
+948,7220,Female formerly sick nurse in Yorkshire West Riding,formerly sick nurse,Female,Yorkshire West Riding,1
+949,13200,Female teacher history mathematics school in Yorkshire West Riding,teacher history mathematics school,Female,Yorkshire West Riding,1
+950,54020,Female stillroom maid domes domestic servant domestic in Yorkshire West Riding,stillroom maid domes domestic servant domestic,Female,Yorkshire West Riding,1
+951,4290,Female lockkeeper in Yorkshire West Riding,lockkeeper,Female,Yorkshire West Riding,1
+952,3200,Female assistant ger in Yorkshire West Riding,assistant ger,Female,Yorkshire West Riding,1
+953,89200,Female potter earthenware in Yorkshire West Riding,potter earthenware,Female,Yorkshire West Riding,1
+954,75400,Female weaver when working cloth in Yorkshire West Riding,weaver when working cloth,Female,Yorkshire West Riding,1
+955,75200,Female cloth weaver in Yorkshire West Riding,cloth weaver,Female,Yorkshire West Riding,1
+956,92800,Female woollen number in Yorkshire West Riding,woollen number,Female,Yorkshire West Riding,1
+957,41010,Female apprentice confectioner in Yorkshire West Riding,apprentice confectioner,Female,Yorkshire West Riding,1
+958,78100,Female apprentice cigar in Yorkshire West Riding,apprentice cigar,Female,Yorkshire West Riding,1
+959,99999,Female engineer printing machine wife in Yorkshire West Riding,engineer printing machine wife,Female,Yorkshire West Riding,1
+960,99999,Female surgical instrument maker wife in Yorkshire West Riding,surgical instrument maker wife,Female,Yorkshire West Riding,1
+961,99999,Female umbrella foreman wife in Yorkshire West Riding,umbrella foreman wife,Female,Yorkshire West Riding,1
+962,99999,Female agricultural labourer widow in Yorkshire West Riding,agricultural labourer widow,Female,Yorkshire West Riding,1
+963,37020,Male servant in chemists office in Yorkshire West Riding,servant in chemists office,Male,Yorkshire West Riding,1
+964,11010,Male chartered accountant emplg clerk in Yorkshire West Riding,chartered accountant emplg clerk,Male,Yorkshire West Riding,1
+965,44330,Male retired land agent in Yorkshire West Riding,retired land agent,Male,Yorkshire West Riding,1
+966,44120,Male insurance clerk musician in Yorkshire West Riding,insurance clerk musician,Male,Yorkshire West Riding,1
+967,98300,Male engine makers foreman in Yorkshire West Riding,engine makers foreman,Male,Yorkshire West Riding,1
+968,98300,Male locomotive driver in Yorkshire West Riding,locomotive driver,Male,Yorkshire West Riding,1
+969,97130,Male foreman porter rly in Yorkshire West Riding,foreman porter rly,Male,Yorkshire West Riding,1
+970,97190,Male coal shipper navy domestic servant in Yorkshire West Riding,coal shipper navy domestic servant,Male,Yorkshire West Riding,1
+971,37040,Male boy errand at factory in Yorkshire West Riding,boy errand at factory,Male,Yorkshire West Riding,1
+972,61110,Male farmer acres in Yorkshire West Riding,farmer acres,Male,Yorkshire West Riding,1
+973,61110,Male farmer of acres joiner grocer in Yorkshire West Riding,farmer of acres joiner grocer,Male,Yorkshire West Riding,1
+974,62110,Male journeyman agricultural labourer in Yorkshire West Riding,journeyman agricultural labourer,Male,Yorkshire West Riding,1
+975,21140,Male colliery mine domestic servant in Yorkshire West Riding,colliery mine domestic servant,Male,Yorkshire West Riding,1
+976,22130,Male boy quarry half timer in Yorkshire West Riding,boy quarry half timer,Male,Yorkshire West Riding,1
+977,41015,Male stone merchant employing men in Yorkshire West Riding,stone merchant employing men,Male,Yorkshire West Riding,1
+978,83400,Male steam hamer driver iron in Yorkshire West Riding,steam hamer driver iron,Male,Yorkshire West Riding,1
+979,83160,Male heater for file maker in Yorkshire West Riding,heater for file maker,Male,Yorkshire West Riding,1
+980,83890,Male gas engineer gas in Yorkshire West Riding,gas engineer gas,Male,Yorkshire West Riding,1
+981,81300,Male apprentice carriage trimmers in Yorkshire West Riding,apprentice carriage trimmers,Male,Yorkshire West Riding,1
+982,41010,Male bricklayer fitter in Yorkshire West Riding,bricklayer fitter,Male,Yorkshire West Riding,1
+983,75200,Male worsted spinner in Yorkshire West Riding,worsted spinner,Male,Yorkshire West Riding,1
+984,75200,Male ward dresser foreman worsted in Yorkshire West Riding,ward dresser foreman worsted,Male,Yorkshire West Riding,1
+985,75000,Male cloth boiler wool in Yorkshire West Riding,cloth boiler wool,Male,Yorkshire West Riding,1
+986,75000,Male foreman woolen miller in Yorkshire West Riding,foreman woolen miller,Male,Yorkshire West Riding,1
+987,75000,Male wool combing overlooker w cloth in Yorkshire West Riding,wool combing overlooker w cloth,Male,Yorkshire West Riding,1
+988,75000,Male worsted drawing overlooker text in Yorkshire West Riding,worsted drawing overlooker text,Male,Yorkshire West Riding,1
+989,75600,Male dyer cloth finisher wool in Yorkshire West Riding,dyer cloth finisher wool,Male,Yorkshire West Riding,1
+990,41010,Male assistant shopman grocer in Yorkshire West Riding,assistant shopman grocer,Male,Yorkshire West Riding,1
+991,77830,Male malster laborer in Yorkshire West Riding,malster laborer,Male,Yorkshire West Riding,1
+992,41010,Male flour horse shop in Yorkshire West Riding,flour horse shop,Male,Yorkshire West Riding,1
+993,96900,Male unemployed engine maker in Yorkshire West Riding,unemployed engine maker,Male,Yorkshire West Riding,1
+994,99150,Male apprentice draping in Yorkshire West Riding,apprentice draping,Male,Yorkshire West Riding,1
+995,99999,Male gentleman independent in Yorkshire West Riding,gentleman independent,Male,Yorkshire West Riding,1
+996,99999,Male late no occupation signalman on ry mrssy in Yorkshire West Riding,late no occupation signalman on ry mrssy,Male,Yorkshire West Riding,1
