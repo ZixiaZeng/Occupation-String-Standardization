@@ -1,0 +1,101 @@
+final_result,Rule-Based_Score,LLM_Score,OccCANINE_Score,OccCANINE_Finetune_Score,Reasoning
+boy baker errand,4,-,5,-,Good cleaning; Perfect HISCO prediction
+figure maker cg,2,1,2,3,"Poor cleaning of ""c g""; LLM no improvement; Raw poor, finetune relevant"
+dredger fisherman,5,-,3,3,Perfect cleaning; Predictions relevant
+cottage property,5,-,2,2,Perfect cleaning; Predictions somewhat relevant
+railway engine driver,3,-,3,-,"Error ""fitter¡údriver""; Prediction relevant"
+matchmaker bryant m fusee,2,1,3,4,"Poor cleaning of unclear terms; LLM no improvement; Raw relevant, finetune good"
+goldsmith,4,-,4,2,"Good cleaning ""toolsmith¡úgoldsmith""; Raw good, finetune poor"
+retired staff vety surgeon list madras army,5,-,5,-,Perfect cleaning; Perfect prediction
+labourer carter out of employ,5,-,3,2,"Perfect cleaning; Raw relevant, finetune poor"
+apprentice iron moulder,5,-,5,4,"Perfect cleaning; Raw excellent, finetune good"
+general domestic,5,-,5,-,Perfect cleaning; Perfect prediction
+blacksmith daughter,4,-,0,3,"Good family relationship handling; Raw poor, finetune relevant"
+silversmith goldsmith cutter out of employ,4,-,0,1,Good cleaning; Predictions poor
+agricultural labourer,3,-,0,3,"Minor cleaning issue; Raw no prediction, finetune relevant"
+farmer of acres employing men boys,5,-,5,5,Perfect cleaning; Excellent predictions
+labourer in ry works,3,-,0,3,"Minor cleaning issue; Raw no prediction, finetune relevant"
+apprentice boiler maker,4,-,5,-,Good cleaning; Perfect prediction
+bailiff foreman on a farm,4,-,4,-,"Good cleaning but kept ""a""; Good prediction"
+retired overlooker,5,-,2,-,Perfect cleaning; Poor prediction
+baliff,1,1,3,-,"Failed to fix ""baliff¡úbailiff""; LLM no improvement; Prediction relevant"
+master builder m boys,4,-,2,-,Good cleaning; Poor prediction
+centre for alic cotton cottons,2,1,3,3,Poor cleaning of unclear terms; LLM no improvement; Predictions relevant
+member of st georges guild,5,-,3,5,"Perfect cleaning; Raw relevant, finetune excellent"
+queens porter messenger,4,-,4,-,Good cleaning; Good prediction
+boy farmer acres employing men,4,-,5,5,Good cleaning; Excellent predictions
+apprentice draper,4,-,2,3,"Good cleaning; Raw poor, finetune relevant"
+domestic domestic servant club house,4,-,5,-,Good cleaning; Perfect prediction
+ag labs wife,5,-,2,3,"Perfect family relationship handling; Raw poor, finetune relevant"
+author,5,-,1,-,Perfect cleaning; Poor prediction
+retired licensed victualler,5,-,4,-,Perfect cleaning; Good prediction
+boy machinist messenger,4,-,5,4,"Good cleaning; Raw excellent, finetune good"
+draper emplying assist,2,1,2,4,"Poor cleaning of ""emplying""; LLM no improvement; Raw poor, finetune good"
+tutor,5,-,1,1,Perfect cleaning; Predictions poor
+inspector goods dept rly,2,1,2,-,Poor cleaning of abbreviations; LLM no improvement; Prediction poor
+master basket maker employing men boys,5,-,4,-,Perfect cleaning; Good predictions
+quarreyman,1,1,0,4,"Failed to fix obvious error; LLM no improvement; Raw no prediction, finetune good"
+boy farmer acres labourer,4,-,4,5,Good cleaning; Good to excellent predictions
+ostler,5,-,3,3,Perfect cleaning; Predictions relevant
+estate laborer farm,5,-,2,4,"Perfect cleaning; Raw poor, finetune good"
+pensioner attendant on gentleman,5,-,3,3,Perfect cleaning; Predictions relevant
+cabinet makers foreman,5,-,5,-,Perfect cleaning; Perfect prediction
+dressmaker,5,-,1,-,"Perfect cleaning ""dressmak¡údressmaker""; Poor prediction"
+cotton minder,5,-,2,4,"Perfect cleaning; Raw poor, finetune good"
+warehouseman news agent,4,-,2,-,Good cleaning; Poor prediction
+hawkers a c c,2,1,5,3,"Poor cleaning of unclear abbreviations; LLM no improvement; Raw excellent, finetune relevant"
+labourer brick layer,5,-,3,-,Perfect cleaning; Prediction relevant
+domestic servant wife,4,-,4,2,"Good family relationship handling; Raw good, finetune poor"
+boy farm servant,4,-,4,4,Good cleaning; Good predictions
+taxidermist,5,-,5,-,Perfect cleaning; Perfect prediction
+retired druggist,4,-,0,4,"Good cleaning; Raw no prediction, finetune good"
+hotel waitress domestic servant,3,-,4,2,"Minor cleaning issue; Raw good, finetune poor"
+income derived from freehold property,5,-,0,5,"Perfect cleaning; Raw no prediction, finetune excellent"
+boy farmer acres laborers,4,-,3,5,"Good cleaning; Raw relevant, finetune excellent"
+glove gaiter maker,5,-,3,2,"Perfect cleaning; Raw relevant, finetune poor"
+apprentice carpenter,5,-,0,3,"Perfect cleaning; Raw no prediction, finetune relevant"
+servant to a family domestic,4,-,4,-,"Good cleaning but kept ""a""; Good prediction"
+schoolmaster and teacher of music,5,-,5,4,"Perfect multi-occupation handling; Raw excellent, finetune good"
+retired surveyor of taxes,5,-,3,2,"Perfect cleaning; Raw relevant, finetune poor"
+police inspector supernumerary,2,1,5,2,"Poor cleaning of unclear terms; LLM no improvement; Raw excellent, finetune poor"
+agricultural labourer,4,-,0,3,"Good cleaning ""horticultural¡úagricultural""; Raw no prediction, finetune relevant"
+farmer work on farm agricultural labourer,4,-,4,3,"Good cleaning; Raw good, finetune relevant"
+journeyman agricultural labourer,3,-,2,3,"Minor cleaning issue; Raw poor, finetune relevant"
+son,5,-,1,5,"Perfect cleaning; Raw poor, finetune excellent"
+musician,5,-,5,-,"Perfect cleaning ""muscian¡úmusician""; Perfect prediction"
+grocer hosiery framework knitter daughter,4,-,4,4,Good family relationship handling; Good predictions
+retired from business,2,1,2,-,"Poor cleaning of ""buisness""; LLM no improvement; Prediction poor"
+waggon maker ry,2,1,3,-,"Poor cleaning of ""ry""; LLM no improvement; Prediction relevant"
+formerly a domestic servant,4,-,4,-,Good cleaning; Good predictions
+retired seaman,5,-,4,2,"Perfect cleaning; Raw good, finetune poor"
+organist,5,-,1,-,Perfect cleaning; Poor prediction
+farmer of acres,5,-,5,5,Perfect cleaning; Excellent predictions
+income from land,5,-,4,-,Perfect cleaning; Good prediction
+twine spinners wife,5,-,3,-,Perfect family relationship handling; Prediction relevant
+labourer at paper miller,4,-,2,2,Good cleaning; Predictions poor
+stationer fancy dealer,5,-,2,4,"Perfect cleaning; Raw poor, finetune good"
+boy railway gate points,4,-,5,2,"Good cleaning; Raw excellent, finetune poor"
+master builder employs men,5,-,2,-,Perfect cleaning; Poor prediction
+manufacturer,3,-,3,4,"Minor cleaning issue; Raw relevant, finetune good"
+leather bag maker draper,5,-,4,1,"Perfect cleaning; Raw good, finetune poor"
+farmer acres,5,-,4,5,Perfect cleaning; Good to excellent predictions
+pork butcher employing men,5,-,5,-,Perfect cleaning; Perfect prediction
+laborer carriage cleaner,2,1,4,3,"Poor cleaning of ""ry""; LLM no improvement; Raw good, finetune relevant"
+engine stoker at a slate quarry,4,-,4,3,"Good cleaning but kept ""a""; Good to relevant predictions"
+rector of fittleton,2,1,5,4,"Poor cleaning of place name; LLM no improvement; Raw excellent, finetune good"
+operative cotton out of work,4,-,4,3,"Good cleaning; Raw good, finetune relevant"
+grain laborer corn dl,4,-,2,-,Good cleaning; Poor prediction
+assist to a linen draper,4,-,2,4,"Good cleaning but kept ""a""; Raw poor, finetune good"
+genlservtdomestic,1,1,3,-,Failed to separate compound word; LLM no improvement; Prediction relevant
+master plumber employing plumbers plumber labs,4,-,2,3,"Good cleaning; Raw poor, finetune relevant"
+clerk to bank,5,-,5,-,Perfect cleaning; Perfect prediction
+servant man inn,5,-,2,3,"Perfect cleaning; Raw poor, finetune relevant"
+employed at ry wagon works,4,-,0,2,"Good cleaning but kept ""ry""; Raw no prediction, finetune poor"
+servant farm dom,5,-,4,3,"Perfect cleaning; Raw good, finetune relevant"
+servant dom uneployed,2,1,4,-,"Poor cleaning of ""uneployed""; LLM no improvement; Good prediction"
+boy farmer of acres employg men,4,-,5,5,Good cleaning; Excellent predictions
+callenderman,1,1,2,2,Failed to fix unclear term; LLM no improvement; Predictions poor
+farmer rel officer reg of b d,4,-,4,3,"Good cleaning; Raw good, finetune relevant"
+labr plumbers,2,1,3,4,"Poor cleaning of ""labr""; LLM no improvement; Raw relevant, finetune good"
+copper agent,5,-,3,-,Perfect cleaning; Prediction relevant
+superintendent suffolk county police,2,1,4,-,"Poor cleaning of ""superintendant""; LLM no improvement; Good prediction"

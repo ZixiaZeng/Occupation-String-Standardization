@@ -1,0 +1,101 @@
+,County,Sex,Occode,final_result,Year,Occupation_String,standardized,confidence,rule_based_score
+832,WARWICKSHIRE,Male,173,farmer of acres employing labourer,1851,farmer of  acres employing  labourers,farmer of acres employing labourer,0.802821618,4
+970,YORKSHIRE WEST RIDING,Male,348,apprentice shipwright employing men,1851,shipwright employing  apprentice  men,apprentice shipwright employing men,0.856189571,4
+96,CORNWALL,Female,52,late schoolmistress,1851,late schoolmistress,late schoolmistress,0.9,5
+587,LONDON,Male,775,pensioner of the union fore office,1851,pensioner of the union fore office,pensioner of the union fore office,0.9,5
+450,LANCASHIRE,Male,714,formerly a beer seller,1851,formerly a beer seller,formerly a beer seller,0.54,3
+266,GLOUCESTERSHIRE,Female,492,assistant perfumers,1851,perfumers assistant,assistant perfumers,0.846243867,4
+290,HAMPSHIRE,Female,778,annuitant government,1851,annuitant goverment,annuitant goverment,0.54,3
+158,DEVON,Male,116,stationer,1851,autioneer,stationer,0.979078417,4
+668,NOTTINGHAMSHIRE,Male,795,shoemaker son,1851,shoemakers son,shoemaker son,0.747892885,4
+572,LONDON,Male,534,streatyper,1851,streatyper,streatyper,0.27,2
+70,CHESHIRE,Female,788,wheelwright wife,1851,wheelwright wife,wheelwright wife,0.9,5
+210,DURHAM,Male,425,apprentice plumber glazier,1851,apprentice plumber  glazier,apprentice plumber glazier,0.890010058,4
+76,CHESHIRE,Male,536,printer of calico,1851,printer of callico,printer of callico,0.54,3
+975,YORKSHIRE WEST RIDING,Male,438,cabinet maker employing men,1851,cabinet maker employing  men,cabinet maker employing men,0.890378342,4
+215,DURHAM,Male,663,shoe maker malter,1851,shoe maker malter,shoe maker malter,0.9,5
+634,NORFOLK,Male,14,county magistrate,1851,county magistrate,county magistrate,0.9,5
+479,LINCOLNSHIRE,Male,173,cotager acres,1851,cotager  acres,cotager acres,0.684534124,3
+423,LANCASHIRE,Male,262,spiker,1851,spiker,spiker,0.9,5
+552,LONDON,Male,119,clerk an city,1851,clerk an city,clerk an city,0.9,5
+314,HERTFORDSHIRE,Male,663,shoe maker journeyman,1851,shoe maker journn,shoe maker journn,0.54,3
+770,SUFFOLK,Male,791,child of general servant,1851,child of general servant,child of general servant,0.9,5
+247,GLAMORGANSHIRE,Female,94,gamekeeper,1851,gate keeper,gamekeeper,0.782024366,4
+221,ESSEX,Female,102,farm servant,1851,day servant,farm servant,0.672278143,4
+582,LONDON,Male,713,dinning room keeper,1851,dinning room keeper,dinning room keeper,0.9,5
+321,HERTFORDSHIRE,Male,765,late labourer,1851,pauper late labourer,late labourer,0.704793766,4
+355,KENT,Unknown,15,farm servant,1851,parish servant,farm servant,0.647128934,4
+581,LONDON,Male,692,apprentice confectioner,1851,apprentice to a confectioner,apprentice confectioner,0.809898829,4
+292,HAMPSHIRE,Male,19,retired railway officer,1851,retired military officer,retired railway officer,0.752878143,4
+538,LONDON,Male,20,sergeant colisteam guards,1851,sergeant colisteam guards,sergeant colisteam guards,0.54,3
+59,CARMARTHENSHIRE,Female,789,victualling wife,1851,vict wife,vict wife,0.54,3
+568,LONDON,Male,447,journeyman accoutrement maker,1851,journeyman accoutrement maker,journeyman accoutrement maker,0.9,5
+946,YORKSHIRE WEST RIDING,Female,248,work at lead works,1851,work at lead works,work at lead works,0.9,5
+168,DEVON,Male,561,pauper weaver wool,1851,weaver pauper wool,pauper weaver wool,0.866573009,4
+328,KENT,Male,84,gentlemans servant,1851,gentlemans servant,gentlemans servant,0.9,5
+713,SOMERSET,Male,653,tailor,1851,tailor j,tailor,0.850536321,4
+974,YORKSHIRE WEST RIDING,Male,432,labourer excavator c,1851,labourer excavator  c,labourer excavator c,0.690941875,3
+244,FLINTSHIRE,Male,414,mason journey man,1851,mason journey man,mason journey man,0.9,5
+823,WARWICKSHIRE,Female,765,hatter,1851,hatiner,hatter,0.899180837,4
+365,LANCASHIRE,Male,90,cordwainer,1851,gordiner,cordwainer,0.851787789,4
+547,LONDON,Male,90,postboy,1851,rostboy,postboy,0.978590625,4
+792,SURREY,Male,27,commissioner in the navy half pay,1851,commr r navy half pay,commr r navy half pay,0.54,3
+934,YORKSHIRE WEST RIDING,Female,788,designers wife,1851,designers wife,designers wife,0.9,5
+677,NOTTINGHAMSHIRE,Male,132,railway labourer,1851,railway labor,railway labourer,0.702991373,4
+544,LONDON,Male,52,hebrew leacher,1851,hebrew leacher,hebrew leacher,0.9,5
+602,MIDDLESEX,Female,791,sectons dress maker daughter,1851,sectons daughter assistant dress maker,sectons dress maker daughter,0.742245286,4
+880,YORKSHIRE EAST RIDING,Female,788,bricklayer wife,1851,bricklayer wife,bricklayer wife,0.9,5
+23,BERKSHIRE,Male,348,shipwright,1851,shipwright,shipwright,0.9,5
+30,BRECKNOCKSHIRE,Male,787,registrar scholar,1851,registrar scholar,registrar scholar,0.9,5
+309,HEREFORDSHIRE,Male,177,farm bailiff,1851,farm baliff,farm bailiff,0.929239299,4
+10,BEDFORDSHIRE,Male,796,pauper inmate miller,1851,pauper inmate miller,pauper inmate miller,0.9,5
+801,SUSSEX,Female,789,labourer farmer wife,1851,lab farmers wife,labourer farmer wife,0.577544163,4
+633,NORFOLK,Female,482,retired druggist,1851,retired druggist,retired druggist,0.9,5
+332,KENT,Female,691,baker employing men,1851,baker employg  men,baker employg men,0.688146647,3
+464,LEICESTERSHIRE,Male,139,servant groom,1851,servent groom,servant groom,0.903506473,4
+422,LANCASHIRE,Male,259,laborer iron foundry,1851,laborer iron foundry,laborer iron foundry,0.9,5
+265,GLOUCESTERSHIRE,Female,45,raily guards wife,1851,raily guards wife,raily guards wife,0.54,3
+198,DURHAM,Female,52,late schoolmistress,1851,late school mistress,late schoolmistress,0.690925625,4
+522,LONDON,Female,529,warehouseman stationer,1851,warehouseman stationer,warehouseman stationer,0.9,5
+493,LONDON,Female,52,assistant teacher,1851,assistant teacher,assistant teacher,0.9,5
+388,LANCASHIRE,Female,421,hand a to house,1851,a hand to house,hand a to house,0.888660702,4
+533,LONDON,Male,6,customs tidewaiter,1851,customs tidewaiter,customs tidewaiter,0.9,5
+657,NORTHUMBERLAND,Male,177,farm of sand,1851,farm of sand,farm of sand,0.9,5
+863,WORCESTERSHIRE,Male,242,shingler,1851,shingler,shingler,0.9,5
+718,SOMERSET,Male,791,carman son,1851,chairmans son,carman son,0.681057191,4
+835,WARWICKSHIRE,Male,267,brass hole finisher,1851,brass hole finisher,brass hole finisher,0.9,5
+456,LEICESTERSHIRE,Female,778,proprietor of houses,1851,proprietor of houses,proprietor of houses,0.9,5
+289,HAMPSHIRE,Male,659,needlewoman,1851,needlewoman,needlewoman,0.9,5
+904,YORKSHIRE NORTH RIDING,Male,181,farm laborer,1851,farm lanourer,farm laborer,0.852062851,4
+381,LANCASHIRE,Female,37,parish reline,1851,parish reline,parish reline,0.9,5
+344,KENT,Male,405,builder emery men,1851,builder emry  men,builder emry men,0.687411554,3
+425,LANCASHIRE,Male,330,boatman maker iron,1851,boat maker iron,boatman maker iron,0.771643571,4
+750,STAFFORDSHIRE,Female,181,house servant,1851,farmers house servant,house servant,0.620081931,4
+39,CAMBRIDGESHIRE,Female,772,daugt,1851,daugt,daugt,0.27,2
+605,MONMOUTHSHIRE,Male,207,iron miner,1851,iorn miner,iron miner,0.937637974,4
+649,NORTHUMBERLAND,Female,84,childs maid,1851,childs maid,childs maid,0.9,5
+596,MERIONETHSHIRE,Female,181,agricultural labourer,1851,agricultural labourer,agricultural labourer,0.9,5
+66,CARNARVONSHIRE,Female,713,inn keeper crown,1851,inn keeper crown,inn keeper crown,0.9,5
+296,HAMPSHIRE,Male,84,servant of a plan,1851,servant a plan,servant a plan,0.54,3
+67,CARNARVONSHIRE,Female,789,formerly ag labs wife,1851,pauper formerly ag labs wife,formerly ag labs wife,0.766172327,4
+235,ESSEX,Male,421,journeyman painter,1851,journ painter,journ painter,0.54,3
+430,LANCASHIRE,Male,428,back tenting for preaching,1851,back tenting for prcating,back tenting for prcating,0.54,3
+199,DURHAM,Female,76,junior teacher of english,1851,junior teacher of english,junior teacher of english,0.9,5
+892,YORKSHIRE EAST RIDING,Male,246,worker tinman plate glaifen glazier,1851,tin plate worker  glaifen glaz,worker tinman plate glaifen glazier,0.776329124,4
+323,ISLANDS IN THE BRITISH SEAS,Male,66,land surveyor,1851,land surveyor,land surveyor,0.9,5
+807,SUSSEX,Male,181,pauper agricultural labourer,1851,pauper agricultural labourer,pauper agricultural labourer,0.9,5
+310,HEREFORDSHIRE,Female,84,servant housekeeper,1851,servant housekeeper,servant housekeeper,0.9,5
+260,GLOUCESTERSHIRE,Female,697,grocer daughter,1851,grocer dau,grocer daughter,0.741406986,4
+621,MONTGOMERYSHIRE,Male,173,late poper farmer,1851,poper late farmer,late poper farmer,0.873265488,4
+670,NOTTINGHAMSHIRE,Male,613,retired teacher,1851,retired bleacher,retired teacher,0.690736932,4
+88,CORNWALL,Female,659,seamstress,1851,seemstress,seamstress,1,4
+63,CARMARTHENSHIRE,Male,797,pauper farm laborer,1851,pauper lat laborer,pauper farm laborer,0.738697747,4
+822,WARWICKSHIRE,Female,686,miller,1851,mill,miller,0.664582691,4
+943,YORKSHIRE WEST RIDING,Female,84,formerly general servant,1851,formerly general servant,formerly general servant,0.9,5
+598,MERIONETHSHIRE,Female,181,pauper formerly farm servant,1851,pauper formerly farm serv,pauper formerly farm servant,0.789724188,4
+895,YORKSHIRE EAST RIDING,Male,421,journeyman painter glazier,1851,journeyman painter  glazier,journeyman painter glazier,0.890010058,4
+280,HAMPSHIRE,Female,788,coachman wife,1851,coachman wife,coachman wife,0.9,5
+554,LONDON,Male,158,receiving parish relief formerly in marine service,1851,receiving parish releif formerly in marine servic,receiving parish releif formerly in marine servic,0.54,3
+784,SUFFOLK,Male,447,basket maker,1851,basket maker joun,basket maker joun,0.54,3
+966,YORKSHIRE WEST RIDING,Male,173,farmer of acres employing labourer,1851,farmer of  acres employing  labourer,farmer of acres employing labourer,0.884759975,4
+107,CORNWALL,Male,181,hatter,1851,hay cutter,hatter,0.611695818,4
